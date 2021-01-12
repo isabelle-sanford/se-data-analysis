@@ -15,11 +15,60 @@ function drawPiePlot(values, labels, colors, div, title) {
     Plotly.newPlot(div, data, layout);
 };
 
+// horizontal bar chart
+function drawBarPlot(x_value, y_value, div) {
+    let data_plot = [{
+      x: x_value,
+      y: y_value,
+      type: 'bar' //,
+    //   text: labels
+    }];
+
+    let layout = {
+      title: "# of Players Joining Over Time",
+      xaxis: {title: "Game"},
+      yaxis: {title: "# of players joined"}
+    };
+
+    Plotly.newPlot(div, data_plot, layout);
+};
+
+function drawLine(x_value, y_value, div) {
+    var data = [{
+        x: x_value,
+        y: y_value,
+        mode: 'markers', 
+        type:'scatter'
+    }];
+
+    let layout = {
+        title: "# of Players Joining Over Time",
+        xaxis: {title: "Game"},
+        yaxis: {title: "# of players joined"}
+      };
+
+    Plotly.newPlot(div, data, layout);
+}
+
+// count uniques
+function value_counts(myList, uniques) {
+    uniques = uniques || [... new Set(myList)];
+
+    outputVals = [];
+    uniques.forEach(u => {
+        let curr = myList.filter(m => m === u).length;
+        outputVals.push(curr);
+    })
+
+    return [uniques, outputVals];
+
+}
+
 function init() {
     d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/playerdata.json').then(function(data) {
 
 
-    // ALIGNMENT PIE
+    // ALIGNMENT PIE - refactor for value_counts
         var alignment_list = data.map(d => d.alignment);
         var unique_aligns = ["G", 'E', 'M', 'N', 'F', 'S', 'T', 'B', 'D', 'C'];
         var align_labels = ['Good', 'Evil', 'SK', 'Neutral', 'Faction', 'Other Evil']
@@ -28,7 +77,7 @@ function init() {
         var align_cts = []
 
         unique_aligns.forEach(a => {
-            var currcount = alignment_list.filter(p => p === a).length
+            var currcount = alignment_list.filter(p => p === a).length;
             align_cts.push(currcount);
 
         })
@@ -44,7 +93,7 @@ function init() {
 
         drawPiePlot(align_cts, align_labels, align_colors, 'alignment-pie', 'Alignment Breakdown');
 
-    // SURVIVAL PIE
+    // SURVIVAL PIE - refactor w value_counts
         var survival_list = data.map(d => d.death);
         var unique_deaths = ['S', 'E', 'L', 'V', 'F', 'M', 'N', 'I', 'O', 'D'];
         var death_labels = ['Survived', 'Elim-killed', 'Voted out', 'Friendly fire', 'SK', 'Neutral', 'Dropped'];
@@ -66,8 +115,49 @@ function init() {
 
         drawPiePlot(death_cts, death_labels, death_colors, 'survival-pie', 'Survival Breakdown');
 
+    // JOINING TIME BAR
+        var player_list = [... new Set(data.map(d => d.player_id))];
+        console.log(`num players: ${player_list.length}, data len: ${data.length}`)
+        var joined_list = data.map(d => [d.player_id, d.game_id]);
+
+        start_game = [];
+        for (let i=0; i < player_list.length; i++) {
+            let found = false;
+            let curr_player = player_list[i];
+
+            let j = 0
+            while (!found) {
+                if (joined_list[j][0] == curr_player) {
+                    start_game.push(joined_list[j][1]);
+                    found = true;
+                } else if (j > data.length) {
+                    console.log("BROKEN");
+                    break;
+                } else { 
+                    j++;
+                };
+
+            }
+
+        }
+
+        console.log(`start game length: ${start_game.length}`);
+
+        var xy = value_counts(start_game);
+        var bar_x = xy[0];
+        var bar_y = xy[1];
+
+        // var game_ids = [... new Set(data.map(d => d.game_id))];
+        // var game_names = [... new Set(data.map(d => d.game_str))];
+        // drawHist(start_game, 'join-game-bar');
+        drawLine(bar_x, bar_y, 'join-game-bar');
+
+
+        
 
     });
+
+
 
 };
 
