@@ -70,12 +70,22 @@
           </div>
           <div id="sample-metadata" class="panel-body">
             <h5>Format:</h5>
-            <select id="selDataset" onchange="optionChanged(this.value)">
+            <select id="selDataset" onchange="filterFormat(this.value)">
                 <option>LGs & AGs</option>
                 <option>MR</option>
                 <option>QF</option>
                 <option>AGs</option>
             </select>
+
+            <h5>Type:</h5>
+            <select id="selDataset" onchange="filterType(this.value)">
+                <option>Simple</option>
+                <option>Standard</option>
+                <option>Complex</option>
+                <option>Too Much</option>
+            </select>
+
+            <h5>other filters here</h5>
           </div>
 
 
@@ -101,7 +111,7 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="static/js/app.js"></script>
+  <script src="./static/js/app.js"></script>
   
 </body>
 
