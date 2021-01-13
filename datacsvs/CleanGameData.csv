@@ -1,0 +1,176 @@
+,Game,# of Players,Total Rank,# of Spectators,Rank,# of E. Kills,# of Neutral Evil Kils,# of V. Kills,# of Lynches,# of FF Deaths,# of Neutral Deaths,# of Inactive Deaths,# of Deaths,Rank,# of Eliminators,Eliminator Percentage,Eliminators Lynched,Eliminators Vig'd,Thread Reply Count,Thread Reply Rank,Setting,Game Complexity,# of Cycles,Winning Team,# of Survivors,Total Rank,Survivors
+1,LG1,16,86,3,121,5,0,1,4,0,0,0,10,121,4,#REF!,0,1,462,79,Cosmere,Basic,4,Eliminator,6,86,Claincy
+2,LG2,29,49,2,5,14,0,2,7,2,0,0,25,5,5,17.24%,1,2,"1,232",11,Cosmere,Standard,11,Eliminator,4,49,Aether
+3,LG3,22,112,5,67,3,0,1,7,3,0,0,14,67,5,22.73%,4,1,739,41,Cosmere,Basic,7,Village,8,112,Meta
+4,LG4,30,123,1,23,4,0,4,8,4,1,0,21,23,6,20.00%,2,4,"1,029",22,Cosmere,Standard,9,Village,9,123,Mailliw73
+5,QF1,12,86,11,149,3,0,0,3,0,0,0,6,149,3,25.00%,0,0,118,141,Cosmere,Basic,4,Eliminator,6,86,Claincy
+6,LG5,20,86,2,67,4,0,2,7,1,0,0,14,67,4,20.00%,2,2,617,54,Cosmere,Standard,7,Village,6,86,Meta
+7,MR1,27,86,4,23,0,0,0,5,4,12,0,21,23,0,---,0,0,384,97,Cosmere,Faction/Free For All,7,Faction,6,86,Gamma
+8,LG6,25,49,5,23,11,0,0,8,2,0,0,21,23,5,20.00%,4,0,503,73,Wheel of Time,Semi Standard,8,Village,4,49,little wilson
+9,QF2,15,66,9,121,7,0,0,3,0,0,0,10,121,3,20.00%,0,0,361,102,Cosmere,Standard,10,Eliminator,5,66,Herowannabe
+10,LG7,21,123,4,96,5,0,1,5,1,0,0,12,96,4,19.05%,3,1,657,48,Cosmere,Semi Standard,6,Village,9,123,Meta
+11,MR2,18,158,2,153,0,0,0,4,0,0,0,4,153,4,22.22%,4,0,355,105,Cosmere,Standard,5,Village,14,158,Mailliw73
+12,LG8,20,66,5,56,9,0,0,5,1,0,0,15,56,3,15.00%,0,0,451,82,Cosmere,Complex,10,Eliminator,5,66,Alvron
+13,QF3,14,49,4,121,4,0,1,5,0,0,0,10,121,3,21.43%,2,1,201,136,Cosmere,Standard,5,Village,4,49,Mailliw73
+14,MR3,15,66,4,121,6,0,0,4,0,0,0,10,121,4,26.67%,1,0,226,130,Non Cosmere,Standard,6,Eliminator,5,66,Alvron
+15,LG9,15,37,5,96,3,1,1,6,1,0,0,12,96,3,20.00%,1,1,343,109,Non Cosmere,Standard,6,Eliminator,3,37,Gamma
+16,QF4,14,86,4,140,4,0,0,4,0,0,0,8,140,4,28.57%,1,0,210,134,Cosmere,Standard,5,Eliminator,6,86,Alvron
+17,MR4,20,112,2,96,3,0,3,4,1,0,1,12,96,6,30.00%,2,3,711,44,Cosmere,Semi Standard,7,Village,8,112,Alvron
+18,QF5,21,11,6,28,0,0,0,0,0,20,0,20,28,0,---,0,0,221,132,Non Sanderson,Faction/Free For All,6,Free For All,1,11,Dominic
+19,AG1,28,132,6,34,9,0,0,6,3,0,0,18,34,5,17.86%,1,0,825,36,Cosmere,Basic,9,Eliminator,10,132,Mailliw73
+20,LG10,29,145,8,40,7,0,3,7,0,0,0,17,40,6,20.69%,3,3,"1,049",20,Cosmere,Complex,10,Village,12,145,Meta
+21,QF6,20,141,17,134,3,0,0,6,0,0,0,9,134,4,20.00%,4,0,239,127,Non Cosmere,Standard,7,Village,11,141,Meta
+22,MR5,29,11,9,2,0,0,0,7,0,17,4,28,2,0,---,0,0,530,64,Sanderson Misc,Faction/Free For All,12,Faction,1,11,Gamma
+23,LG11,32,158,8,34,8,0,0,6,4,0,0,18,34,5,15.63%,5,0,651,50,Cosmere,Complex,8,Village,14,158,Meta
+24,QF7,17,20,22,56,6,0,1,5,3,0,0,15,56,4,23.53%,1,1,339,110,Cosmere,Standard,5,Eliminator,2,20,Feligon
+25,MR6,27,104,19,28,14,0,1,2,1,0,2,20,28,6,22.22%,0,1,395,91,Cosmere,Semi Standard,6,Eliminator,7,104,Gamma
+26,LG12,36,132,4,5,3,0,5,9,3,2,3,25,5,8,22.22%,3,5,"1,301",8,Cosmere,Complex,9,Village,10,132,Meta
+27,QF8,22,11,22,23,6,0,1,12,2,0,0,21,23,4,18.18%,3,1,529,65,Cosmere,Standard,11,Village,1,11,Clanky
+28,MR7,27,132,18,153,0,0,0,1,0,3,0,4,153,4,14.81%,1,0,665,47,Cosmere,Faction/Free For All,12?,Village,10,132,A Joe in the Bush
+29,LG13,27,132,13,40,5,0,2,6,4,0,0,17,40,5,18.52%,3,2,607,55,Cosmere,Standard,8,Village,10,132,Mailliw73
+30,QF9,19,86,18,82,6,0,0,6,0,1,0,13,82,4,21.05%,1,0,271,122,Cosmere,Standard,6,Eliminator,6,86,Wyrmhero
+31,MR8,29,66,11,10,11,0,1,8,3,0,1,24,10,5,17.24%,1,1,976,25,Cosmere,Standard,13,Eliminator,5,66,TheSilverDragon
+32,LG14,28,37,18,5,6,0,1,12,5,0,1,25,5,6,21.43%,5,1,"1,250",10,Cosmere,Semi Standard,15,Village,3,37,Mailliw73
+33,QF10,21,49,21,40,9,0,0,8,0,0,0,17,40,4,19.05%,2,0,645,51,Cosmere,Standard,11,Eliminator,4,49,Alvron
+34,MR9,27,66,15,17,7,0,2,10,2,0,1,22,17,7,25.93%,4,2,821,37,Cosmere,Standard,11,Village,5,66,Phattemer
+35,LG15.1,26,167,16,162,0,0,0,0,0,0,0,0,162,6,23.08%,0,0,209,135,Cosmere,Standard,1,Eliminator,26,167,Mailliw73
+36,LG15.2,32,112,9,10,6,0,3,10,5,0,0,24,10,7,21.88%,3,3,"1,484",4,Cosmere,Standard,10,Village,8,112,Clanky
+37,QF11,17,66,20,96,5,0,0,2,0,0,5,12,96,3,17.65%,0,0,285,120,Cosmere,Standard,7,Eliminator,5,66,Meta
+38,MR10,36,123,8,4,14,0,1,7,5,0,0,27,4,8,22.22%,0,1,937,29,Cosmere,Semi Standard,11,Eliminator,9,123,Aonar
+39,AG2,28,132,18,34,11,0,0,6,0,0,1,18,34,5,17.86%,1,0,869,32,Cosmere,Basic,11,Eliminator,10,132,Weiry
+40,QF12,19,86,22,82,4,1,1,4,1,2,0,13,82,4,21.05%,1,0,366,101,Non Cosmere,NA,6,Eliminator,6,86,Kipper
+41,LG16,19,20,18,40,5,1,0,7,3,0,1,17,40,4,21.05%,3,0,529,65,Non Cosmere,Standard,8,Village,2,20,Twei
+42,MR11,18,86,19,96,4,0,0,6,0,2,0,12,96,4,22.22%,0,0,493,75,Cosmere,Complex,6,Eliminator,6,86,Clanky
+43,LG17,21,49,13,40,7,0,1,5,0,0,4,17,40,4,19.05%,3,1,581,58,Cosmere,Semi Standard,9,Village,4,49,Clanky
+44,QF13,17,86,18,110,4,0,2,4,0,0,1,11,110,4,23.53%,2,2,311,116,Non Sanderson,Standard,5,Village,6,86,Sart
+45,LG18,24,112,17,82,0,0,4,0,2,7,0,13,82,4,16.67%,0,4,"1,161",14,Non Sanderson,Complex,7,Village,8,112,A Joe in the Bush
+46,MR12,26,145,14,67,2,0,2,4,0,4,2,14,67,6,23.08%,2,2,793,38,Non Cosmere,Semi Standard,6,Faction,12,145,Alvron
+47,LG19,17,37,21,67,6,0,4,4,0,0,0,14,67,8,47.06%,4,3,624,53,Cosmere,Complex,8,Eliminator,3,37,Araris Valerian
+48,QF14,23,1,15,14,2,0,3,0,5,13,0,23,14,5,21.74%,0,3,687,45,Cosmere,Semi Standard,12,Draw,0,1,NA
+49,MR13,19,104,16,96,7,0,0,3,1,0,1,12,96,4,21.05%,0,0,278,121,Cosmere,Standard,5,Eliminator,7,104,A Joe in the Bush
+50,LG20,28,66,10,14,6,0,2,7,5,2,1,23,14,5,17.86%,2,2,"1,130",15,Cosmere,Standard,12,Village,5,66,Macen
+51,QF15,22,86,16,51,7,0,0,6,0,3,0,16,51,7,31.82%,1,0,652,49,Non Sanderson,Semi Standard,7,Eliminator,6,86,Haelbarde
+52,LG21,27,153,13,82,3,3,0,2,1,4,0,13,82,5,18.52%,0,0,"1,044",21,Cosmere,Complex,6,Eliminator,13,153,Mailliw73
+53,MR14,18,104,16,110,3,0,2,4,1,0,1,11,110,4,22.22%,2,2,554,60,Non Sanderson,Semi Standard,5,Village,7,104,Mailliw73
+54,LG22,28,37,10,10,7,0,1,11,2,1,2,24,10,10,35.71%,7,1,"1,768",1,Wheel of Time,Semi Standard,11,Village,3,37,Meta
+55,QF16,17,20,22,56,5,0,2,7,1,0,0,15,56,4,23.53%,2,2,355,105,Cosmere,NA,9,Village,2,20,Mailliw73
+56,LG23,27,66,10,17,5,0,1,9,0,7,0,22,17,5,18.52%,1,1,972,26,Cosmere,Semi Standard,9,Eliminator,5,66,Alvron
+57,MR15,19,112,15,121,2,1,0,6,1,0,0,10,121,8,42.11%,4,0,727,43,Cosmere,Semi Standard,6,Village,8,112,Eolhondras
+58,LG24,28,49,1,10,7,2,0,9,1,3,2,24,10,10,35.71%,4,0,"1,559",3,Cosmere,Complex,9,Eliminator,4,49,Alvron
+59,QF17,25,1,1,5,0,0,0,7,0,18,0,25,5,0,---,0,0,430,87,Non Sanderson,Faction/Free For All,10,Free For All,0,1,NA
+60,LG25,24,123,1,56,7,0,0,6,0,2,0,15,56,7,29.17%,2,0,473,76,Cosmere,Standard,6,Eliminator,9,123,Meta
+61,MR16,22,20,0,28,0,0,0,6,0,11,3,20,28,0,---,0,0,537,63,Cosmere,Faction/Free For All,10,Faction,2,20,Nyali
+62,LG26,35,165,0,40,3,0,0,6,0,6,2,17,40,10,28.57%,4,0,"1,344",7,Cosmere,Complex,9,Misc,18,165,Sart
+63,QF18,15,20,2,82,5,0,1,6,0,0,1,13,82,4,26.67%,3,1,323,114,Non Sanderson,Semi Standard,7,Village,2,20,daniyah
+64,MR17,21,49,0,51,3,5,1,5,0,1,1,16,51,7,33.33%,2,1,589,56,Non Sanderson,Semi Standard,8,Eliminator,4,49,AliasSheep
+65,LG27,22,112,2,67,0,0,0,6,0,8,0,14,67,0,---,0,0,392,93,Non Sanderson,Complex,7,Faction,8,112,Araris Valerian
+66,QF19,24,20,2,17,6,0,1,7,3,1,4,22,17,6,25.00%,4,1,464,78,Cosmere,Standard,7,Village,2,20,Ecthelion
+67,LG28,34,145,5,17,9,0,0,10,3,0,0,22,17,6,17.65%,4,0,980,24,Cosmere,Complex,11,Village,12,145,Araris Valerian
+68,MR18,19,49,3,56,6,0,0,7,0,0,2,15,56,5,26.32%,1,0,357,104,Cosmere,Basic,7,Eliminator,4,49,Wonko the Sane
+69,QF20,23,20,4,23,8,0,0,8,0,0,5,21,23,4,17.39%,2,0,434,84,Non Sanderson,Standard,8,Eliminator,2,20,Nyali
+70,LG29,29,160,3,67,2,4,0,6,0,2,0,14,67,8,27.59%,1,0,984,23,Cosmere,Complex,8,Eliminator,15,160,Aonar
+71,MR19,20,145,1,140,2,0,0,3,1,2,0,8,140,4,20.00%,0,0,329,112,Cosmere,Semi Standard,3,Misc,12,145,A Joe in the Bush
+72,AG3,34,123,2,5,14,0,0,11,0,0,0,25,5,6,17.65%,2,0,"1,403",5,Cosmere,Basic,15,Eliminator,9,123,little wilson
+73,QF21,16,66,2,110,0,0,0,8,0,0,3,11,110,3,18.75%,2,0,124,140,Non Sanderson,Standard,8,Village,5,66,Amanuensis
+74,LG30,22,123,2,140,7,0,0,1,0,0,0,8,140,5,22.73%,0,0,958,28,Cosmere,NA,9,Eliminator,9,123,Alvron
+75,MR20,21,11,1,28,10,0,0,9,1,0,0,20,28,1,4.76%,0,0,360,103,Cosmere,Basic,10,Eliminator,1,11,Magestar
+76,LG31,17,112,3,134,3,0,2,2,1,1,0,9,134,3,17.65%,0,2,313,115,NA,NA,2,Village,8,112,Orlok Tsubodai
+77,QF22,22,145,3,121,6,0,0,4,0,0,0,10,121,6,27.27%,0,0,246,126,NA,NA,3,Eliminator,12,145,Phattemer
+78,LG32,30,153,2,40,5,0,1,8,2,0,1,17,40,5,16.67%,3,1,962,27,Cosmere,Standard,11,Village,13,153,little wilson
+79,MR21,18,104,1,110,6,0,0,5,0,0,0,11,110,5,27.78%,1,0,368,100,Non Cosmere,Standard,5,Eliminator,7,104,A Joe in the Bush
+80,LG33,27,86,1,56,2,0,3,0,3,7,0,15,56,6,22.22%,0,3,"1,286",9,Non Sanderson,Complex,10,Village,6,86,A Joe in the Bush
+81,QF23,20,20,1,34,4,0,3,7,4,0,0,18,34,5,25.00%,1,3,395,91,Non Cosmere,Standard,6,Eliminator,2,20,Orlok Tsubodai
+82,MR22,20,66,2,56,7,0,0,8,0,0,0,15,56,5,25.00%,4,0,628,52,Non Sanderson,Standard,9,Draw,5,66,Quiver
+83,LG34,21,66,0,51,5,0,1,9,0,1,0,16,51,4,19.05%,3,1,848,34,Cosmere,NA,9,Village,5,66,Araris Valerian
+84,QF24,17,104,1,121,3,0,1,5,1,0,0,10,121,3,17.65%,2,1,433,85,Non Cosmere,NA,6,Village,7,104,Seonid
+85,LG35,28,153,1,56,6,0,0,8,1,0,0,15,56,4,14.29%,1,0,"1,742",2,Cosmere,Semi Standard,8,Eliminator,13,153,little wilson
+86,MR23,22,112,0,67,0,0,0,6,0,8,0,14,67,0,---,0,0,735,42,Cosmere,Semi Standard,9,Village,8,112,Alvron
+87,LG36,21,123,1,96,4,0,2,4,0,2,0,12,96,4,19.05%,1,2,685,46,Cosmere,Complex,8,Village,9,123,Alvron
+88,QF25,24,49,7,28,13,0,0,6,0,0,1,20,28,2,8.33%,1,0,835,35,Cosmere,Basic,7,Eliminator,4,49,Orlok Tsubodai
+89,LG37,34,11,7,162,0,0,0,0,0,0,0,0,162,6,17.65%,0,0,"1,108",17,Non Sanderson,Complex,5,Misc,1,11,Elbereth
+90,MR24,26,112,5,40,6,1,0,8,0,2,0,17,40,8,30.77%,4,0,883,31,Non Cosmere,NA,8,Misc,8,112,Bridge Boy/Elithanathile
+91,LG38,32,168,2,153,0,0,0,1,0,3,0,4,153,0,---,0,0,780,39,Cosmere,NA,5,No One,27,168,little wilson
+92,QF26,31,163,0,56,0,0,0,6,0,9,0,15,56,0,---,0,0,522,69,Cosmere,NA,16,Village,16,163,Seonid
+93,QF27,20,104,1,82,4,0,0,6,0,0,3,13,82,4,20.00%,0,0,336,111,Non Sanderson,NA,6,Eliminator,7,104,Alvron
+94,LG39,25,132,1,67,7,0,0,7,0,0,0,14,67,4,16.00%,2,0,562,59,Cosmere,NA,10,Eliminator,10,132,little wilson
+95,MR25,20,20,10,34,7,0,1,7,1,0,2,18,34,4,20.00%,2,1,433,85,Cosmere,NA,9,Eliminator,2,20,Arinian
+96,LG40,27,49,10,121,0,0,2,8,0,0,0,10,121,5,18.52%,3,2,550,61,Cosmere,Faction/Free For All,8,Faction,4,49,Young Bard
+97,QF28,23,141,13,96,6,0,0,6,0,0,0,12,96,3,13.04%,0,0,233,128,NA,NA,7,Misc,11,141,A Joe in the Bush
+98,MR26,16,86,13,121,3,0,2,5,0,0,0,10,121,3,18.75%,1,2,351,108,Cosmere,NA,6,Village,6,86,Alvron
+99,LG41,17,20,16,67,4,4,0,6,0,0,0,14,67,3,17.65%,2,0,410,89,Cosmere,NA,5,Faction,2,20,Straw
+100,AG4,37,49,9,1,13,0,0,10,3,0,7,33,1,5,13.51%,3,0,"1,054",19,Cosmere,Basic,12,Eliminator,4,49,Kynedath
+101,QF29,16,37,20,82,6,0,0,3,0,0,4,13,82,3,18.75%,0,0,175,139,Cosmere,NA,4,Eliminator,3,37,Alvron
+102,MR27,17,49,18,82,5,0,1,6,0,0,1,13,82,4,23.53%,3,1,388,96,Non Cosmere,NA,6,Village,4,49,Jondesu
+103,LG42,20,37,14,40,0,0,0,3,0,14,0,17,40,0,---,0,0,352,107,Cosmere,Faction/Free For All,8,Free For All,3,37,Orlok Tsubodai
+104,QF30,17,37,15,67,3,0,0,8,0,0,3,14,67,4,23.53%,2,0,520,70,Cosmere,NA,8,Eliminator,3,37,Ecthelion
+105,LG43,25,164,8,151,1,1,1,2,0,0,0,5,151,6,24.00%,0,1,"1,385",6,Cosmere,NA,5,Misc,17,164,A Joe in the Bush
+106,MR28,19,37,12,134,5,0,0,4,0,0,0,9,134,7,36.84%,1,0,443,83,Cosmere,NA,6,Faction,3,37,Orlok Tsubodai
+107,LG44,29,153,6,56,4,0,0,8,0,0,3,15,56,7,24.14%,6,0,"1,185",13,Cosmere,NA,8,Village,13,153,little wilson
+108,LG45,22,1,6,162,0,0,0,0,0,0,0,0,162,0,---,0,0,268,123,Non Cosmere,NA,7,Village,0,1,NA
+109,QF31,12,1,3,153,2,0,0,2,0,0,0,4,153,3,25.00%,0,0,509,71,Cosmere,Faction/Free For All,8,Faction,0,1,NA
+110,MR29,20,145,4,140,2,0,0,4,0,0,2,8,140,4,20.00%,2,0,406,90,Non Sanderson,NA,5,Village,12,145,Eternum
+111,LG46,27,66,8,17,9,0,0,10,1,0,2,22,17,6,22.22%,3,0,862,33,Non Sanderson,NA,10,Eliminator,5,66,Walin
+112,QF32,15,66,4,121,3,0,2,4,0,0,1,10,121,3,20.00%,1,2,305,117,Cosmere,Basic,5,Village,5,66,Arraenae
+113,LG47,16,49,1,96,7,0,0,2,2,0,1,12,96,4,25.00%,2,0,266,124,Non Cosmere,NA,6,Eliminator,4,49,I think I am here.
+114,MR30,14,66,8,134,0,4,0,5,0,0,0,9,134,0,---,0,0,503,73,Cosmere,NA,6,Village,5,66,_Stick_
+115,LG48,19,86,4,82,4,0,2,5,1,1,0,13,82,4,21.05%,2,2,378,99,NA,NA,NA,NA,6,86,Bort
+116,QF33.1,19,1,0,162,0,0,0,0,0,0,0,0,162,2,10.53%,0,0,392,99,NA,NA,NA,NA,0,1,NA
+117,QF33.2,19,1,0,162,0,0,0,0,0,0,0,0,162,3,15.79%,0,0,392,93,NA,NA,NA,NA,0,1,NA
+118,LG49,25,132,1,56,0,0,0,0,0,15,0,15,56,0,---,0,0,1062,93,Cosmere,Faction/Free For All,12,Misc,10,132,Herowannabe
+119,MR31,22,141,0,110,1,0,0,5,5,0,0,11,110,6,27.27%,2,0,454,81,Cosmere,NA,7,Eliminator,11,141,xxGaea
+120,QF34,17,66,0,110,4,0,0,6,1,0,0,11,110,4,23.53%,0,0,177,138,Non Cosmere,NA,NA,NA,5,66,Mr. Doctor
+121,LG50,22,112,3,67,4,0,1,6,1,0,2,14,67,5,22.73%,3,1,426,88,Cosmere,Standard,NA,Village,8,112,xinoehp512
+122,MR32,20,112,1,110,6,0,0,5,0,0,0,11,110,4,20.00%,1,0,583,57,Wheel of Time,Complex,NA,Eliminator,8,112,Steeldancer
+123,LG51,19,37,3,51,5,0,0,7,0,0,4,16,51,3,15.79%,1,0,458,80,Cosmere,Standard,NA,Eliminator,3,37,Mailliw73
+124,QF35,21,20,0,34,0,0,0,0,0,18,0,18,34,0,---,0,0,288,118,Non Cosmere,NA,NA,NA,2,20,A Joe in the Bush
+125,AG5,30,165,8,96,0,0,0,5,0,7,0,12,96,0,---,0,0,"1,226",12,Cosmere,NA,NA,Faction,18,165,Lumgol
+126,MR33,14,86,2,140,2,3,0,3,0,0,0,8,140,3,21.43%,2,0,185,137,NA,NA,NA,NA,6,86,Roadwalker
+127,LG52,18,86,0,96,6,0,0,6,0,0,0,12,96,5,27.78%,2,0,472,77,Cosmere,Semi Standard,NA,Eliminator,6,86,I think I am here.
+128,QF36,15,160,1,162,0,0,0,0,0,0,0,0,162,0,---,0,0,222,131,NA,NA,NA,NA,15,160,Lumgol
+129,LG53,24,1,0,96,5,0,1,6,0,0,0,12,96,5,20.83%,4,1,"1,116",16,NA,NA,NA,NA,0,1,NA
+130,MR34,13,11,0,96,4,0,0,8,0,0,0,12,96,3,23.08%,3,0,220,133,NA,NA,NA,NA,1,11,Steeldancer
+131,LG54,17,86,3,110,7,0,0,4,0,0,0,11,110,5,29.41%,0,0,528,16,NA,NA,NA,NA,6,86,Furamirionind
+132,QF37,14,37,2,110,4,0,0,7,0,0,0,11,110,3,21.43%,3,0,258,125,NA,NA,NA,NA,3,37,Cadmium Compounder
+133,LG55,21,66,1,51,5,3,0,8,0,0,0,16,51,4,19.05%,3,0,918,129,Cosmere,Basic,NA,Village,5,66,Snipexe
+134,MR35,17,37,3,67,3,0,0,7,0,4,0,14,67,4,23.53%,3,0,541,62,NA,NA,NA,NA,3,37,Elandera
+135,LG56,17,49,3,82,4,2,0,6,0,0,1,13,82,4,23.53%,0,0,525,68,NA,NA,NA,NA,4,49,Lumgol
+136,QF38,20,145,5,140,0,0,4,1,2,1,0,8,140,14,70.00%,1,4,382,98,NA,NA,NA,NA,12,145,Elandera
+137,LG57,13,66,4,140,3,0,1,3,0,1,0,8,140,4,30.77%,0,1,229,129,NA,NA,NA,NA,5,66,Butt Ad Venture
+138,MR36,17,153,5,153,0,0,0,4,0,0,0,4,153,4,23.53%,0,0,329,112,NA,NA,NA,NA,13,153,xinoehp512
+139,LG58,19,123,6,121,3,0,0,7,0,0,0,10,121,3,15.79%,3,0,504,72,NA,NA,NA,NA,9,123,Haelbarde
+140,QF39,22,20,2,14,1,9,1,12,0,0,0,23,14,8,36.36%,4,1,744,40,Cosmere,Complex,NA,Misc,2,20,Drake Marshall
+141,LG59,13,123,0,153,1,0,0,3,0,0,0,4,153,1,7.69%,0,0,286,119,Cosmere,Semi Standard,NA,Village,9,123,Furamirionind
+142,MR37,15,49,2,110,5,1,0,5,0,0,0,11,110,3,20.00%,0,0,NA,NA,Cosmere,NA,NA,NA,4,49,Haelbarde
+143,LG60,14,49,2,134,4,0,0,5,0,0,0,9,134,4,28.57%,0,0,NA,NA,NA,NA,NA,NA,4,49,xinoehp512
+144,QF40.1,14,145,1,161,2,0,0,0,0,0,0,2,161,3,21.43%,0,0,NA,NA,NA,NA,NA,NA,12,145,I think I am here.
+145,QF40.2,15,104,0,140,4,0,0,3,0,0,1,8,140,4,26.67%,1,0,NA,NA,NA,NA,NA,NA,7,104,Elandera
+146,MR38.1,18,160,6,159,0,0,0,3,0,0,0,3,159,5,27.78%,3,0,NA,NA,NA,NA,NA,NA,15,160,Haelbarde
+147,LG61,15,20,0,82,5,0,0,6,0,0,2,13,82,3,20.00%,2,0,NA,NA,NA,NA,NA,NA,2,20,STINK
+148,MR38.2,15,132,9,151,0,0,0,5,0,0,0,5,151,4,26.67%,1,0,NA,NA,NA,NA,NA,NA,10,132,Straw
+149,QF41,14,86,8,140,4,0,0,4,0,0,0,8,140,4,28.57%,1,0,NA,NA,NA,NA,NA,NA,6,86,Wonko the Sane
+150,LG62,16,104,3,134,0,0,0,0,9,0,0,9,134,0,---,0,0,NA,NA,NA,NA,NA,NA,7,104,Elbereth
+151,MR39,15,20,0,82,5,0,0,7,0,0,1,13,82,3,20.00%,2,0,NA,NA,NA,NA,NA,NA,2,20,Kynedath
+152,AG6,24,20,1,17,7,0,3,6,6,0,0,22,17,6,25.00%,2,3,NA,NA,NA,NA,NA,NA,2,20,Cadmium Compounder
+153,QF42,12,86,0,149,2,0,0,4,0,0,0,6,149,3,25.00%,2,0,NA,NA,NA,NA,NA,NA,6,86,Kynedath
+154,MR40,14,20,2,96,6,0,0,6,0,0,0,12,96,3,21.43%,3,0,NA,NA,NA,NA,NA,NA,2,20,Rathmaskal
+155,LG63,15,11,0,67,6,0,0,8,0,0,0,14,67,4,26.67%,3,0,NA,NA,NA,NA,NA,NA,1,11,Rathmaskal
+156,QF43,16,11,0,82,6,0,0,7,0,0,0,13,82,3,18.75%,1,0,NA,NA,NA,NA,NA,NA,1,11,Kynedath
+157,LG64,16,20,0,67,0,5,1,6,0,0,2,14,67,2,12.50%,1,0,NA,NA,NA,NA,NA,NA,2,20,EXPERIENCE
+158,MR41,14,1,0,159,2,0,1,0,0,0,0,3,159,1,7.14%,0,0,NA,NA,NA,NA,NA,NA,0,1,NA
+159,LG65,27,1,2,110,0,0,4,1,2,4,0,11,110,7,25.93%,0,4,NA,NA,NA,NA,NA,NA,0,1,NA
+160,QF44,22,66,0,40,7,0,0,7,1,0,2,17,40,5,22.73%,1,0,NA,NA,NA,NA,NA,NA,5,66,The_God_King
+161,MR42,32,49,4,2,11,3,1,10,1,0,2,28,2,9,28.13%,5,1,NA,NA,NA,NA,NA,NA,4,49,Coda
+162,LG66,23,1,0,162,0,0,0,0,0,0,0,0,162,6,26.09%,0,0,NA,NA,NA,NA,NA,NA,0,1,NA
+163,QF45,22,66,0,40,7,0,0,7,0,0,3,17,40,4,18.18%,1,0,NA,NA,NA,NA,NA,NA,5,66,Ashbringer
+164,LG67,25,141,0,67,6,0,0,7,0,0,1,14,67,7,28.00%,1,0,NA,NA,NA,NA,NA,NA,11,141,Araris Valerian
+165,MR43,18,66,2,82,6,0,1,4,0,0,2,13,82,4,22.22%,0,1,NA,NA,NA,NA,NA,NA,5,66,TJ Shade
+166,QF46,21,11,0,28,6,0,0,14,0,0,0,20,28,10,47.62%,9,0,NA,NA,NA,NA,NA,NA,1,11,The Young Pyromancer
+167,LG68,20,132,0,121,4,0,0,5,0,0,1,10,121,3,15.00%,3,0,NA,NA,NA,NA,NA,NA,10,132,Ashbringer
+168,MR44,13,37,0,121,5,0,0,4,1,0,0,10,121,3,23.08%,1,0,NA,NA,NA,NA,NA,NA,3,37,NA
+169,LG69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+170,QF47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+171,LG70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+172,MR45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+173,LG71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+174,QF48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+175,MR46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

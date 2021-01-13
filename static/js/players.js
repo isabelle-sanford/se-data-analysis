@@ -1,4 +1,4 @@
-// horizontal bar chart
+// pie chart
 function drawPiePlot(values, labels, colors, div, title) {
     let data = [{
         values: values,
@@ -33,12 +33,36 @@ function drawBarPlot(x_value, y_value, div) {
     Plotly.newPlot(div, data_plot, layout);
 };
 
-function drawLine(x_value, y_value, div) {
+// histogram
+function drawHist(x_value, div) {
+    let data_plot = [{
+      x: x_value,
+      type: 'histogram', 
+      xbins: {size: 5}, 
+      marker: {line: {
+          width: 5, 
+          color: 'white'}
+      }
+    }];
+
+    let layout = {
+      title: "# of Players Joining Over Time",
+      xaxis: {title: "Game"},
+      yaxis: {title: "# of players joined"}
+    };
+
+    Plotly.newPlot(div, data_plot, layout);
+};
+
+
+function drawLine(x_value, y_value, labels, div) {
     var data = [{
         x: x_value,
         y: y_value,
         mode: 'markers', 
-        type:'scatter'
+        type:'scatter', 
+        text: labels,
+        // line: {shape: 'spline'}
     }];
 
     let layout = {
@@ -118,9 +142,10 @@ function init() {
     // JOINING TIME BAR
         var player_list = [... new Set(data.map(d => d.player_id))];
         console.log(`num players: ${player_list.length}, data len: ${data.length}`)
-        var joined_list = data.map(d => [d.player_id, d.game_id]);
+        var joined_list = data.map(d => [d.player_id, d.game_id, d.game_str]);
 
         start_game = [];
+        start_game_label = [];
         for (let i=0; i < player_list.length; i++) {
             let found = false;
             let curr_player = player_list[i];
@@ -129,6 +154,7 @@ function init() {
             while (!found) {
                 if (joined_list[j][0] == curr_player) {
                     start_game.push(joined_list[j][1]);
+                    start_game_label.push(joined_list[j][2]);
                     found = true;
                 } else if (j > data.length) {
                     console.log("BROKEN");
@@ -141,23 +167,29 @@ function init() {
 
         }
 
-        console.log(`start game length: ${start_game.length}`);
 
-        var xy = value_counts(start_game);
-        var bar_x = xy[0];
-        var bar_y = xy[1];
+        var start_game_ids = [... new Set(start_game.map(d => d))];
+        var start_game_names = [... new Set(start_game_label.map(d => d))]
+        
+        start_game_cts = [];
+        // let currsum = 0;
+        // for (i=0; i < start_game_ids.length; i++) {
+        //     let curr = start_game.filter(m => m === start_game_ids[i]).length;
+        //     currsum += curr;
+        //     start_game_cts.push(currsum);
+        // }
+        start_game_ids.forEach(u => {
+            let curr = start_game.filter(m => m === u).length;
+            start_game_cts.push(curr);
+        })
+    
 
-        // var game_ids = [... new Set(data.map(d => d.game_id))];
-        // var game_names = [... new Set(data.map(d => d.game_str))];
+
         // drawHist(start_game, 'join-game-bar');
-        drawLine(bar_x, bar_y, 'join-game-bar');
-
-
+        drawLine(start_game_ids, start_game_cts, start_game_names, 'join-game-bar');
         
 
     });
-
-
 
 };
 
