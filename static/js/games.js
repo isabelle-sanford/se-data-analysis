@@ -67,6 +67,23 @@ function drawLine(x_value, y_value, labels, div, title) {
     Plotly.newPlot(div, data, layout);
 }
 
+// PIE
+function drawPiePlot(values, labels, colors, div, title) {
+    let data = [{
+        values: values,
+        labels: labels,
+        type: 'pie',
+        marker: {colors: colors}
+      }];
+      
+
+    let layout = {
+      title: title
+    };
+
+    Plotly.newPlot(div, data, layout);
+};
+
 
 
 // -----------------OTHER FUNCTIONS-------------
@@ -93,46 +110,23 @@ function value_counts(myList) {
 
 function init_games() {
     d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/gamedata.json').then(function(gamedata) {
+        console.log(gamedata[0])
 
         var game_ids = gamedata.map(d => d.game_id);
         var game_names = gamedata.map(d => d.game_str);
 
         var n_players = gamedata.map(d => d.num_players);
-        //drawBarPlot(game_ids, n_players, game_names, 'bar-num-players', '# of Players per Game');
-
-        var n_survive = gamedata.map(d => d.status_counts).map(e => e.S_death)
-
-        // var nVsurvive = gamedata.map(d => [d.game_id, d.alignment_counts.G, d.game_str])
-        // need better data - pull players or flatten this one
         
 
+        // SURVIVE PER GAME BAR
+        var n_survive = gamedata.map(d => d.status_counts).map(e => e.S_death)
         drawBarPlot(game_ids, n_survive, game_names, 'bar-num-survive', '# Survived per Game');
+        // var nVsurvive = gamedata.map(d => [d.game_id, d.alignment_counts.G, d.game_str])
+        // need better data - pull players or flatten this one
 
 
-
-        // var outcomes_with_length = value_counts(gamedata.map(d => [d.winner, d.length]));
-        // // 0 is unique list of outcomes, 1 is count of each
-
-        // var trace = [{
-        //     x: outcomes_with_length[1][0],
-        //     y: outcomes_with_length[1][1],
-
-        //     mode: 'markers',
-        //     marker: {
-        //         size: 
-        //     }
-            
-        // }];
-        // var mylayout = {title: 'outcomes vs length'};
-
-        // Plotly.newPlot('outcomes-length', trace, mylayout);
-
-        // what if we just go for a bar chart of average length for each outcome
-        var outcomes = gamedata[0]
-        console.log(outcomes);
-
+        // AVERAGE OUTCOME LENGTH BAR
         var outcome_stuff = value_counts(gamedata.map(d => d.winner));
-        console.log(outcome_stuff)
         var x_val = outcome_stuff[0];
 
         var y_val = [];
@@ -142,54 +136,41 @@ function init_games() {
             var result = d3.mean(totals);
             y_val.push(result);
         })
-        console.log(x_val);
-        console.log(y_val);
 
-        drawBarPlot(x_val, y_val, y_val, 'outcomes-length', 'Average length for each outcome');
+        // should really do color as dict but at moment ordering is: Elim, Village, Faction, FFA, Draw, Misc, No one
+        outcome_colors = ['red', 'green', 'purple', 'yellow', 'gray', 'orange', 'black'];
 
-
-        // var ntemp = gamedata.map(d => [d.format, d.num_players, d.game_id, d.game_str]);
-        // var LGPlayers = gamedata.filter(d => d.format === 'LG');
-        // var MRPlayers = gamedata.filter(d => d.format === 'MR');
-        // var QFPlayers = gamedata.filter(d => d.format === 'QF'); // really should just do the filter straight
-
-        // let traceLG = {
-        //     x: LGPlayers.map(d => d.game_id),
-        //     y: LGPlayers.map(d => d.num_players),
-        //     type: 'scatter',
-        //     mode: 'markers',
-        //     text: LGPlayers.map(d => d.game_str)
-        // }
-
-        // let traceMR = {
-        //     x: MRPlayers.map(d => d.game_id),
-        //     y: MRPlayers.map(d => d.num_players),
-        //     type: 'scatter',
-        //     mode: 'markers',
-        //     text: MRPlayers.map(d => d.game_str)
-        // }
-
-        // let traceQF = {
-        //     x: QFPlayers.map(d => d.game_id),
-        //     y: QFPlayers.map(d => d.num_players),
-        //     type: 'scatter',
-        //     mode: 'markers',
-        //     text: QFPlayers.map(d => d.game_str)
-        // }
+        let my_data = [{
+            x: x_val,
+            y: y_val,
+            marker: {
+                color: outcome_colors
+            },
+            type: 'bar'
+        }];
     
-        // let layout = {
-        //     title: 'Number of Players  by Format',
-        //     xaxis: {title: 'Game'},
-        //     yaxis: {title: '# of players'}
-        // }
+        let my_layout = {
+            title: "Average Game Length by Outcome",
+            xaxis: {title: "Outcome"},
+            yaxis: {title: "Avg. Length (cycles)"}
+        };
     
-        // let data = [traceLG, traceMR, traceQF];
-    
-        // Plotly.newPlot('bar-num-players', data, layout);
+        Plotly.newPlot('outcomes-length', my_data, my_layout);
+        
+        pie_labels = outcome_stuff[0];
+        pie_labels.pop();
+
+
+        drawPiePlot(outcome_stuff[1], outcome_stuff[0], outcome_colors, 'outcome-pie', 'Breakdown of Winners');
+
+
+
+
+
 
 
     });
-}
+};
 
 
 
@@ -206,3 +187,24 @@ function init_games() {
 
 
 init_games();
+
+// # OF PLAYERS PER GAME BAR
+//drawBarPlot(game_ids, n_players, game_names, 'bar-num-players', '# of Players per Game');
+
+// BUBBLE ATTEMPT FOR OUTCOMES VS LENGTH
+        // var outcomes_with_length = value_counts(gamedata.map(d => [d.winner, d.length]));
+        // // 0 is unique list of outcomes, 1 is count of each
+
+        // var trace = [{
+        //     x: outcomes_with_length[1][0],
+        //     y: outcomes_with_length[1][1],
+
+        //     mode: 'markers',
+        //     marker: {
+        //         size: 
+        //     }
+            
+        // }];
+        // var mylayout = {title: 'outcomes vs length'};
+
+        // Plotly.newPlot('outcomes-length', trace, mylayout);
