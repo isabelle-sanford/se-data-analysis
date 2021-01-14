@@ -1405,7 +1405,7 @@ Fifth Scholar,N,Y,N,LG,65.0,LG65,Y
 The_God_King,N,N,Y,LG,65.0,LG65,Y
 Orlok Tsubodai,N,N,Y,LG,65.0,LG65,Y
 Straw,Y,N,N,QF,44.0,QF44,N
-EXPERIENCE,Y,N,N,QF,44.0,QF44,N
+Experience,Y,N,N,QF,44.0,QF44,N
 Devotary of Spontaneity,N,Y,N,QF,44.0,QF44,N
 A Joe in the Bush,Y,N,N,MR,42.0,MR42,N
 Elbereth,N,Y,N,MR,42.0,MR42,N
@@ -1437,10 +1437,26 @@ Sart,Y,N,N,QF,47.0,QF47,N
 Devotary of Spontaneity,N,Y,N,QF,47.0,QF47,N
 Kynedath,Y,N,N,LG,70.0,LG70,N
 Elbereth,N,Y,N,LG,70.0,LG70,N
-EXPERIENCE,Y,N,N,MR,45.0,MR45,N
+Experience,Y,N,N,MR,45.0,MR45,N
 Devotary of Spontaneity,N,Y,N,MR,45.0,MR45,N
 Straw,Y,N,N,LG,71.0,LG71,N
 Matrim's_Dice,Y,N,N,LG,71.0,LG71,N
 little wilson,N,Y,N,LG,71.0,LG71,N
 Elkanah,Y,N,N,QF,48.0,QF48,N
 Elbereth,N,Y,N,QF,48.0,QF48,N
+Matrim's_Dice,Y,N,N,MR,46.0,MR46,N
+Lotus,Y,N,N,MR,46.0,MR46,N
+Devotary of Spontaneity,N,Y,N,MR,46.0,MR46,N
+Ashbringer,Y,N,N,LG,72.0,LG72,N
+Elandera,Y,N,N,LG,72.0,LG72,N
+Elbereth,N,Y,N,LG,72.0,LG72,N
+Straw,Y,N,N,QF,49.0,QF49,N
+Devotary of Spontaneity,N,Y,N,QF,49.0,QF49,N
+Elandera,Y,N,N,MR,47.0,MR47,N
+Gears,Y,N,N,MR,47.0,MR47,N
+Devotary of Spontaneity,N,Y,N,MR,47.0,MR47,N
+little wilson,Y,N,N,AG,7.0,AG7,N
+Elbereth,Y,N,N,AG,7.0,AG7,N
+Fifth Scholar,N,Y,N,AG,7.0,AG7,N
+Postt,N,N,Y,AG,7.0,AG7,N
+anonymouse,N,N,Y,AG,7.0,AG7,N
