@@ -134,7 +134,14 @@ function init_games() {
                 
 
                 // SURVIVE PER GAME BAR
-                var n_survive = gamedata.map(d => d.status_counts).map(e => e.S_death)
+                var n_survive = gamedata.map(d => d.status_counts).map(e => {
+                    let ns = e.S_death;
+                    if (ns === undefined) {
+                        return 0;
+                    } else {
+                        return ns;
+                    }
+                })
                 var n_dead = [];
                 for(var i=0; i <= n_players.length; i++) {
                     n_dead.push(n_players[i] - n_survive[i]);
