@@ -57,33 +57,44 @@
 
   <div class="container">
     <div class="row">
-      <div class="col-md-12 jumbotron text-center">
+      <div class="col-md-10 jumbotron text-center">
         <h1>SE stuff</h1>
         <p>Use the interactive charts below to explore the dataset</p>
       </div>
-    </div>
-    <div class="row">
+
       <div class="col-md-2">
         <div class="panel panel-primary">
           <div class="panel-heading">
             <h3 class="panel-title">Filters</h3>
           </div>
           <div id="sample-metadata" class="panel-body">
-            <h5>Format:</h5>
-            <select id="selDataset" onchange="filterFormat(this.value)">
-                <option>LGs & AGs</option>
+            <p>Format: </p>
+            <select id="selFormat" onchange="init_games()">
+                <option>All</option>
+                <option>LG</option>
                 <option>MR</option>
                 <option>QF</option>
-                <option>AGs</option>
+                <option>AG</option>
             </select>
 
-            <h5>Type:</h5>
-            <select id="selDataset" onchange="filterType(this.value)">
-                <option>Simple</option>
+            <p>Type: </p>
+            <select id="selComplexity" onchange="init_games()">
+                <option>All</option>
+                <option>Basic</option>
                 <option>Standard</option>
+                <option>Semi Standard</option>
                 <option>Complex</option>
-                <option>Too Much</option>
+                <option>Faction/Free For All</option>
             </select>
+
+            <p>Setting: </p>
+            <select id="selSetting" onchange="init_games()">
+              <option>All</option>
+              <option>Cosmere</option>
+              <option>Non Cosmere</option> 
+              <option>Wheel of Time</option>
+              <option>Non Sanderson</option>
+          </select>
 
             <h5>other filters here</h5>
           </div>
@@ -91,18 +102,35 @@
 
         </div>
       </div>
-      <div class="col-md-10">
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
         <div id="bar-num-survive"></div>
       </div>
- 
-
     </div>
+
     <div class="row">
       <div class="col-md-6">
         <div id="outcomes-length"></div>
       </div>
       <div class="col-md-6">
           <div id='outcome-pie'></div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div id="length-outcome-scatter"></div>
+      </div>
+    </div>
+
+    <div class='row'>
+      <div class='col-md-5'>
+        <div id='survival-evil-perc'> </div>
+      </div>
+      <div class='col-md-5'>
+        <div id='length-evil-perc'></div>
       </div>
     </div>
   </div>
@@ -114,6 +142,7 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src='../static/js/games_test.js'></script>
   <script src="../static/js/games.js"></script>
   
 </body>

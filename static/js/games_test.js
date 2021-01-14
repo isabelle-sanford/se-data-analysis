@@ -1,22 +1,104 @@
+// ------------PLOT FUNCTIONS-------------------
+
+// BAR
+function drawBarPlot(x_value, y_value, labels, div, title) {
+    let data_plot = [{
+      x: x_value,
+      y: y_value,
+      type: 'bar',
+      text: labels
+    }];
+
+    let layout = {
+      title: title,
+      xaxis: {title: "Game"},
+      yaxis: {title: "# of players"}
+    };
+
+    Plotly.newPlot(div, data_plot, layout);
+};
+
+// STACKED BAR
+function drawBars(x1, y1, x2, y2, labels1, labels2, div, title) {
+    let trace1 = {
+      x: x1,
+      y: y1,
+      type: 'bar',
+      text: labels1,
+      marker: {color: 'black'}
+    };
+
+    let trace2 = {
+        x: x2,
+        y: y2,
+        type: 'bar',
+        text: labels2,
+        marker: {color: 'blue'}
+    };
+
+    let data_plot = [trace1, trace2];
+
+    let layout = {
+      title: title,
+      xaxis: {title: "Game"},
+      yaxis: {title: "# of players"},
+      barmode: 'stack'
+    };
+
+    Plotly.newPlot(div, data_plot, layout);
+};
 
 
-// {"_id": {"$oid": "5ffe9492a2561e6c522d15bd"}, "game_id": 0, "game_str": "LG1", "format": 
-// "LG", "game_num": "1", "num_players": 16, "alignment_counts": {"G": 12.0, "E": 4.0}, "outcome_counts": {"L": 12.0, "W": 4.0}, 
-// "status_counts": {"E_death": 5.0, "L_death": 4.0, "V": 1.0, "S_death": 6.0}, "inactives": 0.0, 
-// "broken": 0.0, "mod": 0, "spec": [17, 18, 21], "gm": [31]}, 
+// SCATTER
+function drawScatter(x_value, xlabel, y_value, ylabel, labels, div, title, colors) {
+    let trace1 = {
+        x: x_value,
+        y: y_value,
+        type: 'scatter',
+        text: labels,
+        mode: 'markers',
+        marker: {color: colors}
+    }
 
+    let layout = {
+        title: title,
+        xaxis: {title: xlabel},
+        yaxis: {title: ylabel}
+    }
 
-// -----------------INIT------------------------
+    let data = [trace1];
 
-function init_games() {
-    d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/gamedata.json').then(function(gamedata) {
-        console.log(gamedata[0]) 
+    Plotly.newPlot(div, data, layout);
+}
 
-    });
+// PIE
+function drawPiePlot(values, labels, colors, div, title) {
+    let data = [{
+        values: values,
+        labels: labels,
+        type: 'pie',
+        marker: {colors: colors}
+      }];
+      
+
+    let layout = {
+      title: title
+    };
+
+    Plotly.newPlot(div, data, layout);
 };
 
 
 
+// -----------------OTHER FUNCTIONS-------------
+function value_counts(myList) {
+    uniques = [... new Set(myList)];
 
+    outputVals = [];
+    uniques.forEach(u => {
+        let curr = myList.filter(m => m === u).length;
+        outputVals.push(curr);
+    })
 
-init_games();
+    return [uniques, outputVals];
+};
