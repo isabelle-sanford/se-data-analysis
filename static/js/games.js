@@ -90,7 +90,7 @@ function init_games() {
 
                 
 
-                // FILTERS: GM, Time period
+                // FILTERS: Time period
                 var gamedata = initdata;
                 if (myFormat !== 'All') {
                     gamedata = gamedata.filter(d => d.format === myFormat);

@@ -3,10 +3,10 @@ Analysis of Sanderson Elimination statistics
 
 
 TO DO:
-- Change paths for all analysis outputs to account for moving them into Cleaning
+- Change paths for all analysis outputs (done in to_mongo, tbd in ETL one) to account for moving them into Cleaning
 
-- Implement other filters
-    - Checkboxes instead of dropdowns? 
+
+- Filters - Checkboxes instead of dropdowns? 
 - Add table at bottom
 - Tabs? 
 - include number of games you're viewing somewhere - probably in header above dropdowns
