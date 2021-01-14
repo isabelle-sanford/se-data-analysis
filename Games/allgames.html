@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>SE Stats - Games</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="../static/css/style.css">
 </head>
 
@@ -26,11 +26,11 @@
               <a class="nav-link" href="#">Games 1</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="#">About</span></a>
             </li>
             <li class="nav-item dropdown active">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Games
+                Games <span class="sr-only">(current)
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="Games/allgames.html">All Games</a>
@@ -57,55 +57,58 @@
 
   <div class="container">
     <div class="row">
-      <div class="col-md-10 jumbotron text-center">
+      <!-- <div class="col-md-10 jumbotron text-center">
         <h1>SE stuff</h1>
         <p>Use the interactive charts below to explore the dataset</p>
-      </div>
+      </div> -->
 
       <div class="col-md-2">
-        <div class="panel panel-primary">
+        <!-- <div class="panel panel-primary">
           <div class="panel-heading">
             <h3 class="panel-title">Filters</h3>
           </div>
-          <div id="sample-metadata" class="panel-body">
-            <p>Format: </p>
-            <select id="selFormat" onchange="init_games()">
-                <option>All</option>
-                <option>LG</option>
-                <option>MR</option>
-                <option>QF</option>
-                <option>AG</option>
-            </select>
-
-            <p>Type: </p>
-            <select id="selComplexity" onchange="init_games()">
-                <option>All</option>
-                <option>Basic</option>
-                <option>Standard</option>
-                <option>Semi Standard</option>
-                <option>Complex</option>
-                <option>Faction/Free For All</option>
-            </select>
-
-            <p>Setting: </p>
-            <select id="selSetting" onchange="init_games()">
-              <option>All</option>
-              <option>Cosmere</option>
-              <option>Non Cosmere</option> 
-              <option>Wheel of Time</option>
-              <option>Non Sanderson</option>
+          <div id="sample-metadata" class="panel-body"> -->
+        <p>Format: </p>
+        <select id="selFormat" onchange="init_games()">
+            <option>All</option>
+            <option>LG</option>
+            <option>MR</option>
+            <option>QF</option>
+            <option>AG</option>
           </select>
+      </div>
 
-            <h5>other filters here</h5>
-          </div>
+      <div class="col-md-2">
+        <p>Type: </p>
+        <select id="selComplexity" onchange="init_games()">
+            <option>All</option>
+            <option>Basic</option>
+            <option>Standard</option>
+            <option>Semi Standard</option>
+            <option>Complex</option>
+            <option>Faction/Free For All</option>
+        </select>
+      </div>
 
+      <div class='col-md-2'>
+        <p>Setting: </p>
+        <select id="selSetting" onchange="init_games()">
+          <option>All</option>
+          <option>Cosmere</option>
+          <option>Non Cosmere</option> 
+          <option>Wheel of Time</option>
+          <option>Non Sanderson</option>
+        </select>
+      </div>
 
-        </div>
+      <div class='col-md-2'></div>
+        <p>[other filters here]</p>
       </div>
     </div>
+  
 
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-12 jumbotron">
         <div id="bar-num-survive"></div>
       </div>
     </div>
@@ -126,11 +129,14 @@
     </div>
 
     <div class='row'>
-      <div class='col-md-5'>
+      <div class='col-md-4'>
         <div id='survival-evil-perc'> </div>
       </div>
-      <div class='col-md-5'>
+      <div class='col-md-4'>
         <div id='length-evil-perc'></div>
+      </div>
+      <div class='col-md-4'>
+        <div id='outcome-evil-perc'></div>
       </div>
     </div>
   </div>
@@ -142,7 +148,7 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src='../static/js/games_test.js'></script>
+  <script src='../static/js/plots.js'></script>
   <script src="../static/js/games.js"></script>
   
 </body>
