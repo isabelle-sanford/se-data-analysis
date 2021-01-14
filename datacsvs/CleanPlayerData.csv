@@ -1,0 +1,4319 @@
+person,Alignment,fOutcome,Hit1,HitL,HitNum,Death,Inactive,gtype,GameNum,Game,Broken,Role
+Cracknut,G,L,1.0,1.0,1.0,E,N,LG,1.0,LG1,N,Tineye
+Edgedancer,G,L,2.0,2.0,1.0,L,N,LG,1.0,LG1,N,Cop
+Mailliw73,G,L,4.0,4.0,1.0,L,N,LG,1.0,LG1,N,Regular
+Aether,E,W,4.0,4.0,1.0,V,N,LG,1.0,LG1,N,Smoker
+Claincy,E,W,-,-,0.0,S,N,LG,1.0,LG1,N,Vote Cancel
+Gamma,G,L,-,-,0.0,S,N,LG,1.0,LG1,N,Regular
+Kurkistan,G,L,4.0,4.0,1.0,E,N,LG,1.0,LG1,N,Kill
+bartbug,E,W,-,-,0.0,S,N,LG,1.0,LG1,N,Regular
+dyring,G,L,3.0,3.0,2.0,L,N,LG,1.0,LG1,N,Double Life
+Quiver,G,L,3.0,3.0,2.0,E,N,LG,1.0,LG1,N,Protect
+little wilson,G,L,-,-,0.0,S,N,LG,1.0,LG1,N,Regular
+Oudeis/Darnam,G,L,-,-,0.0,S,N,LG,1.0,LG1,N,Regular
+loganmathewjohnson,E,W,-,-,0.0,S,N,LG,1.0,LG1,N,Jack of All Trades
+Grayv,G,L,1.0,1.0,1.0,L,N,LG,1.0,LG1,N,Smoker
+Peng,G,L,2.0,2.0,1.0,E,N,LG,1.0,LG1,N,Regular
+PorridgeBrick,G,L,4.0,4.0,1.0,E,N,LG,1.0,LG1,N,Vote Change
+Cracknut,G,L,3.0,3.0,1.0,L,N,LG,2.0,LG2,N,Regular
+Edgedancer,G,L,4.0,4.0,1.0,L,N,LG,2.0,LG2,N,Regular
+Mailliw73,G,L,5.0,5.0,1.0,E,N,LG,2.0,LG2,N,Vote Cancel
+Aether,G,L,-,-,0.0,S,N,LG,2.0,LG2,N,Double Life
+Claincy,G,L,1.0,1.0,1.0,F,N,LG,2.0,LG2,N,Regular
+Gamma,B,W,9.0,9.0,1.0,V,N,LG,2.0,LG2,N,Vote Cancel
+Kurkistan,G,L,8.0,8.0,1.0,E,N,LG,2.0,LG2,N,Regular
+bartbug,G,L,9.0,9.0,1.0,E,N,LG,2.0,LG2,N,Tineye
+dyring,G,L,6.0,6.0,1.0,E,N,LG,2.0,LG2,N,Protect
+Quiver,B,W,-,-,0.0,S,N,LG,2.0,LG2,N,Regular
+little wilson,B,W,-,-,0.0,S,N,LG,2.0,LG2,N,Kill
+loganmathewjohnson,G,L,1.0,1.0,1.0,E,N,LG,2.0,LG2,N,Regular
+Grayv,G,L,9.0,9.0,1.0,E,N,LG,2.0,LG2,N,Vote Change
+Peng,G,L,5.0,7.0,3.0,E,N,LG,2.0,LG2,N,Jack of All Trades
+PorridgeBrick,G,L,7.0,7.0,1.0,E,N,LG,2.0,LG2,N,Cop
+Windy,G,L,11.0,-,1.0,S,N,LG,2.0,LG2,N,Double Life
+Weiry,G,L,1.0,1.0,1.0,E,N,LG,2.0,LG2,N,Protect
+Wes,G,L,1.0,1.0,1.0,E,N,LG,2.0,LG2,N,Kill
+Swimmingly,G,L,2.0,2.0,1.0,L,N,LG,2.0,LG2,N,Kill
+Alvron,G,L,11.0,11.0,1.0,E,N,LG,2.0,LG2,N,Smoker
+Serendipity/Scriptorian,G,L,1.0,11.0,2.0,E,N,LG,2.0,LG2,N,Double Life
+Aonar,B,W,1.0,1.0,1.0,V,N,LG,2.0,LG2,N,Regular
+RainbowRose/Cessie,E,W,4.0,7.0,3.0,L,N,LG,2.0,LG2,N,Conversion
+Herowannabe,G,L,8.0,8.0,1.0,E,N,LG,2.0,LG2,N,Tineye
+RobotAztec,G,L,9.0,9.0,1.0,L,N,LG,2.0,LG2,N,Regular
+Shiv,G,L,5.0,5.0,1.0,L,N,LG,2.0,LG2,N,Protect
+Leonardus,G,L,1.0,1.0,1.0,F,N,LG,2.0,LG2,N,Regular
+Luckat,G,L,3.0,3.0,1.0,E,N,LG,2.0,LG2,N,Cop
+Aspren,G,L,8.0,8.0,1.0,L,N,LG,2.0,LG2,N,Smoker
+Meta,G,W,-,-,0.0,S,N,LG,3.0,LG3,Y,Kill
+Edgedancer,G,W,7.0,-,1.0,S,N,LG,3.0,LG3,Y,Double Life
+Mailliw73,G,W,-,-,0.0,S,N,LG,3.0,LG3,Y,Tineye
+Claincy,E,L,5.0,5.0,1.0,L,N,LG,3.0,LG3,Y,Tineye
+Gamma,G,W,2.0,-,1.0,S,N,LG,3.0,LG3,Y,Protect
+bartbug,G,W,3.0,3.0,1.0,E,N,LG,3.0,LG3,Y,Jack of All Trades
+dyring,G,W,1.0,1.0,1.0,E,N,LG,3.0,LG3,Y,Cop
+Grayv,G,W,2.0,7.0,2.0,E,N,LG,3.0,LG3,Y,Double Life
+PorridgeBrick,G,W,3.0,3.0,1.0,F,N,LG,3.0,LG3,Y,Smoker
+Swimmingly,G,W,-,-,0.0,S,N,LG,3.0,LG3,Y,Regular
+Alvron,G,W,5.0,5.0,1.0,F,N,LG,3.0,LG3,Y,Regular
+Serendipity/Scriptorian,E,L,1.0,1.0,1.0,L,N,LG,3.0,LG3,Y,Regular
+Aspren,E,L,2.0,2.0,1.0,L,N,LG,3.0,LG3,Y,Jack of All Trades
+A Joe in the Bush,E,L,7.0,7.0,1.0,L,N,LG,3.0,LG3,Y,Vote Cancel
+elwarko,G,W,6.0,6.0,1.0,L,N,LG,3.0,LG3,Y,Regular
+SirVarrock,G,W,-,-,0.0,S,N,LG,3.0,LG3,Y,Smoker
+18thShard,G,W,3.0,3.0,1.0,L,N,LG,3.0,LG3,Y,Vote Manip
+Macen,G,W,4.0,4.0,1.0,L,N,LG,3.0,LG3,Y,Regular
+Dalinar,E,L,4.0,4.0,1.0,V,N,LG,3.0,LG3,Y,Cop
+Gleeman,G,W,6.0,6.0,1.0,F,N,LG,3.0,LG3,Y,Vote Change
+Lanscaper,G,W,-,-,0.0,S,N,LG,3.0,LG3,Y,Regular
+Chid/Newan,G,W,4.0,-,3.0,S,N,LG,3.0,LG3,Y,Cop
+Meta,G,W,6.0,6.0,1.0,F,N,LG,4.0,LG4,Y,Regular
+Edgedancer,G,W,7.0,7.0,1.0,F,N,LG,4.0,LG4,Y,Regular
+Mailliw73,G,W,3.0,-,1.0,S,N,LG,4.0,LG4,Y,Sacrifice
+Gamma,G,W,7.0,7.0,1.0,F,N,LG,4.0,LG4,Y,Regular
+bartbug,G,W,-,-,0.0,S,N,LG,4.0,LG4,Y,Regular
+dyring,G,W,3.0,3.0,1.0,L,N,LG,4.0,LG4,Y,Regular
+Quiver,G,W,8.0,8.0,1.0,L,N,LG,4.0,LG4,Y,Regular
+little wilson,E,L,9.0,9.0,1.0,L,N,LG,4.0,LG4,Y,Regular
+Peng,E,L,4.0,4.0,1.0,V,N,LG,4.0,LG4,Y,Regular
+PorridgeBrick,G,W,-,-,0.0,S,N,LG,4.0,LG4,Y,Regular
+Wes,G,W,8.0,8.0,1.0,E,N,LG,4.0,LG4,Y,Regular
+Swimmingly,G,W,2.0,2.0,1.0,L,N,LG,4.0,LG4,Y,Regular
+Alvron,G,W,2.0,2.0,1.0,E,N,LG,4.0,LG4,Y,Regular
+Aonar,G,W,8.0,8.0,1.0,F,N,LG,4.0,LG4,Y,Lynch Protect
+Herowannabe,G,W,-,-,0.0,S,N,LG,4.0,LG4,Y,Regular
+Aspren,E,L,5.0,5.0,1.0,V,N,LG,4.0,LG4,Y,Regular
+A Joe in the Bush,E,L,3.0,3.0,1.0,V,N,LG,4.0,LG4,Y,Regular
+elwarko,E,L,5.0,5.0,1.0,L,N,LG,4.0,LG4,Y,Regular
+SirVarrock,G,W,1.0,1.0,1.0,E,N,LG,4.0,LG4,Y,Regular
+Macen,G,W,-,-,0.0,S,N,LG,4.0,LG4,Y,Regular
+Gleeman,G,W,6.0,6.0,1.0,L,N,LG,4.0,LG4,Y,Regular
+Chid/Newan,G,W,-,-,0.0,S,N,LG,4.0,LG4,Y,Alignment Cop
+GreyPilgrim,G,W,4.0,4.0,1.0,L,N,LG,4.0,LG4,Y,Regular
+Wyrmhero,G,W,-,4.0,0.0,N,N,LG,4.0,LG4,Y,Sacrifice
+Nepene,G,W,4.0,6.0,2.0,E,N,LG,4.0,LG4,Y,Bodyguard
+Tulir,E,L,6.0,6.0,1.0,V,N,LG,4.0,LG4,Y,Regular
+Sart,G,W,7.0,7.0,1.0,L,N,LG,4.0,LG4,Y,Regular
+Adolin Dustbringer,G,W,-,-,0.0,S,N,LG,4.0,LG4,Y,Regular
+nard1993,G,W,5.0,-,1.0,S,N,LG,4.0,LG4,Y,Kill
+Sphinx,G,W,-,-,0.0,S,N,LG,4.0,LG4,Y,Lynch Protect
+Mailliw73,G,L,1.0,1.0,1.0,E,N,QF,1.0,QF1,N,Regular
+Claincy,E,W,-,-,0.0,S,N,QF,1.0,QF1,N,Regular
+Gamma,G,L,2.0,2.0,1.0,E,N,QF,1.0,QF1,N,Regular
+Alvron,E,W,-,-,0.0,S,N,QF,1.0,QF1,N,Regular
+Aonar,G,L,2.0,2.0,1.0,L,N,QF,1.0,QF1,N,Regular
+Luckat,G,L,-,-,0.0,S,N,QF,1.0,QF1,N,Alignment Cop
+Aspren,G,L,3.0,3.0,1.0,E,N,QF,1.0,QF1,N,Regular
+A Joe in the Bush,G,L,1.0,1.0,1.0,L,N,QF,1.0,QF1,N,Regular
+elwarko,G,L,-,-,0.0,S,N,QF,1.0,QF1,N,Regular
+GreyPilgrim,E,W,-,-,0.0,S,N,QF,1.0,QF1,N,Regular
+Nepene,G,L,3.0,3.0,1.0,L,N,QF,1.0,QF1,N,Regular
+Adolin Dustbringer,G,L,-,-,0.0,S,N,QF,1.0,QF1,N,Regular
+Meta,G,W,1.0,-,2.0,S,N,LG,5.0,LG5,N,Regular
+Claincy,G,W,3.0,3.0,1.0,E,N,LG,5.0,LG5,N,Regular
+Wes,E,L,4.0,7.0,3.0,V,N,LG,5.0,LG5,N,Regular
+Alvron,E,L,5.0,6.0,2.0,V,N,LG,5.0,LG5,N,Item Cop
+Aonar,G,W,3.0,3.0,1.0,L,N,LG,5.0,LG5,N,Regular
+Luckat,G,W,5.0,-,1.0,S,N,LG,5.0,LG5,N,Regular
+Aspren,G,W,-,-,0.0,S,N,LG,5.0,LG5,N,Regular
+A Joe in the Bush,G,W,4.0,4.0,1.0,E,N,LG,5.0,LG5,N,Regular
+18thShard,G,W,2.0,2.0,1.0,L,N,LG,5.0,LG5,N,Regular
+Macen,G,W,6.0,-,1.0,S,N,LG,5.0,LG5,N,Regular
+Gleeman,E,L,5.0,5.0,1.0,L,N,LG,5.0,LG5,N,Regular
+GreyPilgrim,G,W,4.0,4.0,1.0,L,N,LG,5.0,LG5,N,Regular
+Wyrmhero,G,W,4.0,-,1.0,S,N,LG,5.0,LG5,N,Item Cop
+Tulir,G,W,1.0,1.0,1.0,L,N,LG,5.0,LG5,N,Inventor
+Sart,G,W,5.0,5.0,1.0,E,N,LG,5.0,LG5,N,Regular
+Adolin Dustbringer,G,W,7.0,7.0,1.0,L,N,LG,5.0,LG5,N,Thief
+Sphinx,G,W,2.0,2.0,1.0,E,N,LG,5.0,LG5,N,Regular
+Jain,G,W,3.0,3.0,1.0,F,N,LG,5.0,LG5,N,Regular
+Kasimir,E,L,6.0,6.0,1.0,L,N,LG,5.0,LG5,N,Regular
+Theorymaker,G,W,-,-,0.0,S,N,LG,5.0,LG5,N,Inventor
+Mailliw73,F,L,3.0,3.0,1.0,N,N,MR,1.0,MR1,Y,-
+Claincy,F,L,7.0,7.0,1.0,L,N,MR,1.0,MR1,Y,-
+Gamma,F,W,-,-,0.0,S,N,MR,1.0,MR1,Y,-
+Peng,F,L,3.0,3.0,1.0,N,N,MR,1.0,MR1,Y,-
+Weiry,F,L,2.0,2.0,1.0,N,N,MR,1.0,MR1,Y,-
+Wes,F,L,3.0,3.0,1.0,L,N,MR,1.0,MR1,Y,-
+Alvron,F,L,4.0,4.0,1.0,L,N,MR,1.0,MR1,Y,-
+Aonar,F,W,5.0,5.0,1.0,F,N,MR,1.0,MR1,Y,-
+RainbowRose/Cessie,F,L,4.0,5.0,1.0,N,N,MR,1.0,MR1,Y,-
+Luckat,F,W,-,-,0.0,S,N,MR,1.0,MR1,Y,-
+Macen,F,L,2.0,2.0,1.0,N,N,MR,1.0,MR1,Y,-
+GreyPilgrim,F,L,4.0,4.0,1.0,N,N,MR,1.0,MR1,Y,-
+Wyrmhero,F,W,3.0,5.0,2.0,L,N,MR,1.0,MR1,Y,-
+Tulir,F,W,6.0,-,1.0,S,N,MR,1.0,MR1,Y,-
+Sart,F,W,5.0,-,1.0,S,N,MR,1.0,MR1,Y,-
+Adolin Dustbringer,F,L,6.0,6.0,1.0,N,N,MR,1.0,MR1,Y,-
+Sphinx,F,L,3.0,3.0,1.0,F,N,MR,1.0,MR1,Y,-
+Jain,F,L,4.0,4.0,2.0,N,N,MR,1.0,MR1,Y,-
+Kasimir,F,L,2.0,3.0,4.0,L,N,MR,1.0,MR1,Y,-
+Ashiok,F,L,4.0,5.0,1.0,N,N,MR,1.0,MR1,Y,-
+Renegade,F,W,3.0,-,1.0,S,N,MR,1.0,MR1,Y,-
+Feather,F,L,5.0,7.0,3.0,F,N,MR,1.0,MR1,Y,-
+Binnut,F,L,6.0,6.0,1.0,N,N,MR,1.0,MR1,Y,-
+Twei,F,L,6.0,6.0,1.0,F,N,MR,1.0,MR1,Y,-
+dants,F,L,-,-,0.0,S,N,MR,1.0,MR1,Y,-
+Sir Jerric,F,L,4.0,4.0,1.0,N,N,MR,1.0,MR1,Y,-
+jaelre,F,L,7.0,7.0,1.0,N,N,MR,1.0,MR1,Y,-
+Mailliw73,G,W,3.0,3.0,1.0,E,N,LG,6.0,LG6,N,Action Cop
+little wilson,G,W,-,-,0.0,S,N,LG,6.0,LG6,N,Double Life
+Wes,G,W,1.0,5.0,2.0,E,N,LG,6.0,LG6,N,Jack of All Trades
+Alvron,G,W,4.0,4.0,1.0,E,N,LG,6.0,LG6,N,Tineye
+Aonar,G,W,7.0,7.0,1.0,E,N,LG,6.0,LG6,N,Regular
+Shiv,E,L,7.0,7.0,1.0,L,N,LG,6.0,LG6,N,Jack of All Trades
+Leonardus,G,W,4.0,4.0,1.0,E,N,LG,6.0,LG6,N,Regular
+Aspren,G,W,3.0,3.0,1.0,F,N,LG,6.0,LG6,N,Regular
+A Joe in the Bush,G,W,2.0,2.0,1.0,E,N,LG,6.0,LG6,N,Regular
+Chid/Newan,G,W,-,-,0.0,S,N,LG,6.0,LG6,N,Regular
+GreyPilgrim,G,W,4.0,4.0,1.0,L,N,LG,6.0,LG6,N,Regular
+Adolin Dustbringer,G,W,2.0,2.0,1.0,F,N,LG,6.0,LG6,N,Doctor
+Sphinx,G,W,3.0,3.0,1.0,E,N,LG,6.0,LG6,N,Kill
+Jain,G,W,2.0,2.0,1.0,L,N,LG,6.0,LG6,N,Tineye
+Kasimir,D,L,2.0,2.0,1.0,E,N,LG,6.0,LG6,N,Conversion
+Theorymaker,G,W,5.0,5.0,1.0,E,N,LG,6.0,LG6,N,Cop
+Ashiok,E,L,8.0,8.0,1.0,L,N,LG,6.0,LG6,N,Cop
+Renegade,G,W,1.0,1.0,1.0,L,N,LG,6.0,LG6,N,Legionnaire
+Binnut,E,L,5.0,5.0,1.0,L,N,LG,6.0,LG6,N,Regular
+Twei,G,W,-,-,0.0,S,N,LG,6.0,LG6,N,Regular
+Sir Jerric,G,W,6.0,6.0,1.0,E,N,LG,6.0,LG6,N,Regular
+jaelre,G,W,2.0,2.0,1.0,E,N,LG,6.0,LG6,N,Regular
+Kal Dell,E,L,6.0,6.0,1.0,L,N,LG,6.0,LG6,N,Kill
+Lev,G,W,3.0,3.0,1.0,L,N,LG,6.0,LG6,N,Regular
+QuiteContrary,G,W,-,-,0.0,S,N,LG,6.0,LG6,N,Regular
+Mailliw73,G,L,5.0,5.0,1.0,E,N,QF,2.0,QF2,N,Regular
+Peng,G,L,1.0,7.0,2.0,L,N,QF,2.0,QF2,N,Double Life
+Alvron,G,L,2.0,2.0,1.0,E,N,QF,2.0,QF2,N,Regular
+Aonar,G,L,1.0,1.0,1.0,E,N,QF,2.0,QF2,N,Regular
+Herowannabe,E,W,-,-,0.0,S,N,QF,2.0,QF2,N,Double Life
+Luckat,G,L,9.0,9.0,1.0,E,N,QF,2.0,QF2,N,Misc
+A Joe in the Bush,G,L,4.0,-,1.0,S,N,QF,2.0,QF2,N,Double Life
+Chid/Newan,G,L,-,-,0.0,S,N,QF,2.0,QF2,N,Regular
+Wyrmhero,G,L,7.0,8.0,2.0,E,N,QF,2.0,QF2,N,Double Life
+Jain,G,L,5.0,8.0,2.0,L,N,QF,2.0,QF2,N,Double Life
+Kasimir,G,L,3.0,3.0,1.0,E,N,QF,2.0,QF2,N,Regular
+Theorymaker,G,L,6.0,6.0,1.0,E,N,QF,2.0,QF2,N,Regular
+Renegade,E,W,9.0,-,1.0,S,N,QF,2.0,QF2,N,Double Life
+jaelre,E,W,-,-,0.0,S,N,QF,2.0,QF2,N,Regular
+Kal Dell,G,L,3.0,4.0,2.0,L,N,QF,2.0,QF2,N,Double Life
+Meta,G,W,1.0,-,1.0,S,N,LG,7.0,LG7,N,PM Creator
+Mailliw73,E,L,6.0,6.0,2.0,V,N,LG,7.0,LG7,N,Vote Move
+Gamma,G,W,-,-,0.0,S,N,LG,7.0,LG7,N,Jack of All Trades
+Aonar,G,W,-,-,0.0,S,N,LG,7.0,LG7,N,Vote Cancel
+Shiv,G,W,2.0,2.0,1.0,E,N,LG,7.0,LG7,N,Kill
+Luckat,G,W,-,-,0.0,S,N,LG,7.0,LG7,N,Smoker
+A Joe in the Bush,G,W,4.0,5.0,2.0,F,N,LG,7.0,LG7,N,Smoker
+Chid/Newan,E,L,4.0,4.0,1.0,L,N,LG,7.0,LG7,N,Vote Cancel
+Tulir,G,W,3.0,3.0,1.0,L,N,LG,7.0,LG7,N,Vote Move
+Sart,E,L,6.0,6.0,1.0,L,N,LG,7.0,LG7,N,Kill
+Jain,G,W,5.0,5.0,1.0,L,N,LG,7.0,LG7,N,Role Cop
+Kasimir,G,W,5.0,6.0,2.0,E,N,LG,7.0,LG7,N,Protect
+Theorymaker,G,W,1.0,3.0,2.0,E,N,LG,7.0,LG7,N,Double Life
+Ashiok,G,W,1.0,-,1.0,S,N,LG,7.0,LG7,N,Kill
+Renegade,G,W,4.0,4.0,1.0,E,N,LG,7.0,LG7,N,PM Creator
+Twei,E,L,1.0,2.0,2.0,L,N,LG,7.0,LG7,N,PM Creator
+jaelre,G,W,-,-,0.0,S,N,LG,7.0,LG7,N,Vote Move
+Kal Dell,G,W,-,-,0.0,S,N,LG,7.0,LG7,N,Jack of All Trades
+QuiteContrary,G,W,1.0,1.0,1.0,E,N,LG,7.0,LG7,N,Vote Move
+Araris Valerian,G,W,5.0,-,1.0,S,N,LG,7.0,LG7,N,Double Life
+ScottLeft,G,W,-,-,0.0,S,N,LG,7.0,LG7,N,Protect
+Meta,E,L,3.0,3.0,1.0,L,N,MR,2.0,MR2,Y,Kill
+Mailliw73,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+Gamma,G,W,3.0,-,1.0,S,N,MR,2.0,MR2,Y,Alignment Cop
+Alvron,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+Aonar,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+Luckat,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+A Joe in the Bush,E,L,2.0,2.0,1.0,L,N,MR,2.0,MR2,Y,Regular
+Wyrmhero,G,W,2.0,-,2.0,S,N,MR,2.0,MR2,Y,Jack of All Trades
+Tulir,E,L,4.0,4.0,1.0,L,N,MR,2.0,MR2,Y,Regular
+Sart,E,L,5.0,5.0,1.0,L,N,MR,2.0,MR2,Y,Kill
+Jain,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+Theorymaker,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+Ashiok,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Jack of All Trades
+Binnut,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+Twei,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+Sir Jerric,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+Kal Dell,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+QuiteContrary,G,W,-,-,0.0,S,N,MR,2.0,MR2,Y,Regular
+Meta,G,L,1.0,1.0,1.0,F,N,LG,8.0,LG8,Y,Vote Change
+Mailliw73,G,L,9.0,9.0,1.0,E,N,LG,8.0,LG8,Y,-
+little wilson,G,L,4.0,4.0,1.0,E,N,LG,8.0,LG8,Y,-
+Peng,G,L,3.0,3.0,1.0,L,N,LG,8.0,LG8,Y,Kill
+Alvron,E,W,-,-,0.0,S,N,LG,8.0,LG8,Y,Kandra
+Aonar,G,L,2.0,2.0,1.0,E,N,LG,8.0,LG8,Y,Regular
+Luckat,G,L,1.0,1.0,1.0,E,N,LG,8.0,LG8,Y,Regular
+A Joe in the Bush,E,W,-,-,0.0,S,N,LG,8.0,LG8,Y,Kandra
+Gleeman,E,W,-,-,0.0,S,N,LG,8.0,LG8,Y,Kandra
+Tulir,G,L,5.0,5.0,1.0,L,N,LG,8.0,LG8,Y,Misc Cop
+Sart,G,L,2.0,8.0,3.0,E,N,LG,8.0,LG8,Y,-
+Jain,G,L,1.0,1.0,1.0,L,N,LG,8.0,LG8,Y,-
+Binnut,G,L,9.0,9.0,1.0,L,N,LG,8.0,LG8,Y,Double Life
+Twei,G,L,9.0,9.0,1.0,E,N,LG,8.0,LG8,Y,Protect
+dants,G,L,-,-,0.0,S,N,LG,8.0,LG8,Y,-
+QuiteContrary,G,L,4.0,4.0,1.0,L,N,LG,8.0,LG8,Y,Regular
+Araris Valerian,G,L,6.0,6.0,1.0,E,N,LG,8.0,LG8,Y,Double Vote
+killersquirrel,G,L,7.0,7.0,1.0,E,N,LG,8.0,LG8,Y,Regular
+Navybrandt,G,L,3.0,3.0,1.0,E,N,LG,8.0,LG8,Y,Tineye
+Pupper,G,L,-,-,0.0,S,N,LG,8.0,LG8,Y,-
+Mailliw73,G,W,-,-,0.0,S,N,QF,3.0,QF3,N,Regular
+Alvron,G,W,3.0,3.0,1.0,L,N,QF,3.0,QF3,N,Regular
+Aonar,G,W,-,-,0.0,S,N,QF,3.0,QF3,N,Regular
+Luckat,G,W,2.0,2.0,1.0,E,N,QF,3.0,QF3,N,Regular
+A Joe in the Bush,G,W,-,-,0.0,S,N,QF,3.0,QF3,N,Regular
+Wyrmhero,G,W,1.0,1.0,1.0,E,N,QF,3.0,QF3,N,Regular
+Tulir,G,W,-,-,0.0,S,N,QF,3.0,QF3,N,Regular
+Jain,G,W,1.0,1.0,1.0,L,N,QF,3.0,QF3,N,Regular
+Kasimir,G,W,2.0,2.0,1.0,L,N,QF,3.0,QF3,N,Regular
+Theorymaker,E,L,4.0,4.0,1.0,L,N,QF,3.0,QF3,N,Misc?
+Ashiok,E,L,5.0,5.0,1.0,V,N,QF,3.0,QF3,N,Regular
+Renegade,E,L,5.0,5.0,1.0,L,N,QF,3.0,QF3,N,Regular
+Araris Valerian,G,W,4.0,4.0,1.0,E,N,QF,3.0,QF3,N,Regular
+Navybrandt,G,W,3.0,3.0,1.0,E,N,QF,3.0,QF3,N,Regular
+Meta,G,L,1.0,1.0,1.0,E,N,MR,3.0,MR3,N,Action Cop
+Mailliw73,G,L,2.0,2.0,1.0,E,N,MR,3.0,MR3,N,Regular
+Gamma,G,L,4.0,4.0,1.0,E,N,MR,3.0,MR3,N,Regular
+Alvron,G,L,-,-,0.0,S,N,MR,3.0,MR3,N,Regular
+Aonar,G,L,3.0,3.0,1.0,E,N,MR,3.0,MR3,N,Regular
+A Joe in the Bush,G,L,5.0,5.0,1.0,E,N,MR,3.0,MR3,N,Misc
+Wyrmhero,E,W,-,-,0.0,S,N,MR,3.0,MR3,N,Regular
+Tulir,G,L,4.0,4.0,1.0,L,N,MR,3.0,MR3,N,Misc
+Jain,G,L,-,-,0.0,S,N,MR,3.0,MR3,N,Regular
+Kasimir,E,W,-,-,0.0,S,N,MR,3.0,MR3,N,Regular
+Ashiok,G,L,5.0,5.0,1.0,E,N,MR,3.0,MR3,N,Action Cop
+Twei,E,W,-,-,0.0,S,N,MR,3.0,MR3,N,Regular
+Araris Valerian,G,L,5.0,5.0,1.0,L,N,MR,3.0,MR3,N,Regular
+DUI/Smokestone,E,W,1.0,1.0,1.0,L,N,MR,3.0,MR3,N,Regular
+Winter,G,L,3.0,3.0,1.0,L,N,MR,3.0,MR3,N,Regular
+Mailliw73,E,W,5.0,5.0,1.0,L,N,LG,9.0,LG9,N,False Scan
+Gamma,G,L,3.0,-,1.0,S,N,LG,9.0,LG9,N,Redirect
+little wilson,E,W,-,-,0.0,S,N,LG,9.0,LG9,N,Jack of All Trades
+Aonar,G,L,-,-,0.0,S,N,LG,9.0,LG9,N,Legionnaire
+A Joe in the Bush,G,L,4.0,4.0,1.0,E,N,LG,9.0,LG9,N,Action Cop
+Tulir,M,L,2.0,2.0,1.0,E,N,LG,9.0,LG9,N,Serial Killer
+Jain,G,L,3.0,3.0,1.0,L,N,LG,9.0,LG9,N,Doctor
+Theorymaker,G,L,4.0,4.0,1.0,L,N,LG,9.0,LG9,N,Protect
+Ashiok,G,L,3.0,3.0,1.0,E,N,LG,9.0,LG9,N,Kill
+Renegade,G,L,2.0,2.0,1.0,M,N,LG,9.0,LG9,N,Inventor
+Araris Valerian,G,L,5.0,5.0,1.0,F,N,LG,9.0,LG9,N,Action Cop
+killersquirrel,G,L,6.0,6.0,1.0,L,N,LG,9.0,LG9,N,Vote Move
+Winter,G,L,2.0,2.0,1.0,L,N,LG,9.0,LG9,N,Protect
+Steel,G,L,1.0,1.0,1.0,L,N,LG,9.0,LG9,N,Kill
+Jasnah/Trelagist,E,W,3.0,3.0,1.0,V,N,LG,9.0,LG9,N,Roleblock
+Meta,G,L,3.0,3.0,1.0,E,N,QF,4.0,QF4,N,Regular
+Mailliw73,G,L,4.0,4.0,1.0,E,N,QF,4.0,QF4,N,Role Cop
+Alvron,B,W,-,-,0.0,S,N,QF,4.0,QF4,N,PM Creator
+Aonar,B,W,-,-,0.0,S,N,QF,4.0,QF4,N,Protect
+Luckat,G,L,2.0,2.0,1.0,L,N,QF,4.0,QF4,N,Regular
+Chid/Newan,B,W,3.0,3.0,1.0,L,N,QF,4.0,QF4,N,Kill
+Wyrmhero,G,L,2.0,2.0,1.0,E,N,QF,4.0,QF4,N,Regular
+Sart,E,W,-,-,0.0,S,N,QF,4.0,QF4,N,Jack of All Trades
+Jain,G,L,-,-,0.0,S,N,QF,4.0,QF4,N,Kill
+Ashiok,G,L,-,-,0.0,S,N,QF,4.0,QF4,N,Regular
+Araris Valerian,G,L,4.0,4.0,1.0,L,N,QF,4.0,QF4,N,Regular
+Winter,G,L,5.0,5.0,1.0,E,N,QF,4.0,QF4,N,Regular
+Jasnah/Trelagist,G,L,5.0,5.0,1.0,L,N,QF,4.0,QF4,N,Role Cop
+Rainspren,G,L,-,-,0.0,S,N,QF,4.0,QF4,N,Protect
+Meta,G,W,2.0,3.0,2.0,L,N,MR,4.0,MR4,N,Misc Cop
+Mailliw73,G,W,5.0,5.0,1.0,L,N,MR,4.0,MR4,N,PM Creator
+little wilson,G,W,1.0,5.0,2.0,E,N,MR,4.0,MR4,N,Roleblock
+Alvron,G,W,4.0,-,2.0,S,N,MR,4.0,MR4,N,Doctor
+Aonar,E,L,6.0,6.0,1.0,L,N,MR,4.0,MR4,N,Doctor
+Luckat,G,W,-,-,0.0,S,N,MR,4.0,MR4,N,Doctor
+A Joe in the Bush,G,W,7.0,7.0,1.0,E,N,MR,4.0,MR4,N,Regular
+Macen,E,L,4.0,5.0,2.0,V,N,MR,4.0,MR4,N,Roleblock
+Chid/Newan,G,W,-,-,0.0,S,N,MR,4.0,MR4,N,Regular
+Jain,E,L,2.0,2.0,1.0,L,N,MR,4.0,MR4,N,Regular
+Kasimir,G,W,2.0,-,2.0,S,N,MR,4.0,MR4,N,Jester
+Ashiok,G,W,1.0,1.0,1.0,E,N,MR,4.0,MR4,N,PM Creator
+Renegade,G,W,-,-,0.0,S,N,MR,4.0,MR4,N,Regular
+Twei,E,L,7.0,7.0,1.0,V,N,MR,4.0,MR4,N,Regular
+Araris Valerian,G,W,-,-,0.0,S,N,MR,4.0,MR4,N,Doctor
+Winter,G,W,6.0,6.0,1.0,F,N,MR,4.0,MR4,N,Regular
+Jasnah/Trelagist,E,L,6.0,6.0,1.0,V,N,MR,4.0,MR4,N,PM Creator
+Rainspren,E,L,-,5.0,0.0,I,Y,MR,4.0,MR4,N,Doctor
+Mckeedee,G,W,-,-,0.0,S,N,MR,4.0,MR4,N,Misc Cop
+Eolhondras,G,W,-,-,0.0,S,N,MR,4.0,MR4,N,Doctor
+Meta,N,L,3.0,3.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Mailliw73,N,L,1.0,1.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Gamma,N,L,3.0,3.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Alvron,N,L,3.0,3.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Aonar,N,L,4.0,4.0,1.0,N,N,QF,5.0,QF5,N,Regular
+A Joe in the Bush,N,L,4.0,4.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Macen,N,L,1.0,1.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Chid/Newan,N,L,2.0,2.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Sart,N,L,2.0,2.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Ashiok,N,L,1.0,1.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Twei,N,L,5.0,5.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Araris Valerian,N,L,2.0,2.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Winter,N,L,1.0,1.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Mckeedee,N,L,1.0,1.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Eolhondras,N,L,3.0,3.0,1.0,N,N,QF,5.0,QF5,N,Regular
+tusoud,N,L,6.0,6.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Salamander,N,L,6.0,6.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Seonid,N,L,2.0,2.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Dominic,N,W,-,-,0.0,S,N,QF,5.0,QF5,N,Regular
+dowanx,N,L,1.0,1.0,1.0,N,N,QF,5.0,QF5,N,Regular
+IcyNinja,N,L,5.0,5.0,1.0,N,N,QF,5.0,QF5,N,Regular
+Mailliw73,G,L,-,-,0.0,S,N,AG,1.0,AG1,N,Tineye
+Claincy,E,W,-,-,0.0,S,N,AG,1.0,AG1,N,Smoker
+little wilson,G,L,5.0,5.0,1.0,E,N,AG,1.0,AG1,N,Protect
+Peng,G,L,-,-,0.0,S,N,AG,1.0,AG1,N,Regular
+Weiry,E,W,6.0,6.0,2.0,L,N,AG,1.0,AG1,N,Smoker
+Alvron,G,L,1.0,1.0,1.0,E,N,AG,1.0,AG1,N,Vote Cancel
+Herowannabe,G,L,6.0,6.0,1.0,E,N,AG,1.0,AG1,N,Kill
+A Joe in the Bush,G,L,-,-,0.0,S,N,AG,1.0,AG1,N,Regular
+Macen,G,L,-,-,0.0,S,N,AG,1.0,AG1,N,Regular
+Chid/Newan,G,L,8.0,8.0,1.0,E,N,AG,1.0,AG1,N,Smoker
+Wyrmhero,G,L,2.0,9.0,2.0,L,N,AG,1.0,AG1,N,Double Life
+Sart,G,L,2.0,2.0,1.0,L,N,AG,1.0,AG1,N,Smoker
+Jain,G,L,8.0,8.0,1.0,L,N,AG,1.0,AG1,N,Vote Move
+Kasimir,G,L,2.0,2.0,1.0,E,N,AG,1.0,AG1,N,Regular
+Ashiok,G,L,4.0,4.0,1.0,L,N,AG,1.0,AG1,N,Regular
+Renegade,G,L,3.0,3.0,1.0,F,N,AG,1.0,AG1,N,Tineye
+Araris Valerian,G,L,3.0,3.0,1.0,E,N,AG,1.0,AG1,N,Cop
+Winter,G,L,5.0,5.0,1.0,F,N,AG,1.0,AG1,N,Smoker
+Jasnah/Trelagist,G,L,-,-,0.0,S,N,AG,1.0,AG1,N,Double Life
+Mckeedee,E,W,-,-,0.0,S,N,AG,1.0,AG1,N,Jack of All Trades
+Eolhondras,G,L,4.0,4.0,1.0,E,N,AG,1.0,AG1,N,Jack of All Trades
+Seonid,E,W,-,-,0.0,S,N,AG,1.0,AG1,N,Protect
+Dominic,G,L,-,-,0.0,S,N,AG,1.0,AG1,N,Regular
+dowanx,G,L,7.0,7.0,1.0,L,N,AG,1.0,AG1,N,Regular
+Lord Pifferdoo,G,L,9.0,9.0,1.0,E,N,AG,1.0,AG1,N,Vote Cancel
+Ostrich,G,L,4.0,4.0,1.0,F,N,AG,1.0,AG1,N,Regular
+Unodus,E,W,-,-,0.0,S,N,AG,1.0,AG1,N,Vote Move
+Sarcomere,G,L,7.0,7.0,1.0,E,N,AG,1.0,AG1,N,Vote Cancel
+Meta,N,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Double Life
+Mailliw73,E,L,4.0,4.0,1.0,V,N,LG,10.0,LG10,Y,Kill
+Gamma,E,L,4.0,4.0,1.0,V,N,LG,10.0,LG10,Y,Mass PMs
+Peng,G,W,1.0,6.0,2.0,S,N,LG,10.0,LG10,Y,Protect
+Alvron,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Regular
+Aonar,G,W,3.0,3.0,1.0,E,N,LG,10.0,LG10,Y,Kill
+Luckat,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Regular
+Tulir,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Misc
+Sart,G,W,1.0,1.0,1.0,E,N,LG,10.0,LG10,Y,Regular
+Jain,E,L,10.0,10.0,1.0,L,N,LG,10.0,LG10,Y,Regular
+Ashiok,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Bodyguard
+Twei,G,W,7.0,7.0,1.0,E,N,LG,10.0,LG10,Y,Protect
+Araris Valerian,E,L,7.0,7.0,1.0,L,N,LG,10.0,LG10,Y,Misc
+Winter,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Lynch Protect
+Mckeedee,G,W,2.0,2.0,1.0,E,N,LG,10.0,LG10,Y,Regular
+Eolhondras,G,W,6.0,6.0,1.0,E,N,LG,10.0,LG10,Y,Redirect
+dowanx,E,L,4.0,4.0,1.0,L,N,LG,10.0,LG10,Y,Regular
+Lord Pifferdoo,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,PM Creator
+Ostrich,G,W,4.0,4.0,1.0,E,N,LG,10.0,LG10,Y,Role Cop
+Unodus,G,W,5.0,5.0,1.0,L,N,LG,10.0,LG10,Y,Regular
+Sarcomere,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Role Cop
+Bort,G,W,9.0,9.0,1.0,L,N,LG,10.0,LG10,Y,Misc
+Kipper,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Jack of All Trades
+Feligon,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Protect
+Splinter,G,W,8.0,8.0,1.0,E,N,LG,10.0,LG10,Y,Protect
+Antillar,G,W,3.0,3.0,1.0,L,N,LG,10.0,LG10,Y,Misc Cop
+Leif,G,W,-,-,0.0,S,N,LG,10.0,LG10,Y,Jack of All Trades
+Vineyarddawg,E,L,3.0,3.0,1.0,V,N,LG,10.0,LG10,Y,Poisoner
+Clanky,G,W,2.0,2.0,1.0,L,N,LG,10.0,LG10,Y,Poisoner
+Meta,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Regular
+Mailliw73,E,L,5.0,5.0,1.0,L,N,QF,6.0,QF6,Y,Regular
+Gamma,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Regular
+Peng,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Misc?
+Alvron,E,L,6.0,6.0,1.0,L,N,QF,6.0,QF6,Y,Regular
+Aonar,G,W,6.0,6.0,1.0,E,N,QF,6.0,QF6,Y,Regular
+Luckat,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,PM Spy
+A Joe in the Bush,G,W,5.0,5.0,1.0,E,N,QF,6.0,QF6,Y,Cop
+Sart,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Regular
+Jain,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Regular
+Kasimir,G,W,7.0,7.0,1.0,E,N,QF,6.0,QF6,Y,Writeup Messages
+Araris Valerian,G,W,2.0,2.0,1.0,L,N,QF,6.0,QF6,Y,Regular
+Winter,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Matchmaker
+Eolhondras,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Regular
+Lord Pifferdoo,E,L,4.0,4.0,1.0,L,N,QF,6.0,QF6,Y,Regular
+Kipper,G,W,1.0,1.0,1.0,L,N,QF,6.0,QF6,Y,Regular
+Antillar,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Regular
+Vineyarddawg,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Regular
+Cheese United,G,W,-,-,0.0,S,N,QF,6.0,QF6,Y,Protect
+Phattemer,E,L,7.0,7.0,1.0,L,N,QF,6.0,QF6,Y,Regular
+Mailliw73,F,L,2.0,2.0,2.0,L,N,MR,5.0,MR5,N,False Scan
+Gamma,F,W,6.0,-,1.0,S,N,MR,5.0,MR5,N,Double Life
+little wilson,F,L,6.0,12.0,5.0,N,N,MR,5.0,MR5,N,Double Life
+Aonar,F,L,4.0,4.0,1.0,N,N,MR,5.0,MR5,N,Double Life
+Luckat,F,W,6.0,6.0,2.0,N,N,MR,5.0,MR5,N,Protect
+A Joe in the Bush,F,L,2.0,2.0,1.0,N,N,MR,5.0,MR5,N,False Scan
+Chid/Newan,F,L,3.0,5.0,2.0,L,N,MR,5.0,MR5,N,Alignment Cop
+Tulir,F,L,10.0,11.0,2.0,L,N,MR,5.0,MR5,N,Double Life
+Sart,F,W,5.0,6.0,2.0,N,N,MR,5.0,MR5,N,Jack of All Trades
+Jain,F,L,3.0,3.0,1.0,N,N,MR,5.0,MR5,N,Protect
+Ashiok,F,L,-,-,0.0,I,Y,MR,5.0,MR5,N,Protect
+Renegade,N,L,2.0,-,2.0,I,Y,MR,5.0,MR5,N,Redirect
+Twei,F,L,8.0,8.0,1.0,L,N,MR,5.0,MR5,N,Double Life
+Kal Dell,F,L,-,-,0.0,I,Y,MR,5.0,MR5,N,Alignment Cop
+Araris Valerian,F,L,12.0,12.0,1.0,N,N,MR,5.0,MR5,N,Jack of All Trades
+Winter,F,L,7.0,7.0,1.0,L,N,MR,5.0,MR5,N,Kill
+Rainspren,F,W,10.0,10.0,1.0,N,N,MR,5.0,MR5,N,False Scan
+Eolhondras,F,L,3.0,3.0,1.0,N,N,MR,5.0,MR5,N,Kill
+Seonid,F,L,4.0,4.0,1.0,N,N,MR,5.0,MR5,N,Protect
+dowanx,F,L,8.0,12.0,2.0,N,N,MR,5.0,MR5,N,Jack of All Trades
+Lord Pifferdoo,F,L,9.0,11.0,3.0,N,N,MR,5.0,MR5,N,Jack of All Trades
+Ostrich,F,L,2.0,2.0,1.0,N,N,MR,5.0,MR5,N,False Scan
+Bort,F,W,5.0,5.0,1.0,N,N,MR,5.0,MR5,N,Alignment Cop
+Feligon,F,L,7.0,10.0,3.0,N,N,MR,5.0,MR5,N,Double Life
+Splinter,F,L,-,-,0.0,I,Y,MR,5.0,MR5,N,Kill
+Vineyarddawg,F,L,9.0,10.0,2.0,N,N,MR,5.0,MR5,N,Double Life
+Clanky,F,W,4.0,4.0,1.0,L,Y,MR,5.0,MR5,N,Double Life
+Phattemer,F,W,3.0,3.0,1.0,L,N,MR,5.0,MR5,N,Kill
+ShardbearerFanatic,F,L,4.0,4.0,1.0,N,Y,MR,5.0,MR5,N,Alignment Cop
+Meta,G,W,7.0,8.0,5.0,S,N,LG,11.0,LG11,Y,Double Life
+Mailliw73,G,W,7.0,7.0,1.0,F,N,LG,11.0,LG11,Y,Vote Move
+Alvron,E,L,6.0,6.0,1.0,L,N,LG,11.0,LG11,Y,Self Protect
+Luckat,G,W,1.0,-,1.0,S,N,LG,11.0,LG11,Y,Protect
+A Joe in the Bush,G,W,2.0,2.0,1.0,E,N,LG,11.0,LG11,Y,Kill
+Tulir,G,W,-,-,0.0,S,N,LG,11.0,LG11,Y,Misc Cop
+Sart,G,W,8.0,8.0,1.0,F,N,LG,11.0,LG11,Y,Kill
+Jain,N,W,-,-,0.0,S,N,LG,11.0,LG11,Y,Misc
+Twei,E,L,8.0,8.0,1.0,L,N,LG,11.0,LG11,Y,Untargetable
+jaelre,E,L,7.0,7.0,1.0,L,N,LG,11.0,LG11,Y,Cop
+Lev,G,W,-,-,0.0,S,N,LG,11.0,LG11,Y,Poisoner
+Araris Valerian,N,W,5.0,5.0,1.0,S,N,LG,11.0,LG11,Y,Double Life
+Winter,E,L,3.0,3.0,1.0,L,N,LG,11.0,LG11,Y,Scan Protection
+Rainspren,G,W,-,-,0.0,S,N,LG,11.0,LG11,Y,Kill
+Eolhondras,G,W,2.0,2.0,1.0,L,N,LG,11.0,LG11,Y,Roleblock
+dowanx,G,W,-,-,0.0,S,N,LG,11.0,LG11,Y,Mass PMs
+Lord Pifferdoo,G,W,8.0,8.0,1.0,E,N,LG,11.0,LG11,Y,PM Spy
+Ostrich,G,W,4.0,8.0,2.0,S,N,LG,11.0,LG11,Y,Mass PMs
+Bort,G,W,8.0,8.0,1.0,E,N,LG,11.0,LG11,Y,Smoker
+Feligon,N,L,8.0,8.0,1.0,E,N,LG,11.0,LG11,Y,Misc Cop
+Splinter,G,W,7.0,7.0,1.0,F,N,LG,11.0,LG11,Y,Double Vote
+Vineyarddawg,G,W,5.0,6.0,2.0,E,N,LG,11.0,LG11,Y,Cop
+Clanky,G,W,-,-,0.0,S,N,LG,11.0,LG11,Y,Roleblock
+Phattemer,G,W,3.0,3.0,1.0,E,N,LG,11.0,LG11,Y,Role Cop
+Nicroburst,G,W,-,-,0.0,S,N,LG,11.0,LG11,Y,Self Protect
+Honey Badger,E,L,4.0,4.0,2.0,L,N,LG,11.0,LG11,Y,Role Cop
+spencer12347,G,W,-,-,0.0,S,N,LG,11.0,LG11,Y,Vote Cancel
+Wonko the Sane,N,W,2.0,-,0.0,S,N,LG,11.0,LG11,Y,Protect
+neodymium,G,W,-,-,0.0,S,N,LG,11.0,LG11,Y,Kill
+lord Mattias Mountford,G,W,3.0,3.0,1.0,F,N,LG,11.0,LG11,Y,Vote Cancel
+Kandra Skrull,G,W,7.0,7.0,1.0,E,N,LG,11.0,LG11,Y,Vote Move
+Haelbarde,N,L,8.0,8.0,1.0,E,N,LG,11.0,LG11,Y,Regular
+Mailliw73,G,L,-,3.0,-,E,N,QF,7.0,QF7,N,Double Life
+Alvron,G,L,-,5.0,-,E,N,QF,7.0,QF7,N,Regular
+A Joe in the Bush,E,W,-,5.0,-,L,N,QF,7.0,QF7,N,Regular
+Jain,E,W,-,4.0,-,V,N,QF,7.0,QF7,N,Misc
+Araris Valerian,G,L,-,3.0,-,L,N,QF,7.0,QF7,N,Misc
+Winter,G,W,-,5.0,-,F,N,QF,7.0,QF7,N,Regular
+Rainspren,G,L,-,6.0,-,E,N,QF,7.0,QF7,N,Regular
+dowanx,G,L,2.0,2.0,1.0,L,N,QF,7.0,QF7,N,Misc
+Lord Pifferdoo,G,L,2.0,2.0,1.0,E,N,QF,7.0,QF7,N,Vote Move
+Ostrich,G,L,-,6.0,-,E,N,QF,7.0,QF7,N,Double Life
+Feligon,E,W,-,-,-,S,N,QF,7.0,QF7,N,Vote Protection
+Clanky,E,W,-,-,-,S,N,QF,7.0,QF7,N,Protect
+Phattemer,G,L,2.0,2.0,1.0,F,N,QF,7.0,QF7,N,Vote Protection
+spencer12347,G,L,-,4.0,-,L,N,QF,7.0,QF7,N,Action Cop
+Wonko the Sane,G,L,3.0,3.0,1.0,F,N,QF,7.0,QF7,N,Regular
+Haelbarde,G,L,-,4.0,-,E,N,QF,7.0,QF7,N,Role Cop
+Emerald101,G,L,-,6.0,-,L,N,QF,7.0,QF7,N,Roleblock
+Mailliw73,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Vote Cancel
+Gamma,B,W,-,-,-,S,N,MR,6.0,MR6,Y,Kill
+little wilson,E,W,1.0,1.0,1.0,V,N,MR,6.0,MR6,Y,Jack of All Trades
+Alvron,G,L,1.0,1.0,1.0,E,N,MR,6.0,MR6,Y,Smoker
+A Joe in the Bush,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Vote Move
+Jain,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Vote Cancel
+Araris Valerian,G,L,-,-,-,F,N,MR,6.0,MR6,Y,Vote Cancel
+Rainspren,E,W,-,-,-,S,N,MR,6.0,MR6,Y,PM Creator
+Mckeedee,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Doctor
+dowanx,G,L,-,-,-,E,N,MR,6.0,MR6,Y,PM Creator
+Lord Pifferdoo,G,L,-,-,-,L,N,MR,6.0,MR6,Y,Kill
+Ostrich,E,W,-,-,-,S,N,MR,6.0,MR6,Y,Double Life
+Bort,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Jack of All Trades
+Feligon,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Vote Move
+Vineyarddawg,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Smoker
+Clanky,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Regular
+Phattemer,G,L,-,-,-,L,N,MR,6.0,MR6,Y,Doctor
+Honey Badger,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Role Cop
+spencer12347,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Doctor
+Wonko the Sane,G,L,-,-,-,S,N,MR,6.0,MR6,Y,PM Spy
+neodymium,G,L,-,-,-,E,N,MR,6.0,MR6,Y,Double Life
+Haelbarde,G,L,-,-,-,E,N,MR,6.0,MR6,Y,PM Spy
+Emerald101,E,W,-,-,-,S,N,MR,6.0,MR6,Y,Smoker
+TheSilverDragon,G,L,-,-,-,S,N,MR,6.0,MR6,Y,Vote Move
+Orlok Tsubodai,E,W,-,-,-,S,N,MR,6.0,MR6,Y,Vote Cancel
+Anamaximder,G,L,-,-,-,I,Y,MR,6.0,MR6,Y,Vote Move
+Kasheannin,G,L,-,-,-,I,Y,MR,6.0,MR6,Y,Role Cop
+Meta,G,W,8.0,-,1.0,S,N,LG,12.0,LG12,Y,Cop
+Mailliw73,G,W,3.0,3.0,1.0,L,N,LG,12.0,LG12,Y,Regular
+Claincy,E,L,-,-,-,V,N,LG,12.0,LG12,Y,Misc
+little wilson,N,L,3.0,9.0,2.0,E,N,LG,12.0,LG12,Y,Double Vote
+Alvron,N,L,9.0,9.0,1.0,N,N,LG,12.0,LG12,Y,Regular
+Aonar,G,W,-,4.0,0.0,D,N,LG,12.0,LG12,Y,Matchmaker
+Luckat,C,L,9.0,9.0,1.0,V,N,LG,12.0,LG12,Y,Conversion
+Wyrmhero,G,W,-,-,0.0,S,N,LG,12.0,LG12,Y,Matchmaker
+Sart,G,W,-,-,0.0,S,N,LG,12.0,LG12,Y,Regular
+Jain,D,L,-,-,-,L,N,LG,12.0,LG12,Y,Conversion
+Kasimir,N,L,9.0,9.0,1.0,N,N,LG,12.0,LG12,Y,Matchmaker
+Renegade,G,W,-,-,0.0,S,N,LG,12.0,LG12,Y,Regular
+Twei,G,W,7.0,-,1.0,S,N,LG,12.0,LG12,Y,Protect
+Araris Valerian,G,W,9.0,9.0,1.0,L,N,LG,12.0,LG12,Y,Poisoner
+Winter,E,L,4.0,4.0,1.0,L,N,LG,12.0,LG12,Y,Regular
+Rainspren,G,W,7.0,7.0,1.0,L,N,LG,12.0,LG12,Y,Double Vote
+Mckeedee,G,W,-,-,0.0,S,N,LG,12.0,LG12,Y,Poisoner
+Seonid,G,W,5.0,-,3.0,S,N,LG,12.0,LG12,Y,Protect
+dowanx,G,W,-,-,0.0,S,N,LG,12.0,LG12,Y,Vote Move
+Lord Pifferdoo,G,W,-,4.0,0.0,I,Y,LG,12.0,LG12,Y,Vote Manip
+Ostrich,G,W,-,5.0,0.0,I,Y,LG,12.0,LG12,Y,Vote Move
+Bort,E,L,6.0,6.0,1.0,L,N,LG,12.0,LG12,Y,Vote Move
+Kipper,E,L,-,7.0,0.0,V,N,LG,12.0,LG12,Y,Vote Manip
+Feligon,G,W,1.0,1.0,1.0,L,N,LG,12.0,LG12,Y,Vote Manip
+Clanky,G,W,-,-,0.0,S,N,LG,12.0,LG12,Y,Misc
+Phattemer,G,W,2.0,4.0,2.0,E,N,LG,12.0,LG12,Y,Cop
+Honey Badger,G,W,5.0,5.0,1.0,L,N,LG,12.0,LG12,Y,Poisoner
+spencer12347,G,W,2.0,2.0,1.0,L,N,LG,12.0,LG12,Y,Misc
+Wonko the Sane,G,W,-,5.0,0.0,I,Y,LG,12.0,LG12,Y,Regular
+neodymium,G,W,-,-,0.0,S,N,LG,12.0,LG12,Y,Misc
+Haelbarde,G,W,9.0,9.0,1.0,F,N,LG,12.0,LG12,Y,Regular
+Emerald101,G,W,9.0,9.0,1.0,F,N,LG,12.0,LG12,Y,Vote Manip
+Orlok Tsubodai,G,W,1.0,1.0,1.0,E,N,LG,12.0,LG12,Y,Regular
+Zas,E,L,5.0,5.0,1.0,V,N,LG,12.0,LG12,Y,Regular
+Silverblade5,G,W,9.0,9.0,1.0,F,N,LG,12.0,LG12,Y,Vote Move
+Burnt Spaghetti,E,L,9.0,9.0,1.0,V,N,LG,12.0,LG12,Y,Vote Manip
+Meta,G,W,-,-,-,F,N,QF,8.0,QF8,N,Regular
+Gamma,E,L,-,-,-,V,N,QF,8.0,QF8,N,Regular
+Peng,G,W,-,-,-,E,N,QF,8.0,QF8,N,Regular
+Alvron,G,W,-,-,-,L,N,QF,8.0,QF8,N,Regular
+A Joe in the Bush,G,W,-,-,-,E,N,QF,8.0,QF8,N,Regular
+Jain,G,W,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Araris Valerian,G,W,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Seonid,G,W,-,-,-,E,N,QF,8.0,QF8,N,Regular
+dowanx,G,W,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Bort,G,W,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Leif,G,W,-,-,-,E,N,QF,8.0,QF8,N,Regular
+Clanky,G,W,-,-,-,S,N,QF,8.0,QF8,N,Regular
+Phattemer,G,W,-,-,-,L,N,QF,8.0,QF8,N,Regular
+neodymium,E,L,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Orlok Tsubodai,G,W,-,-,-,E,N,QF,8.0,QF8,N,Regular
+Zas,G,W,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Burnt Spaghetti,G,W,-,-,-,F,N,QF,8.0,QF8,N,Regular
+LadyEowyn/Emilylime,G,W,-,-,-,E,N,QF,8.0,QF8,N,Regular
+Shallan,G,W,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Bridge Boy/Elithanathile,E,L,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Adamir,G,W,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Aanwolf,E,L,-,-,-,L,N,QF,8.0,QF8,N,Regular
+Mailliw73,F,W,3.0,3.0,-,N,N,MR,7.0,MR7,Y,Alignment Cop
+little wilson,F,W,2.0,2.0,-,N,N,MR,7.0,MR7,Y,Protect
+Alvron,E,L,-,10.0,-,L,N,MR,7.0,MR7,Y,Double Life
+Aonar,E,L,3.0,3.0,-,,N,MR,7.0,MR7,Y,Roleblock
+Herowannabe,F,W,-,-,-,N,N,MR,7.0,MR7,Y,Protect
+A Joe in the Bush,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+Wyrmhero,F,L,-,4.0,-,,N,MR,7.0,MR7,Y,Double Life
+Jain,F,L,2.0,2.0,-,,N,MR,7.0,MR7,Y,Vote Move
+Araris Valerian,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+Seonid,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+dowanx,F,L,-,9.0,-,,N,MR,7.0,MR7,Y,Beggar
+Bort,F,W,-,7.0,-,,N,MR,7.0,MR7,Y,Kill
+Kipper,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+Clanky,F,L,-,6.0,-,,N,MR,7.0,MR7,Y,Double Life
+Phattemer,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+neodymium,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+Haelbarde,F,L,-,5.0,-,,N,MR,7.0,MR7,Y,Double Life
+Emerald101,F,L,2.0,2.0,-,L?,N,MR,7.0,MR7,Y,Kill
+Orlok Tsubodai,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+Zas,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+LadyEowyn/Emilylime,F,L,-,7.0,-,,N,MR,7.0,MR7,Y,Alignment Cop
+Shallan,F,W,-,7.0,-,,N,MR,7.0,MR7,Y,Kill
+Bridge Boy/Elithanathile,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+Adamir,G,W,-,-,-,S,N,MR,7.0,MR7,Y,-
+Paranoid King,E,L,-,-,-,,N,MR,7.0,MR7,Y,-
+Zephrer,E,L,-,-,-,,N,MR,7.0,MR7,Y,-
+Pixie,F,W,-,-,-,,N,MR,7.0,MR7,Y,-
+Meta,G,W,-,-,-,E,N,LG,13.0,LG13,N,Regular
+Mailliw73,G,W,-,-,-,S,N,LG,13.0,LG13,N,Cop
+Peng,E,L,-,-,-,V,N,LG,13.0,LG13,N,Roleblock
+Alvron,G,W,-,-,-,E,N,LG,13.0,LG13,N,Redirect
+Herowannabe,E,L,-,-,-,V,N,LG,13.0,LG13,N,Untargetable
+A Joe in the Bush,G,W,-,-,-,S,N,LG,13.0,LG13,N,Regular
+Macen,G,W,-,-,-,E,N,LG,13.0,LG13,N,Cop
+Jain,G,W,-,-,-,F,N,LG,13.0,LG13,N,Kill
+Renegade,E,L,-,-,-,L,N,LG,13.0,LG13,N,Roleblock
+Twei,G,W,-,-,-,S,N,LG,13.0,LG13,N,Kill
+Araris Valerian,G,W,-,-,-,S,N,LG,13.0,LG13,N,Regular
+dowanx,G,W,-,-,-,S,N,LG,13.0,LG13,N,Roleblock
+Bort,G,W,-,-,-,E,N,LG,13.0,LG13,N,Protect
+Kipper,G,W,-,-,-,S,N,LG,13.0,LG13,N,Regular
+Feligon,G,W,-,-,-,L,N,LG,13.0,LG13,N,Regular
+Leif,G,W,-,-,-,L,N,LG,13.0,LG13,N,Protect
+Clanky,G,W,-,-,-,S,N,LG,13.0,LG13,N,Regular
+Phattemer,G,W,-,-,-,S,N,LG,13.0,LG13,N,Kill
+Emerald101,G,W,-,-,-,E,N,LG,13.0,LG13,N,Regular
+Orlok Tsubodai,E,L,-,-,-,L,N,LG,13.0,LG13,N,Cop
+LadyEowyn/Emilylime,G,W,-,-,-,S,N,LG,13.0,LG13,N,Regular
+Shallan,G,W,-,-,-,F,N,LG,13.0,LG13,N,Regular
+Bridge Boy/Elithanathile,E,L,-,-,-,L,N,LG,13.0,LG13,N,Cop
+Adamir,G,W,-,-,-,S,N,LG,13.0,LG13,N,Regular
+Paranoid King,G,W,-,-,-,F,N,LG,13.0,LG13,N,Regular
+eramit,G,W,-,-,-,L,N,LG,13.0,LG13,N,Regular
+idolevy,G,W,-,-,-,F,N,LG,13.0,LG13,N,Redirect
+Meta,G,L,-,-,-,E,N,QF,9.0,QF9,N,Regular
+Mailliw73,G,L,-,-,-,E,N,QF,9.0,QF9,N,Regular
+Alvron,G,L,-,-,-,E,N,QF,9.0,QF9,N,Regular
+A Joe in the Bush,G,L,-,-,-,L,N,QF,9.0,QF9,N,Regular
+Wyrmhero,E,W,-,-,-,S,N,QF,9.0,QF9,N,Regular
+Sart,G,L,-,-,-,L,N,QF,9.0,QF9,N,Regular
+Jain,G,L,-,-,-,S,N,QF,9.0,QF9,N,Regular
+Sir Jerric,G,L,-,-,-,S,N,QF,9.0,QF9,N,Regular
+Bort,E,W,-,-,-,S,N,QF,9.0,QF9,N,Regular
+Kipper,G,L,-,-,-,E,N,QF,9.0,QF9,N,Regular
+Phattemer,G,L,-,-,-,L,N,QF,9.0,QF9,N,Regular
+Haelbarde,G,L,-,-,-,E,N,QF,9.0,QF9,N,Regular
+Orlok Tsubodai,G,L,-,-,-,L,N,QF,9.0,QF9,N,Regular
+Anamaximder,G,L,-,-,-,L,N,QF,9.0,QF9,N,Regular
+Shallan,E,W,1.0,1.0,1.0,L,N,QF,9.0,QF9,N,Regular
+Adamir,G,L,-,-,-,N,N,QF,9.0,QF9,N,Regular
+Vauhsoj,E,W,-,-,-,S,N,QF,9.0,QF9,N,Regular
+RavenRadient7,G,L,-,-,-,S,N,QF,9.0,QF9,N,Regular
+TheMightyLopen,G,L,-,-,-,E,N,QF,9.0,QF9,N,Regular
+Mailliw73,G,L,-,-,-,L,N,MR,8.0,MR8,N,Regular
+Gamma,G,L,-,-,-,L,N,MR,8.0,MR8,N,Double Life
+little wilson,G,L,2.0,2.0,1.0,E,N,MR,8.0,MR8,N,Doctor
+Alvron,G,L,-,-,1.0,E,N,MR,8.0,MR8,N,PM Spy
+Herowannabe,E,W,-,-,-,L,N,MR,8.0,MR8,N,Regular
+Macen,G,L,-,-,-,E,N,MR,8.0,MR8,N,Double Life
+Sart,G,L,-,-,-,F,N,MR,8.0,MR8,N,Alignment Cop
+Araris Valerian,G,L,-,-,-,E,N,MR,8.0,MR8,N,Regular
+Winter,G,L,-,-,-,L,N,MR,8.0,MR8,N,Beggar
+Seonid,G,L,-,-,-,E,N,MR,8.0,MR8,N,Regular
+Bort,G,L,-,-,-,L,N,MR,8.0,MR8,N,Double Life
+Kipper,G,L,-,-,-,E,N,MR,8.0,MR8,N,Kill
+Feligon,G,L,-,-,-,E,N,MR,8.0,MR8,N,Regular
+Clanky,G,L,-,-,-,E,N,MR,8.0,MR8,N,Misc
+Phattemer,G,L,-,-,-,L,N,MR,8.0,MR8,N,Vote Move
+Honey Badger,G,L,-,-,-,E,N,MR,8.0,MR8,N,Doctor
+Haelbarde,G,L,-,-,-,L,N,MR,8.0,MR8,N,Regular
+Emerald101,G,L,-,-,-,I,Y,MR,8.0,MR8,N,Double Life
+TheSilverDragon,E,W,-,-,-,S,N,MR,8.0,MR8,N,PM Spy
+Orlok Tsubodai,E,W,-,-,-,S,N,MR,8.0,MR8,N,Doctor
+Anamaximder,G,L,-,-,-,S,N,MR,8.0,MR8,N,Vote Move
+Shallan,E,W,-,-,-,S,N,MR,8.0,MR8,N,Misc
+Adamir,G,L,-,-,-,E,N,MR,8.0,MR8,N,Beggar
+Paranoid King,G,L,-,-,-,S,N,MR,8.0,MR8,N,Misc
+RavenRadient7,G,L,-,-,-,F,N,MR,8.0,MR8,N,Double Life
+TheMightyLopen,G,L,-,-,-,E,N,MR,8.0,MR8,N,PM Spy
+RippleGylf,E,W,1.0,1.0,1.0,V,N,MR,8.0,MR8,N,Regular
+STINK,G,L,-,-,-,F,N,MR,8.0,MR8,N,PM Spy
+Amanuensis,G,L,-,-,-,L,N,MR,8.0,MR8,N,Regular
+Mailliw73,N,W,-,-,-,S,N,LG,14.0,LG14,Y,-
+Quiver,G,W,5.0,5.0,1.0,E,N,LG,14.0,LG14,Y,-
+little wilson,G,W,3.0,1.0,7.0,E,N,LG,14.0,LG14,Y,-
+Alvron,E,L,-,-,1.0,L,N,LG,14.0,LG14,Y,-
+Macen,G,W,5.0,5.0,1.0,E,N,LG,14.0,LG14,Y,-
+Araris Valerian,G,W,-,-,-,F,N,LG,14.0,LG14,Y,-
+Winter,G,W,-,-,-,F,N,LG,14.0,LG14,Y,-
+Rainspren,G,W,-,-,-,F,N,LG,14.0,LG14,Y,-
+Eolhondras,E,L,-,-,-,L,N,LG,14.0,LG14,Y,-
+Seonid,G,W,-,-,-,L,N,LG,14.0,LG14,Y,-
+dowanx,G,W,-,-,-,L,N,LG,14.0,LG14,Y,-
+Ostrich,G,W,-,-,-,F,N,LG,14.0,LG14,Y,-
+Kipper,G,W,-,-,-,S,N,LG,14.0,LG14,Y,-
+Antillar,E,L,-,-,-,L,N,LG,14.0,LG14,Y,-
+Clanky,G,W,-,-,-,L,N,LG,14.0,LG14,Y,-
+Phattemer,G,W,-,-,-,L,N,LG,14.0,LG14,Y,-
+Phattemer,B,L,-,-,-,L,N,LG,14.0,LG14,Y,-
+Honey Badger,G,W,-,-,-,E,N,LG,14.0,LG14,Y,-
+Haelbarde,E,L,-,-,-,L,N,LG,14.0,LG14,Y,-
+Orlok Tsubodai,G,W,1.0,1.0,1.0,E,N,LG,14.0,LG14,Y,-
+Shallan,G,W,-,-,-,E,N,LG,14.0,LG14,Y,-
+Paranoid King,G,W,-,-,-,L,N,LG,14.0,LG14,Y,-
+RavenRadient7,E,L,-,-,-,V,N,LG,14.0,LG14,Y,-
+TheMightyLopen,G,W,-,-,-,L,N,LG,14.0,LG14,Y,-
+STINK,G,W,-,-,-,S,N,LG,14.0,LG14,Y,-
+Amanuensis,G,W,-,-,-,L,N,LG,14.0,LG14,Y,-
+nicocoberru,G,W,-,-,-,F,N,LG,14.0,LG14,Y,-
+Danstar888,G,W,-,-,-,I,Y,LG,14.0,LG14,Y,-
+Mailliw73,E,W,-,-,-,L,N,QF,10.0,QF10,N,Regular
+Alvron,G,L,-,-,-,S,N,QF,10.0,QF10,N,Regular
+Herowannabe,G,L,-,-,-,E,N,QF,10.0,QF10,N,Regular
+A Joe in the Bush,G,L,-,-,-,S,N,QF,10.0,QF10,N,Regular
+Sart,E,W,-,-,-,L,N,QF,10.0,QF10,N,Regular
+Araris Valerian,G,L,-,-,-,E,N,QF,10.0,QF10,N,Regular
+dowanx,G,L,-,-,-,L,N,QF,10.0,QF10,N,Regular
+Kipper,G,L,-,-,-,E,N,QF,10.0,QF10,N,Regular
+Feligon,E,W,-,-,-,S,N,QF,10.0,QF10,N,Regular
+Clanky,G,L,-,-,-,E,N,QF,10.0,QF10,N,Regular
+Phattemer,G,L,-,-,-,E,N,QF,10.0,QF10,N,Regular
+Orlok Tsubodai,G,L,-,-,-,L,N,QF,10.0,QF10,N,Regular
+Anamaximder,G,L,-,-,-,L,N,QF,10.0,QF10,N,Regular
+Shallan,G,L,-,-,-,E,N,QF,10.0,QF10,N,Regular
+Bridge Boy/Elithanathile,G,L,-,-,-,E,N,QF,10.0,QF10,N,Regular
+Paranoid King,G,L,-,-,-,E,N,QF,10.0,QF10,N,Regular
+TheMightyLopen,G,L,-,-,-,E,N,QF,10.0,QF10,N,Regular
+RippleGylf,G,L,-,-,-,L,N,QF,10.0,QF10,N,Regular
+STINK,G,L,-,-,-,L,N,QF,10.0,QF10,N,Regular
+Amanuensis,E,W,-,-,-,S,N,QF,10.0,QF10,N,Regular
+polkinghornhd,G,L,-,-,-,L,N,QF,10.0,QF10,N,Regular
+Mailliw73,G,W,-,-,-,E,N,MR,9.0,MR9,N,Redirect
+Alvron,G,W,-,-,-,E,N,MR,9.0,MR9,N,Doctor
+A Joe in the Bush,G,W,-,-,-,L,N,MR,9.0,MR9,N,Misc Cop
+Wyrmhero,G,W,-,-,-,F,N,MR,9.0,MR9,N,Role Cop
+Sart,G,W,-,-,-,E,N,MR,9.0,MR9,N,Doctor
+Kasimir,E,L,-,-,-,I,Y,MR,9.0,MR9,N,Redirect
+Araris Valerian,G,W,-,-,-,L,N,MR,9.0,MR9,N,Role Cop
+Winter,E,L,-,-,-,L,N,MR,9.0,MR9,N,Roleblock
+Kipper,G,W,-,-,-,F,N,MR,9.0,MR9,N,Doctor
+Clanky,G,W,-,-,-,E,N,MR,9.0,MR9,N,Smoker
+Phattemer,G,W,-,-,-,S,N,MR,9.0,MR9,N,Misc Cop
+Honey Badger,E,L,-,-,-,L,N,MR,9.0,MR9,N,Misc Cop
+Orlok Tsubodai,G,W,-,-,-,L,N,MR,9.0,MR9,N,Double Life
+Anamaximder,G,W,-,-,-,S,N,MR,9.0,MR9,N,Misc Cop
+Shallan,E,L,-,-,-,V,N,MR,9.0,MR9,N,Smoker
+Zephrer,G,W,-,-,-,L,N,MR,9.0,MR9,N,Misc Cop
+TheMightyLopen,E,L,-,-,-,V,N,MR,9.0,MR9,N,Role Cop
+RippleGylf,G,W,-,-,-,L,N,MR,9.0,MR9,N,Redirect
+RippleGylf,E,L,-,-,-,L,N,MR,9.0,MR9,N,Roleblock
+STINK,G,W,-,-,-,E,N,MR,9.0,MR9,N,Roleblock
+Amanuensis,G,W,-,-,-,E,N,MR,9.0,MR9,N,Double Life
+nicocoberru,G,W,-,-,-,L,N,MR,9.0,MR9,N,Kill
+polkinghornhd,G,W,-,-,-,S,N,MR,9.0,MR9,N,Smoker
+Creccio,G,W,-,-,-,S,N,MR,9.0,MR9,N,Redirect
+Alfa,E,L,-,-,-,L,N,MR,9.0,MR9,N,Double Life
+Meandbooks,G,W,-,-,-,S,N,MR,9.0,MR9,N,Smoker
+Hellscythe,G,W,-,-,-,E,N,MR,9.0,MR9,N,-
+Mailliw73,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+little wilson,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Alvron,E,W,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Araris Valerian,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+dowanx,E,W,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Kipper,E,W,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Clanky,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Phattemer,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Honey Badger,E,W,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Orlok Tsubodai,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Anamaximder,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Shallan,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Bridge Boy/Elithanathile,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Paranoid King,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+TheMightyLopen,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+STINK,E,W,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Amanuensis,E,W,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+polkinghornhd,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Creccio,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Alfa,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Hellscythe,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Arraenae,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Kaid,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Elbereth,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Queensteph,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Elkanah,G,L,-,-,0.0,S,N,LG,15.1,LG15.1,Y,-
+Mailliw73,G,W,-,-,-,E,N,LG,15.2,LG15.2,Y,-
+little wilson,E,L,3.0,3.0,1.0,L,N,LG,15.2,LG15.2,Y,-
+Alvron,G,W,-,-,-,F,N,LG,15.2,LG15.2,Y,-
+Kasimir,G,W,-,-,-,E,N,LG,15.2,LG15.2,Y,-
+Araris Valerian,E,L,-,-,-,V,N,LG,15.2,LG15.2,Y,-
+dowanx,G,W,-,-,-,E,N,LG,15.2,LG15.2,Y,-
+Bort,G,W,-,-,-,L,N,LG,15.2,LG15.2,Y,-
+Kipper,G,W,-,-,-,L,N,LG,15.2,LG15.2,Y,-
+Clanky,G,W,-,-,-,S,N,LG,15.2,LG15.2,Y,-
+Phattemer,G,W,-,-,-,S,N,LG,15.2,LG15.2,Y,-
+Honey Badger,G,W,-,-,-,L,N,LG,15.2,LG15.2,Y,-
+Orlok Tsubodai,G,W,-,-,-,S,N,LG,15.2,LG15.2,Y,-
+Burnt Spaghetti,E,L,-,-,-,L,N,LG,15.2,LG15.2,Y,-
+Shallan,G,W,-,-,-,L,N,LG,15.2,LG15.2,Y,-
+Bridge Boy/Elithanathile,E,L,-,-,-,V,N,LG,15.2,LG15.2,Y,-
+Paranoid King,G,W,-,-,-,L,N,LG,15.2,LG15.2,Y,-
+TheMightyLopen,G,W,-,-,-,S,N,LG,15.2,LG15.2,Y,-
+RippleGylf,G,W,-,-,-,E,N,LG,15.2,LG15.2,Y,-
+STINK,G,W,-,-,-,F,N,LG,15.2,LG15.2,Y,-
+Amanuensis,G,W,-,-,-,E,N,LG,15.2,LG15.2,Y,-
+polkinghornhd,G,W,-,-,-,F,N,LG,15.2,LG15.2,Y,-
+Creccio,G,W,-,-,-,L,N,LG,15.2,LG15.2,Y,-
+Alfa,G,W,-,-,-,L,N,LG,15.2,LG15.2,Y,-
+Hellscythe,B,L,-,-,-,S,N,LG,15.2,LG15.2,Y,-
+Arraenae,G,W,-,-,-,E,N,LG,15.2,LG15.2,Y,-
+Kaid,G,W,-,-,-,F,N,LG,15.2,LG15.2,Y,-
+Elbereth,G,W,-,-,0.0,S,N,LG,15.2,LG15.2,Y,Kill
+Queensteph,G,W,-,-,-,S,N,LG,15.2,LG15.2,Y,-
+Elkanah,E,L,-,-,-,L,N,LG,15.2,LG15.2,Y,-
+Zed,G,W,-,-,-,F,N,LG,15.2,LG15.2,Y,-
+Biggoron,G,W,-,-,-,S,N,LG,15.2,LG15.2,Y,-
+The Cow,E,L,-,-,-,V,N,LG,15.2,LG15.2,Y,-
+Meta,G,L,-,-,-,S,N,QF,11.0,QF11,N,Protect
+Alvron,E,W,-,-,0.0,S,N,QF,11.0,QF11,N,Protect
+Jain,G,L,-,-,-,I,Y,QF,11.0,QF11,N,Writeup Messages
+Ostrich,G,L,-,-,-,I,Y,QF,11.0,QF11,N,Regular
+Bort,G,L,-,-,-,S,N,QF,11.0,QF11,N,Writeup Messages
+Clanky,G,L,-,-,-,E,N,QF,11.0,QF11,N,Regular
+Phattemer,G,L,-,-,-,I,Y,QF,11.0,QF11,N,Regular
+Orlok Tsubodai,E,W,-,-,0.0,S,N,QF,11.0,QF11,N,Mass PMs
+Anamaximder,G,L,-,-,-,E,N,QF,11.0,QF11,N,Regular
+Shallan,G,L,-,-,-,I,Y,QF,11.0,QF11,N,Regular
+Bridge Boy/Elithanathile,G,L,-,-,-,E,N,QF,11.0,QF11,N,Regular
+TheMightyLopen,E,W,-,-,0.0,S,N,QF,11.0,QF11,N,Alignment Cop
+STINK,G,L,-,-,-,E,N,QF,11.0,QF11,N,Writeup Messages
+Creccio,G,L,-,-,-,L,N,QF,11.0,QF11,N,Regular
+Hellscythe,G,L,-,-,-,L,N,QF,11.0,QF11,N,Mass PMs
+Kaid,G,L,-,-,-,I,Y,QF,11.0,QF11,N,Protect
+Elkanah,G,L,-,-,-,E,N,QF,11.0,QF11,N,Regular
+Mailliw73,E,W,1.0,4.0,2.0,V,N,MR,10.0,MR10,Y,-
+Alvron,G,L,3.0,3.0,1.0,L,N,MR,10.0,MR10,Y,-
+Aonar,E,W,-,-,0.0,S,N,MR,10.0,MR10,Y,-
+Sart,G,L,1.0,1.0,1.0,L,N,MR,10.0,MR10,Y,-
+Jain,G,L,8.0,8.0,1.0,E,N,MR,10.0,MR10,Y,-
+Twei,E,W,-,-,0.0,S,N,MR,10.0,MR10,Y,-
+Araris Valerian,G,L,5.0,5.0,1.0,E,N,MR,10.0,MR10,Y,-
+Seonid,G,L,11.0,11.0,1.0,L,N,MR,10.0,MR10,Y,-
+Bort,G,L,8.0,1.0,2.0,E,N,MR,10.0,MR10,Y,-
+Kipper,G,L,4.0,4.0,1.0,F,N,MR,10.0,MR10,Y,-
+Feligon,E,W,-,-,0.0,S,N,MR,10.0,MR10,Y,-
+Clanky,G,L,9.0,9.0,1.0,L,N,MR,10.0,MR10,Y,-
+Phattemer,G,L,7.0,7.0,1.0,E,N,MR,10.0,MR10,Y,-
+Honey Badger,G,L,4.0,4.0,1.0,E,N,MR,10.0,MR10,Y,-
+Haelbarde,G,L,2.0,2.0,1.0,E,N,MR,10.0,MR10,Y,-
+Orlok Tsubodai,G,L,5.0,5.0,1.0,F,N,MR,10.0,MR10,Y,-
+Anamaximder,G,L,1.0,11.0,1.0,E,N,MR,10.0,MR10,Y,-
+Zas,G,L,6.0,6.0,1.0,F,N,MR,10.0,MR10,Y,-
+Burnt Spaghetti,G,L,9.0,9.0,1.0,E,N,MR,10.0,MR10,Y,-
+Shallan,G,L,4.0,4.0,1.0,E,N,MR,10.0,MR10,Y,-
+Paranoid King,E,W,-,-,0.0,S,N,MR,10.0,MR10,Y,-
+TheMightyLopen,G,L,-,-,0.0,S,N,MR,10.0,MR10,Y,-
+RippleGylf,G,L,9.0,9.0,1.0,E,N,MR,10.0,MR10,Y,-
+STINK,G,L,4.0,4.0,1.0,L,N,MR,10.0,MR10,Y,-
+Amanuensis,E,W,2.0,-,2.0,S,N,MR,10.0,MR10,Y,-
+polkinghornhd,E,W,-,-,0.0,S,N,MR,10.0,MR10,Y,-
+Creccio,G,L,4.0,6.0,3.0,L,N,MR,10.0,MR10,Y,-
+Hellscythe,G,L,1.0,2.0,3.0,L,N,MR,10.0,MR10,Y,-
+Arraenae,G,L,1.0,1.0,1.0,F,N,MR,10.0,MR10,Y,-
+Elbereth,G,L,-,-,0.0,S,N,MR,10.0,MR10,Y,-
+Elkanah,G,L,1.0,1.0,1.0,E,N,MR,10.0,MR10,Y,-
+Tony Shark,E,W,-,-,0.0,S,N,MR,10.0,MR10,Y,-
+Kynedath,G,L,8.0,11.0,1.0,E,N,MR,10.0,MR10,Y,-
+Starry Smite,G,L,3.0,3.0,1.0,E,N,MR,10.0,MR10,Y,-
+DeathClutch,G,L,6.0,6.0,1.0,E,N,MR,10.0,MR10,Y,-
+Mace Windu,G,L,2.0,2.0,1.0,F,N,MR,10.0,MR10,Y,-
+Mailliw73,G,L,8.0,8.0,1.0,L,N,AG,2.0,AG2,N,-
+Weiry,G,L,-,-,0.0,S,N,AG,2.0,AG2,N,-
+Alvron,G,L,9.0,9.0,1.0,E,N,AG,2.0,AG2,N,-
+Herowannabe,G,L,9.0,9.0,1.0,L,N,AG,2.0,AG2,N,-
+Luckat,G,L,1.0,1.0,1.0,E,N,AG,2.0,AG2,N,-
+Wyrmhero,G,L,6.0,6.0,1.0,E,N,AG,2.0,AG2,N,-
+Sart,G,L,-,-,0.0,S,N,AG,2.0,AG2,N,-
+Jain,G,L,6.0,-,1.0,S,N,AG,2.0,AG2,N,-
+Kasimir,G,L,4.0,4.0,1.0,E,N,AG,2.0,AG2,N,-
+Araris Valerian,G,L,2.0,2.0,1.0,E,N,AG,2.0,AG2,N,-
+Seonid,G,L,1.0,1.0,1.0,E,N,AG,2.0,AG2,N,-
+Bort,G,L,-,-,0.0,S,N,AG,2.0,AG2,N,-
+Kipper,G,L,7.0,7.0,1.0,E,N,AG,2.0,AG2,N,-
+Phattemer,G,L,1.0,1.0,1.0,L,N,AG,2.0,AG2,N,-
+Haelbarde,G,L,8.0,8.0,1.0,E,N,AG,2.0,AG2,N,-
+Orlok Tsubodai,G,L,-,-,0.0,S,N,AG,2.0,AG2,N,-
+Anamaximder,G,L,4.0,4.0,1.0,L,N,AG,2.0,AG2,N,-
+Shallan,G,L,-,-,0.0,I,Y,AG,2.0,AG2,N,-
+TheMightyLopen,E,W,1.0,1.0,1.0,L,N,AG,2.0,AG2,N,-
+RippleGylf,E,W,-,-,0.0,S,N,AG,2.0,AG2,N,-
+STINK,G,L,5.0,5.0,1.0,E,N,AG,2.0,AG2,N,-
+Amanuensis,G,L,3.0,3.0,1.0,E,N,AG,2.0,AG2,N,-
+Creccio,G,L,11.0,11.0,1.0,E,N,AG,2.0,AG2,N,-
+Hellscythe,G,L,5.0,5.0,1.0,L,N,AG,2.0,AG2,N,-
+Elbereth,G,L,-,-,0.0,S,N,AG,2.0,AG2,N,-
+Elkanah,E,W,-,-,0.0,S,N,AG,2.0,AG2,N,-
+Mark IV,E,W,-,-,0.0,S,N,AG,2.0,AG2,N,-
+Mashadar Mistborn,E,W,-,-,0.0,S,N,AG,2.0,AG2,N,-
+Mailliw73,N,L,-,-,-,N,N,QF,12.0,QF12,N,-
+Araris Valerian,G,L,-,-,-,M,N,QF,12.0,QF12,N,-
+Kipper,E,W,-,-,-,S,N,QF,12.0,QF12,N,-
+Clanky,G,L,-,-,-,L,N,QF,12.0,QF12,N,-
+TheSilverDragon,G,L,-,-,-,F,N,QF,12.0,QF12,N,-
+Orlok Tsubodai,G,L,-,-,-,S,N,QF,12.0,QF12,N,-
+Anamaximder,G,L,-,-,-,L,N,QF,12.0,QF12,N,-
+Bridge Boy/Elithanathile,G,L,-,-,-,E,N,QF,12.0,QF12,N,-
+Paranoid King,G,L,-,-,-,S,N,QF,12.0,QF12,N,-
+TheMightyLopen,E,W,-,-,-,S,N,QF,12.0,QF12,N,-
+RippleGylf,G,L,-,-,-,S,N,QF,12.0,QF12,N,-
+Amanuensis,N,L,-,-,-,V,N,QF,12.0,QF12,N,-
+Hellscythe,G,L,-,-,-,N,N,QF,12.0,QF12,N,-
+Arraenae,E,W,-,-,-,L,N,QF,12.0,QF12,N,-
+Elbereth,G,L,-,-,1.0,E,N,QF,12.0,QF12,N,-
+Queensteph,G,L,-,-,-,L,N,QF,12.0,QF12,N,-
+Elkanah,G,L,-,-,-,E,N,QF,12.0,QF12,N,-
+Kynedath,G,L,-,-,-,E,N,QF,12.0,QF12,N,-
+Kamyle,E,W,-,-,-,S,N,QF,12.0,QF12,N,-
+Meta,G,W,-,-,-,L,N,LG,16.0,LG16,N,-
+Mailliw73,G,W,-,-,-,E,N,LG,16.0,LG16,N,-
+Twei,G,W,-,-,-,S,N,LG,16.0,LG16,N,-
+Araris Valerian,G,W,-,-,-,E,N,LG,16.0,LG16,N,-
+Kipper,E,L,-,-,-,L,N,LG,16.0,LG16,N,-
+Clanky,G,W,-,-,-,E,N,LG,16.0,LG16,N,-
+Phattemer,M,L,-,-,-,L,N,LG,16.0,LG16,N,-
+Orlok Tsubodai,G,W,-,-,-,I,Y,LG,16.0,LG16,N,-
+Burnt Spaghetti,G,W,-,-,-,F,N,LG,16.0,LG16,N,-
+Shallan,G,W,-,-,-,E,N,LG,16.0,LG16,N,-
+TheMightyLopen,E,L,-,-,-,M,N,LG,16.0,LG16,N,-
+STINK,G,W,-,-,-,F,N,LG,16.0,LG16,N,-
+Amanuensis,G,W,-,-,-,L,N,LG,16.0,LG16,N,-
+Hellscythe,G,W,-,-,-,E,N,LG,16.0,LG16,N,-
+Elbereth,G,W,-,-,0.0,S,N,LG,16.0,LG16,N,-
+Elkanah,G,W,-,-,-,F,N,LG,16.0,LG16,N,-
+Kynedath,E,L,-,-,-,L,N,LG,16.0,LG16,N,-
+DeathClutch,G,W,-,-,-,L,N,LG,16.0,LG16,N,-
+Mark IV,E,L,-,-,-,L,N,LG,16.0,LG16,N,-
+Mailliw73,G,L,-,-,-,L,N,MR,11.0,MR11,N,-
+Luckat,G,L,-,-,-,E,N,MR,11.0,MR11,N,-
+Clanky,E,W,-,-,-,S,N,MR,11.0,MR11,N,-
+Phattemer,G,W,-,-,-,L,N,MR,11.0,MR11,N,-
+TheSilverDragon,G,L,-,-,-,L,N,MR,11.0,MR11,N,-
+Shallan,G,L,-,-,-,N,N,MR,11.0,MR11,N,-
+Paranoid King,G,L,-,-,-,E,N,MR,11.0,MR11,N,-
+TheMightyLopen,G,L,-,-,-,S,N,MR,11.0,MR11,N,-
+RippleGylf,G,L,-,-,-,E,N,MR,11.0,MR11,N,-
+STINK,G,L,-,-,-,E,N,MR,11.0,MR11,N,-
+Amanuensis,E,W,-,-,-,S,N,MR,11.0,MR11,N,-
+polkinghornhd,G,L,-,-,-,L,N,MR,11.0,MR11,N,-
+Hellscythe,G,L,-,-,-,N,N,MR,11.0,MR11,N,-
+Arraenae,G,L,-,-,-,L,N,MR,11.0,MR11,N,-
+Elbereth,E,W,-,-,-,S,N,MR,11.0,MR11,N,-
+Elkanah,G,L,-,-,-,L,N,MR,11.0,MR11,N,-
+Kynedath,E,W,-,-,-,S,N,MR,11.0,MR11,N,-
+Water,G,L,-,-,-,S,N,MR,11.0,MR11,N,-
+Mailliw73,G,W,-,-,-,E,N,LG,17.0,LG17,N,-
+Luckat,G,W,-,-,-,E,N,LG,17.0,LG17,N,-
+Araris Valerian,G,W,-,-,-,I,Y,LG,17.0,LG17,N,-
+Clanky,G,W,-,-,-,S,N,LG,17.0,LG17,N,-
+Phattemer,E,L,-,-,-,L,N,LG,17.0,LG17,N,-
+TheSilverDragon,G,W,-,-,-,I,Y,LG,17.0,LG17,N,-
+Orlok Tsubodai,G,W,-,-,-,E,N,LG,17.0,LG17,N,-
+Anamaximder,G,W,-,-,-,I,Y,LG,17.0,LG17,N,-
+Burnt Spaghetti,G,W,-,-,-,E,N,LG,17.0,LG17,N,-
+Shallan,G,W,-,-,-,S,N,LG,17.0,LG17,N,-
+Bridge Boy/Elithanathile,G,W,-,-,-,E,N,LG,17.0,LG17,N,-
+TheMightyLopen,G,W,-,-,-,S,N,LG,17.0,LG17,N,-
+RippleGylf,G,W,-,-,-,E,N,LG,17.0,LG17,N,-
+STINK,G,W,-,-,-,L,N,LG,17.0,LG17,N,-
+Amanuensis,E,L,-,-,-,V,N,LG,17.0,LG17,N,-
+Hellscythe,E,L,-,-,-,L,N,LG,17.0,LG17,N,-
+Arraenae,E,L,-,-,-,L,N,LG,17.0,LG17,N,-
+Elbereth,G,W,-,-,1.0,E,N,LG,17.0,LG17,N,-
+Elkanah,G,W,-,-,-,I,Y,LG,17.0,LG17,N,-
+Kynedath,G,W,-,-,-,S,N,LG,17.0,LG17,N,-
+Luna,G,W,-,-,-,L,N,LG,17.0,LG17,N,-
+Mailliw73,G,W,-,-,-,L,N,QF,13.0,QF13,Y,-
+Alvron,E,L,-,-,-,L,N,QF,13.0,QF13,Y,-
+Sart,G,W,-,-,-,S,N,QF,13.0,QF13,Y,-
+Kipper,G,W,-,-,-,S,N,QF,13.0,QF13,Y,-
+Clanky,G,W,-,-,-,E,N,QF,13.0,QF13,Y,-
+Orlok Tsubodai,G,W,-,-,-,S,N,QF,13.0,QF13,Y,-
+Anamaximder,E,L,-,-,-,V,N,QF,13.0,QF13,Y,-
+Paranoid King,G,W,-,-,-,E,N,QF,13.0,QF13,Y,-
+TheMightyLopen,G,W,-,-,-,S,N,QF,13.0,QF13,Y,-
+STINK,E,L,-,-,-,V,N,QF,13.0,QF13,Y,-
+Elbereth,G,W,-,-,-,S,N,QF,13.0,QF13,Y,-
+Kynedath,G,W,-,-,-,E,N,QF,13.0,QF13,Y,-
+DeathClutch,G,W,-,-,-,S,N,QF,13.0,QF13,Y,-
+Mark IV,G,W,-,-,-,L,N,QF,13.0,QF13,Y,-
+Luna,G,W,-,-,-,I,Y,QF,13.0,QF13,Y,-
+Master Elodin,E,L,-,-,-,L,N,QF,13.0,QF13,Y,-
+Straw,G,W,-,-,-,E,N,QF,13.0,QF13,Y,-
+Mailliw73,E,L,5.0,5.0,2.0,V,N,LG,18.0,LG18,Y,-
+A Joe in the Bush,G,W,-,-,0.0,S,N,LG,18.0,LG18,Y,-
+Araris Valerian,G,W,5.0,7.0,1.0,F,N,LG,18.0,LG18,Y,-
+dowanx,G,W,-,-,0.0,S,N,LG,18.0,LG18,Y,-
+Ostrich,G,W,1.0,-,1.0,O,N,LG,18.0,LG18,Y,-
+Kipper,G,W,-,3.0,0.0,N,N,LG,18.0,LG18,Y,-
+Clanky,G,W,1.0,-,2.0,S,N,LG,18.0,LG18,Y,-
+Wonko the Sane,G,W,-,-,0.0,S,N,LG,18.0,LG18,Y,-
+neodymium,G,W,-,2.0,0.0,N,N,LG,18.0,LG18,Y,-
+Haelbarde,E,L,7.0,7.0,2.0,V,N,LG,18.0,LG18,Y,-
+Silverblade5,G,W,-,3.0,0.0,N,N,LG,18.0,LG18,Y,-
+Burnt Spaghetti,E,L,6.0,6.0,1.0,V,N,LG,18.0,LG18,Y,-
+Bridge Boy/Elithanathile,G,W,3.0,3.0,1.0,N,N,LG,18.0,LG18,Y,-
+Paranoid King,G,W,2.0,3.0,2.0,F,N,LG,18.0,LG18,Y,-
+TheMightyLopen,G,W,4.0,-,4.0,S,N,LG,18.0,LG18,Y,-
+STINK,G,W,-,-,0.0,S,N,LG,18.0,LG18,Y,-
+Elbereth,G,W,-,-,0.0,O,N,LG,18.0,LG18,Y,-
+Kynedath,G,W,3.0,-,2.0,O,N,LG,18.0,LG18,Y,-
+DeathClutch,E,L,6.0,6.0,1.0,V,N,LG,18.0,LG18,Y,-
+Mark IV,G,W,-,3.0,0.0,N,N,LG,18.0,LG18,Y,-
+Mashadar Mistborn,G,W,-,2.0,0.0,N,N,LG,18.0,LG18,Y,-
+Weaving Webs,G,W,-,3.0,0.0,N,N,LG,18.0,LG18,Y,-
+Firemuffin,G,W,5.0,-,2.0,S,N,LG,18.0,LG18,Y,-
+Danosaur,G,W,-,-,0.0,S,N,LG,18.0,LG18,Y,-
+Meta,E,L,-,-,-,L,N,MR,12.0,MR12,N,-
+Alvron,F,W,-,-,-,S,N,MR,12.0,MR12,N,-
+Sart,E,L,-,-,-,V,N,MR,12.0,MR12,N,-
+dowanx,F,W,-,-,-,I,Y,MR,12.0,MR12,N,-
+Kipper,F,L,-,-,-,N,N,MR,12.0,MR12,N,-
+Clanky,F,L,-,-,-,S,N,MR,12.0,MR12,N,-
+Phattemer,F,W,-,-,-,L,N,MR,12.0,MR12,N,-
+Wonko the Sane,E,L,-,-,-,L,N,MR,12.0,MR12,N,-
+TheSilverDragon,F,L,-,-,-,S,N,MR,12.0,MR12,N,-
+Silverblade5,F,L,-,-,-,E,N,MR,12.0,MR12,N,-
+Burnt Spaghetti,F,L,-,-,-,S,N,MR,12.0,MR12,N,-
+Shallan,E,L,-,-,-,S,N,MR,12.0,MR12,N,-
+Paranoid King,F,L,-,-,-,N,N,MR,12.0,MR12,N,-
+TheMightyLopen,F,W,-,-,-,S,N,MR,12.0,MR12,N,-
+STINK,F,W,-,-,-,S,N,MR,12.0,MR12,N,-
+Amanuensis,F,L,-,-,-,N,N,MR,12.0,MR12,N,-
+Arraenae,F,L,-,-,-,E,N,MR,12.0,MR12,N,-
+Elbereth,F,W,-,-,-,S,N,MR,12.0,MR12,N,-
+Elkanah,E,L,-,-,-,V,N,MR,12.0,MR12,N,-
+Kynedath,E,L,-,-,-,S,N,MR,12.0,MR12,N,-
+Mark IV,F,L,-,-,-,S,N,MR,12.0,MR12,N,-
+Master Elodin,F,L,-,-,-,S,N,MR,12.0,MR12,N,-
+Straw,F,L,-,-,-,N,N,MR,12.0,MR12,N,-
+Danosaur,F,L,-,-,-,L,N,MR,12.0,MR12,N,-
+Draigar,F,W,-,-,-,S,N,MR,12.0,MR12,N,-
+Honor Spren,F,W,-,-,-,I,Y,MR,12.0,MR12,N,-
+Mailliw73,G,L,1.0,1.0,1.0,E,N,LG,19.0,LG19,Y,-
+Araris Valerian,B,W,6.0,-,2.0,S,N,LG,19.0,LG19,Y,-
+Clanky,G,L,5.0,5.0,1.0,E,N,LG,19.0,LG19,Y,-
+Wonko the Sane,G,L,3.0,3.0,1.0,E,N,LG,19.0,LG19,Y,-
+Haelbarde,E,W,1.0,1.0,2.0,V,N,LG,19.0,LG19,Y,-
+TheSilverDragon,B,W,8.0,8.0,2.0,V,N,LG,19.0,LG19,Y,-
+Burnt Spaghetti,G,L,5.0,-,1.0,S,N,LG,19.0,LG19,Y,-
+TheMightyLopen,B,W,6.0,6.0,1.0,L,N,LG,19.0,LG19,Y,-
+STINK,E,W,5.0,5.0,1.0,L,N,LG,19.0,LG19,Y,-
+Amanuensis,G,L,5.0,5.0,1.0,E,N,LG,19.0,LG19,Y,-
+Arraenae,G,L,6.0,6.0,1.0,E,N,LG,19.0,LG19,Y,-
+Kynedath,G,L,2.0,2.0,1.0,E,N,LG,19.0,LG19,Y,-
+DeathClutch,E,W,3.0,3.0,1.0,V,N,LG,19.0,LG19,Y,-
+Mark IV,G,L,6.0,-,1.0,S,N,LG,19.0,LG19,Y,-
+Master Elodin,G,L,5.0,5.0,1.0,V,N,LG,19.0,LG19,Y,-
+Danosaur,E,W,4.0,4.0,1.0,L,N,LG,19.0,LG19,Y,-
+yafeshan,E,W,3.0,3.0,1.0,L,N,LG,19.0,LG19,Y,-
+Mailliw73,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Alvron,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Clanky,G,D,-,-,-,F,N,QF,14.0,QF14,N,-
+Phattemer,G,D,-,-,-,E,N,QF,14.0,QF14,N,-
+Wonko the Sane,G,D,-,-,-,E,N,QF,14.0,QF14,N,-
+Orlok Tsubodai,E,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Anamaximder,G,D,-,-,-,F,N,QF,14.0,QF14,N,-
+Silverblade5,G,D,-,-,-,F,N,QF,14.0,QF14,N,-
+Adamir,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+TheMightyLopen,E,D,-,-,-,N,N,QF,14.0,QF14,N,-
+RippleGylf,E,D,-,-,-,V,N,QF,14.0,QF14,N,-
+STINK,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Amanuensis,M,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Hellscythe,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Elbereth,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Kynedath,G,D,-,-,-,F,N,QF,14.0,QF14,N,-
+DeathClutch,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Mark IV,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Luna,E,D,-,-,-,V,N,QF,14.0,QF14,N,-
+Master Elodin,G,D,-,-,-,F,N,QF,14.0,QF14,N,-
+Straw,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Firemuffin,E,D,-,-,-,V,N,QF,14.0,QF14,N,-
+Bugsy,G,D,-,-,-,N,N,QF,14.0,QF14,N,-
+Mailliw73,G,L,-,-,-,E,N,MR,13.0,MR13,N,-
+Luckat,G,L,-,-,-,E,N,MR,13.0,MR13,N,-
+A Joe in the Bush,E,W,-,-,-,S,N,MR,13.0,MR13,N,-
+Macen,G,L,-,-,-,S,N,MR,13.0,MR13,N,-
+Jasnah/Trelagist,G,L,-,-,-,E,N,MR,13.0,MR13,N,-
+Clanky,G,L,-,-,-,I,Y,MR,13.0,MR13,N,-
+Phattemer,E,W,-,-,-,S,N,MR,13.0,MR13,N,-
+Burnt Spaghetti,G,L,-,-,-,L,N,MR,13.0,MR13,N,-
+Paranoid King,G,L,-,-,-,S,N,MR,13.0,MR13,N,-
+TheMightyLopen,E,W,-,-,-,S,N,MR,13.0,MR13,N,-
+STINK,G,L,-,-,-,F,N,MR,13.0,MR13,N,-
+Arraenae,G,L,-,-,-,E,N,MR,13.0,MR13,N,-
+Kynedath,G,L,-,-,-,S,N,MR,13.0,MR13,N,-
+DeathClutch,G,L,-,-,-,E,N,MR,13.0,MR13,N,-
+Mark IV,G,L,-,-,-,E,N,MR,13.0,MR13,N,-
+Master Elodin,G,L,-,-,-,L,N,MR,13.0,MR13,N,-
+Straw,G,L,-,-,-,L,N,MR,13.0,MR13,N,-
+yafeshan,G,L,-,-,-,E,N,MR,13.0,MR13,N,-
+Bugsy,E,W,-,-,-,S,N,MR,13.0,MR13,N,-
+little wilson,E,L,3.0,12.0,6.0,L,N,LG,20.0,LG20,Y,-
+Alvron,E,L,9.0,9.0,1.0,V,N,LG,20.0,LG20,Y,-
+A Joe in the Bush,G,W,3.0,3.0,1.0,E,N,LG,20.0,LG20,Y,-
+Macen,G,W,11.0,-,1.0,S,N,LG,20.0,LG20,Y,-
+Kasimir,E,L,-,7.0,0.0,I,Y,LG,20.0,LG20,Y,-
+Twei,G,W,3.0,11.0,2.0,E,N,LG,20.0,LG20,Y,-
+Araris Valerian,G,W,1.0,1.0,1.0,E,N,LG,20.0,LG20,Y,-
+Jasnah/Trelagist,G,W,4.0,4.0,2.0,F,N,LG,20.0,LG20,Y,-
+Seonid,G,W,5.0,5.0,1.0,E,N,LG,20.0,LG20,Y,-
+Phattemer,G,W,1.0,1.0,1.0,F,N,LG,20.0,LG20,Y,-
+TheSilverDragon,G,W,2.0,2.0,1.0,L,N,LG,20.0,LG20,Y,-
+Orlok Tsubodai,E,L,2.0,2.0,1.0,V,N,LG,20.0,LG20,Y,-
+Zas,G,W,-,-,0.0,S,N,LG,20.0,LG20,Y,-
+Burnt Spaghetti,G,W,3.0,8.0,2.0,F,N,LG,20.0,LG20,Y,-
+TheMightyLopen,E,L,5.0,5.0,1.0,L,N,LG,20.0,LG20,Y,-
+STINK,G,W,4.0,-,1.0,S,N,LG,20.0,LG20,Y,-
+Hellscythe,G,W,1.0,1.0,1.0,L,N,LG,20.0,LG20,Y,-
+Elbereth,N,L,6.0,6.0,1.0,N,N,LG,20.0,LG20,Y,-
+Elkanah,N,L,3.0,3.0,1.0,N,N,LG,20.0,LG20,Y,-
+Kynedath,G,W,6.0,-,4.0,S,N,LG,20.0,LG20,Y,-
+DeathClutch,G,W,4.0,5.0,3.0,E,N,LG,20.0,LG20,Y,-
+Mark IV,G,W,7.0,7.0,2.0,F,N,LG,20.0,LG20,Y,-
+Luna,G,W,3.0,3.0,1.0,L,N,LG,20.0,LG20,Y,-
+Master Elodin,G,W,2.0,2.0,2.0,E,N,LG,20.0,LG20,Y,-
+Straw,G,W,1.0,1.0,1.0,L,N,LG,20.0,LG20,Y,-
+yafeshan,G,W,3.0,3.0,1.0,F,N,LG,20.0,LG20,Y,-
+AliasSheep,G,W,7.0,8.0,2.0,L,N,LG,20.0,LG20,Y,-
+Nyali,G,W,6.0,-,2.0,S,N,LG,20.0,LG20,Y,-
+Meta,G,L,-,-,-,E,N,QF,15.0,QF15,N,-
+Mailliw73,G,L,-,-,-,E,N,QF,15.0,QF15,N,-
+A Joe in the Bush,B,W,-,-,-,N,N,QF,15.0,QF15,N,-
+Jasnah/Trelagist,G,L,-,-,-,E,N,QF,15.0,QF15,N,-
+Haelbarde,B,W,-,-,-,S,N,QF,15.0,QF15,N,-
+Burnt Spaghetti,G,L,-,-,-,S,N,QF,15.0,QF15,N,-
+TheMightyLopen,G,L,-,-,-,E,N,QF,15.0,QF15,N,-
+RippleGylf,G,L,-,-,-,E,N,QF,15.0,QF15,N,-
+Amanuensis,G,L,-,-,-,N,N,QF,15.0,QF15,N,-
+Hellscythe,E,W,-,-,-,N,N,QF,15.0,QF15,N,-
+Arraenae,B,W,-,-,-,L,N,QF,15.0,QF15,N,-
+Elbereth,E,W,-,-,-,S,N,QF,15.0,QF15,N,-
+DeathClutch,G,L,-,-,-,E,N,QF,15.0,QF15,N,-
+Mark IV,G,L,-,-,-,L,N,QF,15.0,QF15,N,-
+Luna,M,L,-,-,-,L,N,QF,15.0,QF15,N,-
+Master Elodin,G,L,-,-,-,E,N,QF,15.0,QF15,N,-
+Straw,E,W,-,-,-,S,N,QF,15.0,QF15,N,-
+Weaving Webs,G,L,-,-,-,L,N,QF,15.0,QF15,N,-
+Bugsy,G,L,-,-,-,L,N,QF,15.0,QF15,N,-
+AliasSheep,B,W,-,-,-,S,N,QF,15.0,QF15,N,-
+Cloudjumper,G,L,-,-,-,S,N,QF,15.0,QF15,N,-
+Conquestor,G,L,-,-,-,L,N,QF,15.0,QF15,N,-
+Mailliw73,N,W,-,-,-,S,N,LG,21.0,LG21,Y,-
+Quiver,G,L,-,-,-,F,N,LG,21.0,LG21,Y,-
+Alvron,M,L,-,-,-,S,N,LG,21.0,LG21,Y,-
+A Joe in the Bush,G,L,-,-,-,S,N,LG,21.0,LG21,Y,-
+Araris Valerian,G,L,-,-,-,,N,LG,21.0,LG21,Y,-
+Jasnah/Trelagist,G,L,-,-,-,L,N,LG,21.0,LG21,Y,-
+Leif,G,L,-,-,-,S,N,LG,21.0,LG21,Y,-
+Phattemer,G,L,-,-,-,S,N,LG,21.0,LG21,Y,-
+Haelbarde,N,L,-,-,-,S,N,LG,21.0,LG21,Y,-
+Burnt Spaghetti,E,W,-,-,-,S,N,LG,21.0,LG21,Y,-
+Paranoid King,G,L,-,-,-,E,N,LG,21.0,LG21,Y,-
+Zephrer,G,L,-,-,-,E,N,LG,21.0,LG21,Y,-
+TheMightyLopen,G,L,-,-,-,M,N,LG,21.0,LG21,Y,-
+Amanuensis,E,W,-,-,-,S,N,LG,21.0,LG21,Y,-
+Arraenae,E,W,-,-,-,S,N,LG,21.0,LG21,Y,-
+Elbereth,N,L,1.0,1.0,1.0,N,N,LG,21.0,LG21,Y,-
+Kynedath,G,L,-,-,-,E,N,LG,21.0,LG21,Y,-
+DeathClutch,G,L,-,-,-,L,N,LG,21.0,LG21,Y,-
+Mark IV,N,W,-,-,-,S,N,LG,21.0,LG21,Y,-
+Master Elodin,G,L,-,-,-,N,N,LG,21.0,LG21,Y,-
+AliasSheep,B,W,-,-,-,N,N,LG,21.0,LG21,Y,-
+Nyali,G,L,-,-,-,M,N,LG,21.0,LG21,Y,-
+Nyali,G,L,-,-,-,N,N,LG,21.0,LG21,Y,-
+Cloudjumper,E,W,-,-,-,S,N,LG,21.0,LG21,Y,-
+Conquestor,M,L,-,-,-,S,N,LG,21.0,LG21,Y,-
+Young Bard,N,L,-,-,-,M,N,LG,21.0,LG21,Y,-
+Young Bard,N,L,-,-,-,S,N,LG,21.0,LG21,Y,-
+Mailliw73,G,W,-,-,-,S,N,MR,14.0,MR14,Y,-
+Gamma,E,L,-,-,-,L,N,MR,14.0,MR14,Y,-
+A Joe in the Bush,G,W,-,-,-,S,N,MR,14.0,MR14,Y,-
+Araris Valerian,G,W,-,-,-,S,N,MR,14.0,MR14,Y,-
+Winter,E,L,-,-,-,V,N,MR,14.0,MR14,Y,-
+Seonid,G,W,-,-,-,E,N,MR,14.0,MR14,Y,-
+Phattemer,G,W,-,-,-,E,N,MR,14.0,MR14,Y,-
+TheSilverDragon,G,W,-,-,-,S,N,MR,14.0,MR14,Y,-
+Burnt Spaghetti,G,W,-,-,-,L,N,MR,14.0,MR14,Y,-
+TheMightyLopen,G,W,-,-,-,S,N,MR,14.0,MR14,Y,-
+Amanuensis,G,W,-,-,-,L,N,MR,14.0,MR14,Y,-
+Hellscythe,G,W,-,-,-,S,N,MR,14.0,MR14,Y,-
+DeathClutch,G,W,-,-,-,I,Y,MR,14.0,MR14,Y,-
+Master Elodin,G,W,-,-,-,E,N,MR,14.0,MR14,Y,-
+Straw,G,W,-,-,-,F,N,MR,14.0,MR14,Y,-
+Bugsy,E,L,-,-,-,V,N,MR,14.0,MR14,Y,-
+Cloudjumper,E,L,-,-,-,L,N,MR,14.0,MR14,Y,-
+Conquestor,G,W,-,-,-,S,N,MR,14.0,MR14,Y,-
+Meta,G,W,1.0,-,-,S,N,LG,22.0,LG22,N,-
+Mailliw73,G,W,-,-,1.0,E,N,LG,22.0,LG22,N,-
+little wilson,G,W,2.0,2.0,1.0,E,N,LG,22.0,LG22,N,-
+Aonar,D,L,-,-,-,L,N,LG,22.0,LG22,N,-
+A Joe in the Bush,C,L,-,-,-,L,N,LG,22.0,LG22,N,-
+Sart,E,L,1.0,1.0,1.0,L,N,LG,22.0,LG22,N,Kill
+Araris Valerian,G,W,-,-,-,N,N,LG,22.0,LG22,N,-
+Winter,G,W,-,-,-,L,N,LG,22.0,LG22,N,-
+Seonid,E,L,-,-,-,V,N,LG,22.0,LG22,N,-
+Phattemer,G,W,-,-,-,L,N,LG,22.0,LG22,N,-
+Haelbarde,D,L,-,-,-,I,Y,LG,22.0,LG22,N,-
+Orlok Tsubodai,G,W,1.0,1.0,1.0,F,N,LG,22.0,LG22,N,-
+TheMightyLopen,G,W,-,-,-,S,N,LG,22.0,LG22,N,-
+STINK,G,W,-,-,-,E,N,LG,22.0,LG22,N,-
+Amanuensis,G,W,-,-,-,L,N,LG,22.0,LG22,N,-
+Hellscythe,G,W,-,-,-,F,N,LG,22.0,LG22,N,-
+Elbereth,G,W,-,-,-,E,N,LG,22.0,LG22,N,Kill
+Master Elodin,E,L,-,-,-,L,N,LG,22.0,LG22,N,-
+Straw,G,W,-,-,-,E,N,LG,22.0,LG22,N,-
+Bugsy,G,W,-,-,-,S,N,LG,22.0,LG22,N,-
+AliasSheep,G,W,-,-,-,E,N,LG,22.0,LG22,N,-
+Nyali,G,W,-,-,-,I,Y,LG,22.0,LG22,N,-
+Conquestor,G,W,-,-,-,L,N,LG,22.0,LG22,N,-
+Young Bard,G,W,-,-,-,E,N,LG,22.0,LG22,N,-
+GunshyMink74,E,L,2.0,2.0,1.0,L,N,LG,22.0,LG22,N,-
+RubiksCube,E,L,-,-,-,L,N,LG,22.0,LG22,N,-
+RubiksCube,C,L,-,-,-,,N,LG,22.0,LG22,N,-
+jaimeleecee,C,L,-,-,-,L,N,LG,22.0,LG22,N,-
+Mailliw73,G,W,-,-,0.0,S,N,QF,16.0,QF16,Y,-
+A Joe in the Bush,E,L,5.0,9.0,2.0,L,N,QF,16.0,QF16,Y,-
+Sart,G,W,-,-,0.0,S,N,QF,16.0,QF16,Y,-
+Winter,E,L,9.0,9.0,1.0,V,N,QF,16.0,QF16,Y,-
+Mckeedee,G,W,5.0,5.0,1.0,F,N,QF,16.0,QF16,Y,-
+Phattemer,G,W,1.0,1.0,1.0,E,N,QF,16.0,QF16,Y,-
+TheSilverDragon,G,W,3.0,3.0,1.0,L,N,QF,16.0,QF16,Y,-
+Zas,G,W,7.0,7.0,1.0,L,N,QF,16.0,QF16,Y,-
+TheMightyLopen,G,W,5.0,5.0,1.0,E,N,QF,16.0,QF16,Y,-
+Amanuensis,E,L,1.0,1.0,1.0,L,N,QF,16.0,QF16,Y,-
+Elbereth,G,W,4.0,4.0,1.0,E,N,QF,16.0,QF16,Y,-
+DeathClutch,G,W,3.0,3.0,1.0,E,N,QF,16.0,QF16,Y,-
+Master Elodin,G,W,9.0,9.0,1.0,L,N,QF,16.0,QF16,Y,-
+Bugsy,G,W,4.0,4.0,1.0,L,N,QF,16.0,QF16,Y,-
+Cloudjumper,E,L,3.0,3.0,1.0,V,N,QF,16.0,QF16,Y,-
+Conquestor,G,W,3.0,3.0,1.0,E,N,QF,16.0,QF16,Y,-
+Young Bard,G,W,5.0,5.0,1.0,L,N,QF,16.0,QF16,Y,-
+Mailliw73,F,L,5.0,5.0,1.0,N,N,LG,23.0,LG23,N,-
+Alvron,C,W,-,-,0.0,S,N,LG,23.0,LG23,N,-
+A Joe in the Bush,F,L,6.0,6.0,1.0,N,N,LG,23.0,LG23,N,-
+Sart,F,L,5.0,5.0,1.0,L,N,LG,23.0,LG23,N,-
+Araris Valerian,C,W,-,-,0.0,S,N,LG,23.0,LG23,N,-
+Mckeedee,F,L,7.0,7.0,1.0,N,N,LG,23.0,LG23,N,-
+dowanx,D,W,4.0,4.0,1.0,V,N,LG,23.0,LG23,N,-
+Kipper,F,L,2.0,2.0,1.0,N,N,LG,23.0,LG23,N,-
+Phattemer,F,L,-,-,0.0,S,N,LG,23.0,LG23,N,-
+TheSilverDragon,F,L,6.0,6.0,1.0,E,N,LG,23.0,LG23,N,-
+Orlok Tsubodai,F,L,2.0,2.0,1.0,L,N,LG,23.0,LG23,N,-
+Zas,F,L,-,-,0.0,S,N,LG,23.0,LG23,N,-
+Burnt Spaghetti,F,L,4.0,4.0,1.0,L,N,LG,23.0,LG23,N,-
+Paranoid King,F,L,1.0,1.0,1.0,L,N,LG,23.0,LG23,N,-
+TheMightyLopen,F,L,2.0,2.0,2.0,E,N,LG,23.0,LG23,N,-
+STINK,F,L,2.0,2.0,1.0,N,N,LG,23.0,LG23,N,-
+Amanuensis,F,L,3.0,3.0,1.0,L,N,LG,23.0,LG23,N,-
+Arraenae,F,L,4.0,4.0,1.0,E,N,LG,23.0,LG23,N,-
+Elbereth,C,W,6.0,6.0,1.0,L,N,LG,23.0,LG23,N,-
+Master Elodin,F,L,8.0,8.0,1.0,N,N,LG,23.0,LG23,N,-
+Straw,F,L,7.0,7.0,1.0,L,N,LG,23.0,LG23,N,-
+Bugsy,F,L,9.0,9.0,1.0,L,N,LG,23.0,LG23,N,-
+Nyali,C,W,-,-,0.0,S,N,LG,23.0,LG23,N,-
+Cloudjumper,F,L,8.0,8.0,1.0,L,N,LG,23.0,LG23,N,-
+Conquestor,F,L,8.0,8.0,1.0,E,N,LG,23.0,LG23,N,-
+Young Bard,F,L,4.0,4.0,1.0,E,N,LG,23.0,LG23,N,-
+jaimeleecee,F,L,3.0,3.0,1.0,N,N,LG,23.0,LG23,N,-
+Meta,S,L,-,-,1.0,E,N,MR,15.0,MR15,Y,-
+Mailliw73,E,L,-,-,-,L,N,MR,15.0,MR15,Y,-
+Sart,E,L,-,-,-,M,N,MR,15.0,MR15,Y,-
+Eolhondras,G,W,-,-,-,S,N,MR,15.0,MR15,Y,-
+Seonid,E,L,-,-,-,L,N,MR,15.0,MR15,Y,-
+Kipper,G,W,-,-,-,L,N,MR,15.0,MR15,Y,-
+Orlok Tsubodai,G,W,-,-,-,F,N,MR,15.0,MR15,Y,-
+LadyEowyn/Emilylime,S,L,-,-,-,S,N,MR,15.0,MR15,Y,-
+eramit,E,L,-,-,-,L,N,MR,15.0,MR15,Y,-
+Amanuensis,S,L,-,-,-,S,N,MR,15.0,MR15,Y,-
+Elbereth,G,W,-,-,-,S,N,MR,15.0,MR15,Y,-
+Master Elodin,G,W,-,-,-,L,N,MR,15.0,MR15,Y,-
+Straw,G,W,-,-,-,,N,MR,15.0,MR15,Y,-
+Cloudjumper,G,W,-,-,-,S,N,MR,15.0,MR15,Y,-
+Conquestor,S,L,-,-,-,L,N,MR,15.0,MR15,Y,-
+Young Bard,G,W,-,-,-,S,N,MR,15.0,MR15,Y,-
+jaimeleecee,G,W,-,-,-,E,N,MR,15.0,MR15,Y,-
+Ecthelion,G,W,-,-,0.0,S,N,MR,15.0,MR15,Y,-
+Elenion,G,W,-,-,-,S,N,MR,15.0,MR15,Y,-
+Mailliw73,G,L,2.0,2.0,1.0,L,N,LG,24.0,LG24,Y,-
+little wilson,G,L,3.0,3.0,2.0,E,N,LG,24.0,LG24,Y,-
+Alvron,S,W,2.0,-,1.0,S,N,LG,24.0,LG24,Y,-
+Aonar,E,L,7.0,7.0,1.0,L,N,LG,24.0,LG24,Y,-
+Sart,G,L,7.0,9.0,2.0,E,N,LG,24.0,LG24,Y,-
+Renegade,G,L,4.0,4.0,1.0,L,N,LG,24.0,LG24,Y,-
+Araris Valerian,G,L,3.0,3.0,1.0,M,N,LG,24.0,LG24,Y,-
+Eolhondras,E,L,6.0,6.0,1.0,E,N,LG,24.0,LG24,Y,-
+Kipper,E,L,5.0,5.0,1.0,M,N,LG,24.0,LG24,Y,-
+Emerald101,G,L,2.0,5.0,1.0,I,Y,LG,24.0,LG24,Y,-
+TheSilverDragon,G,L,5.0,5.0,1.0,L,N,LG,24.0,LG24,Y,-
+Orlok Tsubodai,B,W,-,-,0.0,S,N,LG,24.0,LG24,Y,-
+Silverblade5,G,L,3.0,3.0,1.0,L,N,LG,24.0,LG24,Y,-
+Burnt Spaghetti,M,L,5.0,5.0,1.0,E,N,LG,24.0,LG24,Y,-
+TheMightyLopen,B,W,-,-,0.0,S,N,LG,24.0,LG24,Y,-
+STINK,N,W,-,-,0.0,S,N,LG,24.0,LG24,Y,-
+Amanuensis,E,L,3.0,6.0,4.0,L,N,LG,24.0,LG24,Y,-
+Arraenae,G,L,9.0,9.0,1.0,L,N,LG,24.0,LG24,Y,-
+Elbereth,G,L,3.0,3.0,1.0,N,N,LG,24.0,LG24,Y,-
+Master Elodin,G,L,3.0,3.0,2.0,E,N,LG,24.0,LG24,Y,-
+Straw,G,L,1.0,1.0,4.0,F,N,LG,24.0,LG24,Y,-
+Conquestor,D,L,2.0,7.0,2.0,L,N,LG,24.0,LG24,Y,-
+Young Bard,E,L,8.0,8.0,1.0,L,N,LG,24.0,LG24,Y,-
+jaimeleecee,G,L,3.0,3.0,1.0,E,N,LG,24.0,LG24,Y,-
+Ecthelion,G,L,1.0,1.0,2.0,N,N,LG,24.0,LG24,Y,-
+Elenion,B,W,9.0,9.0,1.0,N,N,LG,24.0,LG24,Y,-
+Magestar,G,L,3.0,3.0,1.0,E,N,LG,24.0,LG24,Y,-
+antgrgmn,G,L,-,3.0,0.0,I,Y,LG,24.0,LG24,Y,-
+Meta,N,L,4.0,4.0,2.0,N,N,QF,17.0,QF17,N,-
+Alvron,N,L,1.0,5.0,6.0,L,N,QF,17.0,QF17,N,-
+A Joe in the Bush,N,D,8.0,1.0,4.0,N,N,QF,17.0,QF17,N,-
+Sart,N,L,3.0,3.0,1.0,L,N,QF,17.0,QF17,N,-
+Eolhondras,N,L,1.0,1.0,1.0,N,N,QF,17.0,QF17,N,-
+Kipper,N,L,3.0,3.0,2.0,N,N,QF,17.0,QF17,N,-
+Emerald101,N,L,4.0,4.0,1.0,L,N,QF,17.0,QF17,N,-
+TheSilverDragon,N,L,2.0,2.0,1.0,N,N,QF,17.0,QF17,N,-
+Orlok Tsubodai,N,L,2.0,8.0,5.0,L,N,QF,17.0,QF17,N,-
+Zas,N,L,1.0,1.0,2.0,N,N,QF,17.0,QF17,N,-
+TheMightyLopen,N,L,1.0,3.0,3.0,N,N,QF,17.0,QF17,N,-
+RippleGylf,N,L,4.0,4.0,1.0,N,N,QF,17.0,QF17,N,-
+Elbereth,N,L,1.0,1.0,1.0,N,N,QF,17.0,QF17,N,-
+Master Elodin,N,L,5.0,6.0,2.0,N,N,QF,17.0,QF17,N,-
+Straw,N,L,2.0,2.0,1.0,N,N,QF,17.0,QF17,N,-
+Bugsy,N,D,1.0,1.0,7.0,N,N,QF,17.0,QF17,N,-
+AliasSheep,N,L,2.0,2.0,1.0,N,N,QF,17.0,QF17,N,-
+Nyali,N,L,1.0,4.0,9.0,N,N,QF,17.0,QF17,N,-
+Cloudjumper,N,L,2.0,2.0,1.0,N,N,QF,17.0,QF17,N,-
+Conquestor,N,L,4.0,4.0,2.0,N,N,QF,17.0,QF17,N,-
+Young Bard,N,D,2.0,1.0,5.0,L,N,QF,17.0,QF17,N,-
+jaimeleecee,N,L,4.0,4.0,2.0,N,N,QF,17.0,QF17,N,-
+Ecthelion,N,L,3.0,9.0,5.0,L,N,QF,17.0,QF17,N,-
+Elenion,N,L,1.0,2.0,5.0,L,N,QF,17.0,QF17,N,-
+Magestar,N,L,1.0,5.0,5.0,N,N,QF,17.0,QF17,N,-
+Meta,E,W,-,-,0.0,S,N,LG,25.0,LG25,N,-
+Luckat,E,W,4.0,-,1.0,S,N,LG,25.0,LG25,N,-
+Twei,G,L,4.0,4.0,1.0,E,N,LG,25.0,LG25,N,-
+Araris Valerian,G,L,2.0,2.0,1.0,L,N,LG,25.0,LG25,N,-
+TheSilverDragon,G,L,2.0,3.0,1.0,E,N,LG,25.0,LG25,N,-
+Silverblade5,G,L,-,2.0,1.0,N,N,LG,25.0,LG25,N,-
+Paranoid King,G,L,2.0,2.0,1.0,E,N,LG,25.0,LG25,N,-
+TheMightyLopen,E,W,4.0,4.0,1.0,L,N,LG,25.0,LG25,N,-
+DeathClutch,G,L,1.0,2.0,1.0,E,N,LG,25.0,LG25,N,-
+Mark IV,G,L,-,4.0,1.0,N,N,LG,25.0,LG25,N,-
+Master Elodin,G,L,-,-,0.0,S,N,LG,25.0,LG25,N,-
+Straw,G,L,-,-,0.0,S,N,LG,25.0,LG25,N,-
+Bugsy,G,L,1.0,1.0,1.0,L,N,LG,25.0,LG25,N,-
+AliasSheep,E,W,-,-,0.0,S,N,LG,25.0,LG25,N,-
+Conquestor,G,L,4.0,4.0,1.0,E,N,LG,25.0,LG25,N,-
+Young Bard,G,L,-,-,0.0,S,N,LG,25.0,LG25,N,-
+Ecthelion,E,W,1.0,3.0,2.0,L,N,LG,25.0,LG25,N,-
+Magestar,G,L,6.0,6.0,1.0,L,N,LG,25.0,LG25,N,-
+Assassin in Burgundy,E,W,-,-,0.0,S,N,LG,25.0,LG25,N,-
+The Only Alex,G,L,5.0,5.0,1.0,L,N,LG,25.0,LG25,N,-
+daniyah,E,W,-,-,0.0,S,N,LG,25.0,LG25,N,-
+Frozen Mint,G,L,3.0,5.0,2.0,E,N,LG,25.0,LG25,N,-
+Dalinar Kholin,G,L,4.0,4.0,1.0,E,N,LG,25.0,LG25,N,-
+Doctor 12,G,L,5.0,-,1.0,S,N,LG,25.0,LG25,N,-
+little wilson,F,L,6.0,6.0,1.0,N,N,MR,16.0,MR16,N,-
+A Joe in the Bush,F,L,6.0,6.0,1.0,N,N,MR,16.0,MR16,N,-
+Araris Valerian,M,L,2.0,2.0,1.0,N,N,MR,16.0,MR16,N,-
+TheSilverDragon,F,L,2.0,2.0,1.0,I,Y,MR,16.0,MR16,N,-
+Silverblade5,F,L,6.0,9.0,1.0,N,N,MR,16.0,MR16,N,-
+Burnt Spaghetti,F,L,4.0,5.0,2.0,L,N,MR,16.0,MR16,N,-
+TheMightyLopen,F,L,9.0,1.0,2.0,L,N,MR,16.0,MR16,N,-
+STINK,F,L,4.0,8.0,2.0,N,N,MR,16.0,MR16,N,-
+Elbereth,F,W,9.0,9.0,1.0,N,N,MR,16.0,MR16,N,-
+Mark IV,F,L,3.0,3.0,1.0,I,Y,MR,16.0,MR16,N,-
+Master Elodin,F,L,3.0,3.0,1.0,I,Y,MR,16.0,MR16,N,-
+Straw,F,L,2.0,2.0,1.0,L,N,MR,16.0,MR16,N,-
+Bugsy,F,L,5.0,5.0,1.0,N,N,MR,16.0,MR16,N,-
+Nyali,N,W,4.0,-,1.0,S,N,MR,16.0,MR16,N,-
+Conquestor,F,L,7.0,7.0,1.0,N,N,MR,16.0,MR16,N,-
+Young Bard,F,W,3.0,3.0,2.0,N,N,MR,16.0,MR16,N,-
+Ecthelion,F,L,8.0,9.0,1.0,L,N,MR,16.0,MR16,N,-
+Elenion,F,W,8.0,-,2.0,S,N,MR,16.0,MR16,N,-
+Magestar,F,W,3.0,3.0,1.0,L,N,MR,16.0,MR16,N,-
+daniyah,F,L,4.0,6.0,2.0,L,N,MR,16.0,MR16,N,-
+Doctor 12,F,W,3.0,3.0,1.0,N,N,MR,16.0,MR16,N,-
+_Stick_,F,L,7.0,8.0,2.0,N,N,MR,16.0,MR16,N,-
+little wilson,N,W,3.0,9.0,4.0,N,N,LG,26.0,LG26,Y,-
+Luckat,S,L,2.0,2.0,1.0,E,N,LG,26.0,LG26,Y,-
+A Joe in the Bush,E,L,3.0,3.0,4.0,N,N,LG,26.0,LG26,Y,-
+Sart,N,L,4.0,-,2.0,S,N,LG,26.0,LG26,Y,-
+Araris Valerian,N,W,3.0,-,1.0,S,N,LG,26.0,LG26,Y,-
+dowanx,G,L,4.0,4.0,1.0,L,N,LG,26.0,LG26,Y,-
+Clanky,N,L,1.0,-,1.0,S,N,LG,26.0,LG26,Y,-
+Wonko the Sane,N,W,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+Haelbarde,N,L,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+Orlok Tsubodai,N,L,7.0,7.0,1.0,N,N,LG,26.0,LG26,Y,-
+Silverblade5,G,L,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+Burnt Spaghetti,G,L,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+Bridge Boy/Elithanathile,N,L,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+Paranoid King,G,L,1.0,-,2.0,S,N,LG,26.0,LG26,Y,-
+TheMightyLopen,S,L,5.0,-,2.0,S,N,LG,26.0,LG26,Y,-
+STINK,G,L,2.0,2.0,1.0,N,N,LG,26.0,LG26,Y,-
+Amanuensis,G,L,9.0,9.0,4.0,E,N,LG,26.0,LG26,Y,-
+Arraenae,C,L,3.0,3.0,1.0,E,N,LG,26.0,LG26,Y,-
+Mark IV,G,L,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+Straw,G,L,4.0,5.0,3.0,N,N,LG,26.0,LG26,Y,-
+Bugsy,E,L,5.0,5.0,1.0,L,N,LG,26.0,LG26,Y,-
+AliasSheep,G,L,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+Conquestor,N,L,7.0,8.0,2.0,L,N,LG,26.0,LG26,Y,-
+Young Bard,G,L,4.0,-,1.0,S,N,LG,26.0,LG26,Y,-
+Ecthelion,E,L,9.0,9.0,1.0,L,N,LG,26.0,LG26,Y,-
+Elenion,G,L,-,2.0,0.0,I,Y,LG,26.0,LG26,Y,-
+Magestar,S,L,1.0,1.0,1.0,L,N,LG,26.0,LG26,Y,-
+daniyah,E,L,6.0,6.0,1.0,L,N,LG,26.0,LG26,Y,-
+Frozen Mint,N,L,2.0,-,1.0,S,N,LG,26.0,LG26,Y,-
+Dalinar Kholin,G,L,4.0,8.0,2.0,N,N,LG,26.0,LG26,Y,-
+Doctor 12,C,L,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+_Stick_,N,L,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+iohn,E,L,-,3.0,0.0,I,Y,LG,26.0,LG26,Y,-
+Darkness Ascendant,G,L,-,-,0.0,S,N,LG,26.0,LG26,Y,-
+livinglegend,G,L,4.0,-,1.0,S,N,LG,26.0,LG26,Y,-
+Meta,G,W,1.0,1.0,3.0,E,N,QF,18.0,QF18,N,-
+Alvron,M,L,1.0,1.0,1.0,L,N,QF,18.0,QF18,N,-
+STINK,G,W,2.0,2.0,1.0,E,N,QF,18.0,QF18,N,-
+Mark IV,E,L,6.0,6.0,1.0,V,N,QF,18.0,QF18,N,-
+AliasSheep,G,W,5.0,6.0,1.0,E,N,QF,18.0,QF18,N,-
+Conquestor,G,W,-,3.0,0.0,I,Y,QF,18.0,QF18,N,-
+Young Bard,E,L,2.0,2.0,1.0,L,N,QF,18.0,QF18,N,-
+Ecthelion,E,L,7.0,7.0,1.0,L,N,QF,18.0,QF18,N,-
+Elenion,G,W,6.0,6.0,1.0,E,N,QF,18.0,QF18,N,-
+Magestar,G,W,3.0,3.0,1.0,E,N,QF,18.0,QF18,N,-
+Assassin in Burgundy,G,W,3.0,3.0,1.0,L,N,QF,18.0,QF18,N,-
+daniyah,G,W,-,-,0.0,S,N,QF,18.0,QF18,N,-
+_Stick_,G,W,5.0,5.0,1.0,L,N,QF,18.0,QF18,N,-
+Darkness Ascendant,E,L,4.0,4.0,1.0,L,N,QF,18.0,QF18,N,-
+Lady of Chaos,G,W,7.0,-,1.0,S,N,QF,18.0,QF18,N,-
+Wonko the Sane,E,W,3.0,4.0,2.0,L,N,MR,17.0,MR17,N,-
+Burnt Spaghetti,G,L,7.0,7.0,2.0,M,N,MR,17.0,MR17,N,-
+TheMightyLopen,C,W,-,-,-,,N,MR,17.0,MR17,N,-
+Arraenae,G,L,3.0,4.0,2.0,E,N,MR,17.0,MR17,N,-
+Elbereth,G,L,3.0,3.0,2.0,M,N,MR,17.0,MR17,N,-
+Straw,G,L,-,7.0,0.0,I,Y,MR,17.0,MR17,N,-
+Bugsy,E,W,2.0,2.0,1.0,L,N,MR,17.0,MR17,N,-
+AliasSheep,C,W,-,-,0.0,S,N,MR,17.0,MR17,N,-
+Young Bard,M,L,6.0,-,1.0,S,N,MR,17.0,MR17,N,-
+Elenion,E,L,6.0,6.0,1.0,M,N,MR,17.0,MR17,N,-
+Magestar,E,W,4.0,7.0,2.0,V,N,MR,17.0,MR17,N,-
+Assassin in Burgundy,G,L,8.0,8.0,1.0,E,N,MR,17.0,MR17,N,-
+daniyah,G,L,4.0,4.0,1.0,M,N,MR,17.0,MR17,N,-
+Doctor 12,G,L,4.0,4.0,1.0,N,N,MR,17.0,MR17,N,-
+_Stick_,G,L,-,-,0.0,S,N,MR,17.0,MR17,N,-
+Darkness Ascendant,G,L,5.0,5.0,1.0,L,N,MR,17.0,MR17,N,-
+livinglegend,G,L,5.0,5.0,1.0,E,N,MR,17.0,MR17,N,-
+Lady of Chaos,G,L,6.0,6.0,1.0,L,N,MR,17.0,MR17,N,-
+Jondesu,E,W,-,-,0.0,S,N,MR,17.0,MR17,N,-
+jefrywlfersn,G,L,8.0,8.0,1.0,L,N,MR,17.0,MR17,N,-
+Doxis,G,L,8.0,8.0,1.0,M,N,MR,17.0,MR17,N,-
+Aonar,N,D,6.0,6.0,1.0,L,N,LG,27.0,LG27,Y,-
+Luckat,F,D,4.0,4.0,1.0,N,N,LG,27.0,LG27,Y,-
+Araris Valerian,F,L,-,-,0.0,S,N,LG,27.0,LG27,Y,-
+Seonid,F,L,5.0,5.0,1.0,N,N,LG,27.0,LG27,Y,-
+Clanky,F,D,4.0,4.0,1.0,N,N,LG,27.0,LG27,Y,-
+Phattemer,F,L,4.0,4.0,1.0,L,N,LG,27.0,LG27,Y,-
+Wonko the Sane,F,L,2.0,2.0,1.0,N,N,LG,27.0,LG27,Y,-
+Silverblade5,N,L,3.0,3.0,1.0,L,N,LG,27.0,LG27,Y,-
+Burnt Spaghetti,F,D,-,-,0.0,S,N,LG,27.0,LG27,Y,-
+Paranoid King,F,D,5.0,5.0,1.0,L,N,LG,27.0,LG27,Y,-
+Amanuensis,F,D,-,-,0.0,S,N,LG,27.0,LG27,Y,-
+Elbereth,F,D,-,-,0.0,S,N,LG,27.0,LG27,Y,-
+yafeshan,F,D,2.0,2.0,1.0,L,N,LG,27.0,LG27,Y,-
+Magestar,F,L,2.0,2.0,2.0,N,N,LG,27.0,LG27,Y,-
+Dalinar Kholin,N,L,6.0,6.0,1.0,N,N,LG,27.0,LG27,Y,-
+Darkness Ascendant,F,D,-,-,0.0,S,N,LG,27.0,LG27,Y,-
+Lady of Chaos,F,L,-,-,0.0,S,N,LG,27.0,LG27,Y,-
+Pestis the Spider,F,D,7.0,7.0,1.0,L,N,LG,27.0,LG27,Y,-
+JUQ,F,D,-,-,0.0,S,N,LG,27.0,LG27,Y,-
+Kiwi,F,L,-,-,0.0,S,N,LG,27.0,LG27,Y,-
+Nyali,N,L,6.0,6.0,1.0,N,N,LG,27.0,LG27,Y,-
+STINK,F,L,3.0,3.0,1.0,N,N,LG,27.0,LG27,Y,-
+Alvron,G,W,4.0,4.0,1.0,E,N,QF,19.0,QF19,N,-
+Sart,E,L,-,5.0,0.0,I,Y,QF,19.0,QF19,N,-
+Winter,G,W,-,2.0,0.0,I,Y,QF,19.0,QF19,N,-
+Eolhondras,G,W,-,2.0,0.0,I,Y,QF,19.0,QF19,N,-
+Wonko the Sane,G,W,6.0,6.0,1.0,E,N,QF,19.0,QF19,N,-
+Orlok Tsubodai,G,W,2.0,2.0,1.0,F,N,QF,19.0,QF19,N,-
+TheMightyLopen,G,W,7.0,7.0,1.0,F,N,QF,19.0,QF19,N,-
+RippleGylf,E,L,3.0,3.0,1.0,L,N,QF,19.0,QF19,N,-
+Amanuensis,G,W,-,2.0,0.0,I,Y,QF,19.0,QF19,N,-
+Arraenae,G,W,5.0,5.0,1.0,E,N,QF,19.0,QF19,N,-
+Elbereth,G,W,1.0,1.0,1.0,E,N,QF,19.0,QF19,N,-
+Bugsy,G,W,2.0,2.0,1.0,N,N,QF,19.0,QF19,N,-
+AliasSheep,G,W,4.0,4.0,1.0,L,N,QF,19.0,QF19,N,-
+Nyali,G,W,2.0,2.0,1.0,E,N,QF,19.0,QF19,N,-
+Ecthelion,G,W,-,-,0.0,S,N,QF,19.0,QF19,N,-
+Elenion,G,W,4.0,4.0,1.0,F,N,QF,19.0,QF19,N,-
+Magestar,E,L,6.0,6.0,1.0,V,N,QF,19.0,QF19,N,-
+Assassin in Burgundy,G,W,6.0,6.0,1.0,L,N,QF,19.0,QF19,N,-
+daniyah,G,W,7.0,7.0,1.0,E,N,QF,19.0,QF19,N,-
+Doctor 12,E,W,1.0,1.0,1.0,L,N,QF,19.0,QF19,N,-
+_Stick_,G,W,-,-,0.0,S,N,QF,19.0,QF19,N,-
+Darkness Ascendant,G,W,5.0,5.0,1.0,L,N,QF,19.0,QF19,N,-
+Jondesu,E,L,2.0,2.0,1.0,L,N,QF,19.0,QF19,N,-
+Nathanvanduij,E,L,7.0,7.0,1.0,L,N,QF,19.0,QF19,N,-
+little wilson,G,W,4.0,8.0,2.0,E,N,LG,28.0,LG28,N,-
+Aonar,G,W,7.0,7.0,1.0,E,N,LG,28.0,LG28,N,-
+Araris Valerian,G,W,1.0,-,1.0,S,N,LG,28.0,LG28,N,-
+Seonid,G,W,-,-,0.0,S,N,LG,28.0,LG28,N,-
+Unodus,G,W,9.0,9.0,1.0,E,N,LG,28.0,LG28,N,-
+Clanky,G,W,-,-,0.0,S,N,LG,28.0,LG28,N,-
+Phattemer,G,W,1.0,1.0,1.0,L,N,LG,28.0,LG28,N,-
+Wonko the Sane,G,W,-,-,0.0,S,N,LG,28.0,LG28,N,-
+Haelbarde,E,L,6.0,6.0,1.0,L,N,LG,28.0,LG28,N,-
+Orlok Tsubodai,G,W,1.0,1.0,1.0,L,N,LG,28.0,LG28,N,-
+Paranoid King,G,W,-,-,0.0,S,N,LG,28.0,LG28,N,-
+STINK,G,W,2.0,2.0,1.0,F,N,LG,28.0,LG28,N,-
+polkinghornhd,G,W,-,-,0.0,S,N,LG,28.0,LG28,N,-
+Arraenae,G,W,2.0,2.0,1.0,L,N,LG,28.0,LG28,N,-
+Elbereth,E,L,-,-,0.0,S,N,LG,28.0,LG28,N,-
+Mark IV,G,W,4.0,-,1.0,S,N,LG,28.0,LG28,N,-
+Straw,G,W,7.0,7.0,1.0,F,N,LG,28.0,LG28,N,-
+Bugsy,G,W,7.0,7.0,1.0,E,N,LG,28.0,LG28,N,-
+Nyali,E,L,11.0,11.0,1.0,L,N,LG,28.0,LG28,N,-
+Young Bard,G,W,1.0,1.0,1.0,E,N,LG,28.0,LG28,N,-
+Ecthelion,G,W,8.0,8.0,1.0,F,N,LG,28.0,LG28,N,-
+Elenion,G,W,4.0,4.0,1.0,L,N,LG,28.0,LG28,N,-
+Magestar,G,W,3.0,3.0,1.0,E,N,LG,28.0,LG28,N,-
+Assassin in Burgundy,G,W,3.0,3.0,1.0,L,N,LG,28.0,LG28,N,-
+daniyah,G,W,5.0,5.0,1.0,L,N,LG,28.0,LG28,N,-
+Doctor 12,G,W,6.0,6.0,1.0,E,N,LG,28.0,LG28,N,-
+_Stick_,G,W,2.0,2.0,1.0,E,N,LG,28.0,LG28,N,-
+Darkness Ascendant,E,L,7.0,7.0,1.0,L,N,LG,28.0,LG28,N,-
+Lady of Chaos,G,W,-,-,0.0,S,N,LG,28.0,LG28,N,-
+Jondesu,G,W,5.0,5.0,1.0,E,N,LG,28.0,LG28,N,-
+jefrywlfersn,G,W,-,-,0.0,S,N,LG,28.0,LG28,N,-
+JUQ,G,W,-,-,0.0,S,N,LG,28.0,LG28,N,-
+Nathanvanduij,E,L,-,-,0.0,S,N,LG,28.0,LG28,N,-
+Arinian,E,L,9.0,9.0,1.0,L,N,LG,28.0,LG28,N,-
+Alvron,G,L,2.0,2.0,1.0,E,N,MR,18.0,MR18,N,-
+Clanky,G,L,6.0,6.0,1.0,E,N,MR,18.0,MR18,N,-
+Wonko the Sane,E,W,-,-,0.0,S,N,MR,18.0,MR18,N,-
+Orlok Tsubodai,E,W,-,2.0,0.0,I,Y,MR,18.0,MR18,N,-
+TheMightyLopen,G,L,1.0,1.0,1.0,E,N,MR,18.0,MR18,N,-
+STINK,E,W,3.0,3.0,1.0,L,N,MR,18.0,MR18,N,-
+Amanuensis,E,W,-,-,0.0,S,N,MR,18.0,MR18,N,-
+polkinghornhd,G,L,5.0,5.0,1.0,L,N,MR,18.0,MR18,N,-
+Elbereth,G,L,1.0,1.0,1.0,L,N,MR,18.0,MR18,N,-
+Nyali,G,L,-,-,0.0,S,N,MR,18.0,MR18,N,-
+Ecthelion,G,L,5.0,5.0,1.0,E,N,MR,18.0,MR18,N,-
+Magestar,G,L,4.0,4.0,1.0,L,N,MR,18.0,MR18,N,-
+Assassin in Burgundy,G,L,7.0,7.0,1.0,L,N,MR,18.0,MR18,N,-
+daniyah,G,L,4.0,4.0,1.0,E,N,MR,18.0,MR18,N,-
+Doctor 12,G,L,6.0,6.0,1.0,L,N,MR,18.0,MR18,N,-
+_Stick_,E,W,-,-,0.0,S,N,MR,18.0,MR18,N,-
+Darkness Ascendant,G,L,-,2.0,0.0,I,Y,MR,18.0,MR18,N,-
+Jondesu,G,L,7.0,7.0,1.0,E,N,MR,18.0,MR18,N,-
+JUQ,G,L,2.0,2.0,1.0,L,N,MR,18.0,MR18,N,-
+Alvron,G,L,3.0,3.0,1.0,L,N,QF,20.0,QF20,N,-
+A Joe in the Bush,E,W,6.0,6.0,1.0,L,N,QF,20.0,QF20,N,-
+Sart,G,L,6.0,6.0,1.0,E,N,QF,20.0,QF20,N,-
+Kasimir,G,L,3.0,3.0,1.0,E,N,QF,20.0,QF20,N,-
+Kipper,G,L,7.0,7.0,1.0,L,N,QF,20.0,QF20,N,-
+Orlok Tsubodai,G,L,-,7.0,0.0,I,Y,QF,20.0,QF20,N,-
+Burnt Spaghetti,G,L,7.0,7.0,1.0,E,N,QF,20.0,QF20,N,-
+TheMightyLopen,G,L,1.0,1.0,1.0,E,N,QF,20.0,QF20,N,-
+STINK,G,L,-,5.0,0.0,I,Y,QF,20.0,QF20,N,-
+Arraenae,G,L,4.0,4.0,1.0,E,N,QF,20.0,QF20,N,-
+Kynedath,G,L,8.0,8.0,1.0,L,N,QF,20.0,QF20,N,-
+Master Elodin,G,L,-,3.0,0.0,I,Y,QF,20.0,QF20,N,-
+Nyali,E,W,-,-,0.0,S,N,QF,20.0,QF20,N,-
+Cloudjumper,G,L,2.0,2.0,1.0,L,N,QF,20.0,QF20,N,-
+Ecthelion,G,L,1.0,1.0,1.0,L,N,QF,20.0,QF20,N,-
+Elenion,E,W,4.0,4.0,1.0,L,N,QF,20.0,QF20,N,-
+Magestar,G,L,5.0,5.0,1.0,E,N,QF,20.0,QF20,N,-
+Assassin in Burgundy,G,L,-,7.0,0.0,I,Y,QF,20.0,QF20,N,-
+Doctor 12,G,L,2.0,2.0,1.0,E,N,QF,20.0,QF20,N,-
+_Stick_,G,L,8.0,8.0,1.0,E,N,QF,20.0,QF20,N,-
+Darkness Ascendant,G,L,-,3.0,0.0,I,Y,QF,20.0,QF20,N,-
+JUQ,E,W,-,-,0.0,S,N,QF,20.0,QF20,N,-
+Arinian,G,L,5.0,5.0,1.0,L,N,QF,20.0,QF20,N,-
+Alvron,N,L,7.0,8.0,1.0,E,N,LG,29.0,LG29,Y,-
+Aonar,B,W,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+A Joe in the Bush,N,L,1.0,3.0,2.0,L,N,LG,29.0,LG29,Y,-
+A Joe in the Bush,N,L,1.0,3.0,2.0,N,N,LG,29.0,LG29,Y,-
+Sart,E,W,5.0,-,2.0,L,N,LG,29.0,LG29,Y,-
+Sart,E,W,5.0,-,2.0,S,N,LG,29.0,LG29,Y,-
+Kasimir,G,L,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+Araris Valerian,B,W,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+Zephrer,G,L,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+TheMightyLopen,M,L,4.0,5.0,1.0,L,N,LG,29.0,LG29,Y,-
+Kynedath,G,L,6.0,7.0,1.0,L,N,LG,29.0,LG29,Y,-
+Master Elodin,M,L,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+Straw,G,L,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+AliasSheep,G,L,3.0,5.0,2.0,M,N,LG,29.0,LG29,Y,-
+AliasSheep,G,L,3.0,5.0,2.0,N,N,LG,29.0,LG29,Y,-
+Conquestor,G,L,2.0,3.0,1.0,M,N,LG,29.0,LG29,Y,-
+Young Bard,E,W,6.0,-,1.0,S,N,LG,29.0,LG29,Y,-
+RubiksCube,G,L,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+Elenion,E,W,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+Magestar,G,L,4.0,6.0,2.0,L,N,LG,29.0,LG29,Y,-
+Assassin in Burgundy,N,L,8.0,8.0,1.0,L,N,LG,29.0,LG29,Y,-
+Dalinar Kholin,G,L,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+Doctor 12,N,L,6.0,7.0,2.0,E,N,LG,29.0,LG29,Y,-
+_Stick_,N,L,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+Darkness Ascendant,G,L,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+Jondesu,E,W,1.0,2.0,1.0,M,N,LG,29.0,LG29,Y,-
+Arinian,N,W,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+Manukos,G,L,3.0,4.0,1.0,M,N,LG,29.0,LG29,Y,-
+Droughtbringer,B,W,-,-,0.0,S,N,LG,29.0,LG29,Y,-
+A Joe in the Bush,E,W,2.0,-,1.0,S,N,MR,19.0,MR19,N,-
+Sart,G,L,2.0,2.0,1.0,L,N,MR,19.0,MR19,N,-
+Seonid,G,L,2.0,2.0,1.0,N,N,MR,19.0,MR19,N,-
+Kipper,G,L,1.0,1.0,1.0,F,N,MR,19.0,MR19,N,-
+Silverblade5,G,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+TheMightyLopen,G,L,1.0,1.0,1.0,L,N,MR,19.0,MR19,N,-
+Amanuensis,G,L,3.0,3.0,1.0,E,N,MR,19.0,MR19,N,-
+Kynedath,G,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Conquestor,G,L,1.0,1.0,1.0,E,N,MR,19.0,MR19,N,-
+Young Bard,G,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Ecthelion,G,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Magestar,G,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Assassin in Burgundy,G,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Doctor 12,E,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Jondesu,G,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Arinian,G,L,2.0,2.0,1.0,N,N,MR,19.0,MR19,N,-
+Manukos,E,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Droughtbringer,E,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Berenion,G,W,-,-,0.0,S,N,MR,19.0,MR19,N,-
+Drake Marshall,G,L,3.0,3.0,1.0,L,N,MR,19.0,MR19,N,-
+Gamma,G,L,9.0,9.0,1.0,L,N,AG,3.0,AG3,N,-
+little wilson,E,W,1.0,-,1.0,S,N,AG,3.0,AG3,N,-
+Herowannabe,E,W,-,-,0.0,S,N,AG,3.0,AG3,N,-
+A Joe in the Bush,G,L,12.0,-,1.0,S,N,AG,3.0,AG3,N,-
+Wyrmhero,E,W,-,-,0.0,S,N,AG,3.0,AG3,N,-
+Sart,G,L,13.0,13.0,1.0,L,N,AG,3.0,AG3,N,-
+Araris Valerian,E,W,-,-,0.0,S,N,AG,3.0,AG3,N,-
+Seonid,G,L,14.0,14.0,1.0,E,N,AG,3.0,AG3,N,-
+Kipper,G,L,2.0,2.0,1.0,E,N,AG,3.0,AG3,N,-
+Wonko the Sane,G,L,-,-,0.0,S,N,AG,3.0,AG3,N,-
+Orlok Tsubodai,G,L,-,-,0.0,S,N,AG,3.0,AG3,N,-
+Silverblade5,G,L,8.0,8.0,1.0,E,N,AG,3.0,AG3,N,-
+TheMightyLopen,G,L,4.0,4.0,2.0,E,N,AG,3.0,AG3,N,-
+STINK,G,L,-,-,0.0,S,N,AG,3.0,AG3,N,-
+Arraenae,G,L,4.0,8.0,2.0,E,N,AG,3.0,AG3,N,-
+Elbereth,G,L,13.0,13.0,1.0,E,N,AG,3.0,AG3,N,-
+Straw,G,L,3.0,3.0,1.0,E,N,AG,3.0,AG3,N,-
+Bugsy,G,L,1.0,1.0,1.0,E,N,AG,3.0,AG3,N,-
+Nyali,E,W,5.0,5.0,1.0,L,N,AG,3.0,AG3,N,-
+Conquestor,G,L,14.0,14.0,1.0,L,N,AG,3.0,AG3,N,-
+Ecthelion,G,L,1.0,1.0,1.0,L,N,AG,3.0,AG3,N,-
+Elenion,G,L,9.0,9.0,1.0,E,N,AG,3.0,AG3,N,-
+Magestar,G,L,12.0,12.0,1.0,L,N,AG,3.0,AG3,N,-
+Assassin in Burgundy,G,L,11.0,11.0,1.0,L,N,AG,3.0,AG3,N,-
+Dalinar Kholin,E,W,2.0,3.0,3.0,L,N,AG,3.0,AG3,N,-
+Doctor 12,G,L,5.0,5.0,1.0,E,N,AG,3.0,AG3,N,-
+_Stick_,G,L,-,-,0.0,S,N,AG,3.0,AG3,N,-
+Jondesu,G,L,3.0,15.0,1.0,E,N,AG,3.0,AG3,N,-
+Arinian,G,L,7.0,7.0,1.0,E,N,AG,3.0,AG3,N,-
+Manukos,G,L,8.0,8.0,1.0,L,N,AG,3.0,AG3,N,-
+Droughtbringer,G,L,1.0,1.0,1.0,E,N,AG,3.0,AG3,N,-
+Drake Marshall,G,L,7.0,7.0,1.0,L,N,AG,3.0,AG3,N,-
+Hemalurgic Headshot,G,L,6.0,1.0,2.0,L,N,AG,3.0,AG3,N,-
+Madagascar,G,L,5.0,6.0,2.0,E,N,AG,3.0,AG3,N,-
+A Joe in the Bush,E,L,5.0,5.0,1.0,L,N,QF,21.0,QF21,N,-
+Seonid,G,W,6.0,6.0,1.0,L,N,QF,21.0,QF21,N,-
+Silverblade5,G,W,2.0,2.0,1.0,L,N,QF,21.0,QF21,N,-
+TheMightyLopen,G,W,4.0,4.0,1.0,L,N,QF,21.0,QF21,N,-
+Amanuensis,G,W,-,-,0.0,S,N,QF,21.0,QF21,N,-
+Conquestor,G,W,-,3.0,0.0,I,Y,QF,21.0,QF21,N,-
+Young Bard,G,W,7.0,7.0,1.0,L,N,QF,21.0,QF21,N,-
+Ecthelion,G,W,-,1.0,0.0,I,Y,QF,21.0,QF21,N,-
+Magestar,G,W,-,-,0.0,S,N,QF,21.0,QF21,N,-
+Assassin in Burgundy,G,W,-,-,0.0,S,N,QF,21.0,QF21,N,-
+daniyah,G,W,-,-,0.0,S,N,QF,21.0,QF21,N,-
+_Stick_,G,W,3.0,3.0,1.0,L,N,QF,21.0,QF21,N,-
+Darkness Ascendant,G,W,1.0,1.0,1.0,L,N,QF,21.0,QF21,N,-
+Arinian,G,W,-,-,0.0,S,N,QF,21.0,QF21,N,-
+Droughtbringer,E,L,-,2.0,0.0,I,Y,QF,21.0,QF21,N,-
+Drake Marshall,E,L,8.0,8.0,1.0,L,N,QF,21.0,QF21,N,-
+Quiver,G,L,-,-,0.0,O,N,LG,30.0,LG30,N,-
+Alvron,E,W,-,-,0.0,S,N,LG,30.0,LG30,N,-
+A Joe in the Bush,G,L,9.0,9.0,1.0,E,N,LG,30.0,LG30,N,-
+TheSilverDragon,G,L,-,-,0.0,S,N,LG,30.0,LG30,N,-
+TheMightyLopen,G,L,-,-,0.0,O,N,LG,30.0,LG30,N,-
+Arraenae,G,L,5.0,5.0,1.0,E,N,LG,30.0,LG30,N,-
+Elbereth,G,L,-,-,0.0,S,N,LG,30.0,LG30,N,-
+AliasSheep,G,L,3.0,3.0,1.0,E,N,LG,30.0,LG30,N,-
+Ecthelion,E,W,-,-,0.0,S,N,LG,30.0,LG30,N,-
+Magestar,G,L,7.0,7.0,1.0,E,N,LG,30.0,LG30,N,-
+Assassin in Burgundy,G,L,-,-,0.0,S,N,LG,30.0,LG30,N,-
+Doctor 12,E,W,-,-,0.0,S,N,LG,30.0,LG30,N,-
+Darkness Ascendant,G,L,-,-,0.0,O,N,LG,30.0,LG30,N,-
+Jondesu,G,L,8.0,8.0,1.0,E,N,LG,30.0,LG30,N,-
+JUQ,G,L,-,-,0.0,S,N,LG,30.0,LG30,N,-
+Arinian,G,L,8.0,8.0,1.0,L,N,LG,30.0,LG30,N,-
+Droughtbringer,G,L,8.0,8.0,1.0,E,N,LG,30.0,LG30,N,-
+Drake Marshall,G,L,-,-,0.0,O,N,LG,30.0,LG30,N,-
+Hemalurgic Headshot,G,L,6.0,6.0,1.0,E,N,LG,30.0,LG30,N,-
+DeTess,E,W,-,-,0.0,S,N,LG,30.0,LG30,N,-
+Shqueeves,G,L,-,-,0.0,O,N,LG,30.0,LG30,N,-
+the lazy anarchist,E,W,-,-,0.0,S,N,LG,30.0,LG30,N,-
+Alvron,G,L,9.0,9.0,1.0,L,N,MR,20.0,MR20,N,-
+Sart,G,L,7.0,7.0,1.0,E,N,MR,20.0,MR20,N,-
+Seonid,G,L,5.0,5.0,1.0,L,N,MR,20.0,MR20,N,-
+Phattemer,G,L,9.0,9.0,1.0,E,N,MR,20.0,MR20,N,-
+Silverblade5,G,L,3.0,3.0,1.0,E,N,MR,20.0,MR20,N,-
+TheMightyLopen,G,L,6.0,8.0,4.0,E,N,MR,20.0,MR20,N,-
+Straw,G,L,1.0,4.0,2.0,E,N,MR,20.0,MR20,N,-
+Bugsy,G,L,1.0,7.0,3.0,L,N,MR,20.0,MR20,N,-
+Conquestor,G,L,4.0,4.0,1.0,F,N,MR,20.0,MR20,N,-
+Ecthelion,G,L,2.0,1.0,3.0,E,N,MR,20.0,MR20,N,-
+Elenion,G,L,4.0,4.0,1.0,L,N,MR,20.0,MR20,N,-
+Magestar,E,W,8.0,-,2.0,S,N,MR,20.0,MR20,N,-
+Assassin in Burgundy,G,L,9.0,9.0,1.0,E,N,MR,20.0,MR20,N,-
+daniyah,G,L,1.0,1.0,1.0,E,N,MR,20.0,MR20,N,-
+Doctor 12,G,L,4.0,5.0,3.0,E,N,MR,20.0,MR20,N,-
+_Stick_,G,L,7.0,7.0,1.0,L,N,MR,20.0,MR20,N,-
+Darkness Ascendant,G,L,3.0,3.0,3.0,L,N,MR,20.0,MR20,N,-
+Jondesu,G,L,2.0,2.0,1.0,L,N,MR,20.0,MR20,N,-
+Arinian,G,L,2.0,2.0,1.0,E,N,MR,20.0,MR20,N,-
+Droughtbringer,G,L,6.0,6.0,2.0,L,N,MR,20.0,MR20,N,-
+Bartimaeus,G,L,8.0,8.0,1.0,L,N,MR,20.0,MR20,N,-
+A Joe in the Bush,E,L,2.0,2.0,1.0,V,N,LG,31.0,LG31,N,-
+Phattemer,G,W,1.0,1.0,1.0,L,N,LG,31.0,LG31,N,-
+Orlok Tsubodai,G,W,-,-,0.0,S,N,LG,31.0,LG31,N,-
+Silverblade5,G,W,-,-,0.0,S,N,LG,31.0,LG31,N,-
+Amanuensis,G,W,-,-,0.0,S,N,LG,31.0,LG31,N,-
+Straw,G,W,-,-,0.0,S,N,LG,31.0,LG31,N,-
+Ecthelion,E,L,1.0,1.0,1.0,N,N,LG,31.0,LG31,N,-
+Elenion,E,L,2.0,2.0,1.0,V,N,LG,31.0,LG31,N,-
+Magestar,G,W,1.0,1.0,2.0,E,N,LG,31.0,LG31,N,-
+_Stick_,G,W,-,-,0.0,S,N,LG,31.0,LG31,N,-
+Jondesu,N,L,-,-,0.0,S,N,LG,31.0,LG31,N,-
+Arinian,G,W,2.0,2.0,1.0,E,N,LG,31.0,LG31,N,-
+Droughtbringer,G,W,2.0,2.0,1.0,E,N,LG,31.0,LG31,N,-
+Hemalurgic Headshot,G,W,2.0,2.0,1.0,L,N,LG,31.0,LG31,N,-
+DeTess,G,W,1.0,1.0,1.0,F,N,LG,31.0,LG31,N,-
+Bort,G,W,-,-,0.0,S,N,LG,31.0,LG31,N,-
+Szeth-son-son-Mallano,G,W,-,-,0.0,S,N,LG,31.0,LG31,N,-
+Sart,G,L,2.0,2.0,1.0,L,N,QF,22.0,QF22,N,-
+Phattemer,G,L,-,-,0.0,S,N,QF,22.0,QF22,N,-
+Orlok Tsubodai,E,W,-,-,0.0,S,N,QF,22.0,QF22,N,-
+TheMightyLopen,E,W,-,-,0.0,S,N,QF,22.0,QF22,N,-
+STINK,G,L,3.0,3.0,1.0,E,N,QF,22.0,QF22,N,-
+Amanuensis,G,L,2.0,2.0,1.0,E,N,QF,22.0,QF22,N,-
+Arraenae,G,L,1.0,1.0,1.0,E,N,QF,22.0,QF22,N,-
+Elbereth,G,L,2.0,2.0,1.0,L,N,QF,22.0,QF22,N,-
+Straw,E,W,-,-,0.0,S,N,QF,22.0,QF22,N,-
+Ecthelion,E,W,-,-,0.0,S,N,QF,22.0,QF22,N,-
+Elenion,G,L,-,-,0.0,S,N,QF,22.0,QF22,N,-
+Magestar,E,W,-,-,0.0,S,N,QF,22.0,QF22,N,-
+_Stick_,E,W,-,-,0.0,S,N,QF,22.0,QF22,N,-
+Jondesu,G,L,-,-,0.0,S,N,QF,22.0,QF22,N,-
+Arinian,G,L,3.0,3.0,1.0,E,N,QF,22.0,QF22,N,-
+Manukos,G,L,3.0,3.0,1.0,L,N,QF,22.0,QF22,N,-
+Droughtbringer,G,L,-,-,0.0,S,N,QF,22.0,QF22,N,-
+Drake Marshall,G,L,1.0,1.0,1.0,E,N,QF,22.0,QF22,N,-
+Hemalurgic Headshot,G,L,3.0,3.0,1.0,L,N,QF,22.0,QF22,N,-
+DeTess,G,L,-,-,0.0,S,N,QF,22.0,QF22,N,-
+Bort,G,L,2.0,2.0,1.0,E,N,QF,22.0,QF22,N,-
+Figberts,G,L,-,-,0.0,S,N,QF,22.0,QF22,N,-
+Meta,G,W,4.0,5.0,2.0,E,N,LG,32.0,LG32,N,-
+little wilson,G,W,8.0,-,1.0,S,N,LG,32.0,LG32,N,-
+Aonar,G,W,7.0,7.0,1.0,E,N,LG,32.0,LG32,N,-
+Herowannabe,B,L,4.0,1.0,2.0,L,N,LG,32.0,LG32,N,-
+Sart,G,W,1.0,1.0,1.0,L,N,LG,32.0,LG32,N,-
+Araris Valerian,G,W,7.0,7.0,1.0,E,N,LG,32.0,LG32,N,-
+Kipper,E,L,5.0,-,1.0,I,Y,LG,32.0,LG32,N,-
+Silverblade5,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+TheMightyLopen,G,W,9.0,9.0,1.0,E,N,LG,32.0,LG32,N,-
+Amanuensis,G,W,1.0,1.0,1.0,F,N,LG,32.0,LG32,N,-
+Arraenae,B,L,8.0,9.0,2.0,L,N,LG,32.0,LG32,N,-
+Mark IV,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Bugsy,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Ecthelion,G,W,4.0,6.0,2.0,L,N,LG,32.0,LG32,N,-
+Elenion,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Magestar,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Dalinar Kholin,G,W,2.0,2.0,1.0,F,N,LG,32.0,LG32,N,-
+Darkness Ascendant,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Jondesu,B,L,7.0,7.0,1.0,V,N,LG,32.0,LG32,N,-
+Arinian,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Manukos,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Droughtbringer,G,W,2.0,2.0,1.0,L,N,LG,32.0,LG32,N,-
+Drake Marshall,G,W,3.0,3.0,1.0,L,N,LG,32.0,LG32,N,-
+Hemalurgic Headshot,G,W,11.0,11.0,1.0,L,N,LG,32.0,LG32,N,-
+DeTess,B,L,7.0,8.0,2.0,L,N,LG,32.0,LG32,N,-
+Figberts,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Yitzi2,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Iamspartacus,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+Ornstein,G,W,3.0,3.0,1.0,E,N,LG,32.0,LG32,N,-
+OmeGaster,G,W,-,-,0.0,S,N,LG,32.0,LG32,N,-
+A Joe in the Bush,E,W,-,-,0.0,S,N,MR,21.0,MR21,Y,-
+Seonid,G,L,5.0,5.0,1.0,E,N,MR,21.0,MR21,Y,-
+Orlok Tsubodai,G,L,-,-,0.0,S,N,MR,21.0,MR21,Y,-
+Silverblade5,G,L,2.0,2.0,1.0,E,N,MR,21.0,MR21,Y,-
+Paranoid King,G,L,3.0,3.0,1.0,E,N,MR,21.0,MR21,Y,-
+TheMightyLopen,G,L,4.0,4.0,1.0,E,N,MR,21.0,MR21,Y,-
+Amanuensis,E,W,-,-,0.0,S,N,MR,21.0,MR21,Y,-
+Straw,G,L,1.0,1.0,1.0,L,N,MR,21.0,MR21,Y,-
+Ecthelion,G,L,3.0,3.0,1.0,L,N,MR,21.0,MR21,Y,-
+Elenion,E,W,-,-,0.0,S,N,MR,21.0,MR21,Y,-
+Frozen Mint,E,W,-,-,0.0,S,N,MR,21.0,MR21,Y,-
+_Stick_,G,L,2.0,2.0,1.0,L,N,MR,21.0,MR21,Y,-
+Darkness Ascendant,G,L,1.0,1.0,1.0,E,N,MR,21.0,MR21,Y,-
+Jondesu,E,W,5.0,5.0,1.0,L,N,MR,21.0,MR21,Y,-
+Hemalurgic Headshot,G,L,-,-,0.0,S,N,MR,21.0,MR21,Y,-
+DeTess,G,L,-,-,0.0,S,N,MR,21.0,MR21,Y,-
+Ornstein,G,L,4.0,4.0,1.0,L,N,MR,21.0,MR21,Y,-
+BrightnessRadiant,G,L,4.0,4.0,1.0,E,N,MR,21.0,MR21,Y,-
+little wilson,G,W,3.0,3.0,2.0,N,N,LG,33.0,LG33,Y,-
+Alvron,E,L,5.0,-,2.0,O,N,LG,33.0,LG33,Y,-
+Aonar,E,L,3.0,4.0,4.0,V,N,LG,33.0,LG33,Y,-
+A Joe in the Bush,G,W,3.0,-,1.0,S,N,LG,33.0,LG33,Y,-
+Sart,G,W,-,-,0.0,O,N,LG,33.0,LG33,Y,-
+Eolhondras,G,W,3.0,6.0,2.0,N,N,LG,33.0,LG33,Y,-
+Haelbarde,G,W,-,-,0.0,O,N,LG,33.0,LG33,Y,-
+Orlok Tsubodai,E,L,1.0,1.0,1.0,O,N,LG,33.0,LG33,Y,-
+Silverblade5,G,W,1.0,6.0,2.0,N,N,LG,33.0,LG33,Y,-
+Burnt Spaghetti,G,W,3.0,-,1.0,S,N,LG,33.0,LG33,Y,-
+Paranoid King,G,W,2.0,-,2.0,S,N,LG,33.0,LG33,Y,-
+STINK,E,L,4.0,4.0,1.0,N,N,LG,33.0,LG33,Y,-
+Amanuensis,G,W,7.0,7.0,1.0,F,N,LG,33.0,LG33,Y,-
+Queensteph,G,W,7.0,8.0,3.0,E,N,LG,33.0,LG33,Y,-
+Straw,G,W,-,-,0.0,S,N,LG,33.0,LG33,Y,-
+Magestar,G,W,1.0,-,1.0,O,N,LG,33.0,LG33,Y,-
+Assassin in Burgundy,G,W,3.0,3.0,1.0,N,N,LG,33.0,LG33,Y,-
+_Stick_,G,W,5.0,7.0,5.0,F,N,LG,33.0,LG33,Y,-
+Darkness Ascendant,G,W,2.0,2.0,1.0,N,N,LG,33.0,LG33,Y,-
+Jondesu,G,W,5.0,-,1.0,O,N,LG,33.0,LG33,Y,-
+Arinian,G,W,-,-,0.0,S,N,LG,33.0,LG33,Y,-
+Drake Marshall,G,W,4.0,4.0,2.0,F,N,LG,33.0,LG33,Y,-
+Hemalurgic Headshot,E,L,5.0,6.0,3.0,V,N,LG,33.0,LG33,Y,-
+DeTess,G,W,2.0,2.0,2.0,E,N,LG,33.0,LG33,Y,-
+Ornstein,G,W,3.0,3.0,1.0,N,N,LG,33.0,LG33,Y,-
+BrightnessRadiant,G,W,5.0,-,5.0,S,N,LG,33.0,LG33,Y,-
+Roadwalker,E,L,9.0,9.0,1.0,V,N,LG,33.0,LG33,Y,-
+Herowannabe,G,L,5.0,6.0,1.0,L,N,QF,23.0,QF23,N,-
+Sart,G,L,1.0,1.0,1.0,F,N,QF,23.0,QF23,N,-
+Seonid,G,L,3.0,3.0,1.0,E,N,QF,23.0,QF23,N,-
+Unodus,G,L,5.0,5.0,1.0,F,N,QF,23.0,QF23,N,-
+Orlok Tsubodai,E,W,-,-,0.0,S,N,QF,23.0,QF23,N,-
+Bridge Boy/Elithanathile,G,L,1.0,1.0,1.0,L,N,QF,23.0,QF23,N,-
+TheMightyLopen,E,W,5.0,5.0,1.0,V,N,QF,23.0,QF23,N,-
+Elbereth,E,W,6.0,6.0,1.0,L,N,QF,23.0,QF23,N,-
+Queensteph,G,L,6.0,6.0,1.0,E,N,QF,23.0,QF23,N,-
+Cloudjumper,G,L,2.0,2.0,1.0,L,N,QF,23.0,QF23,N,-
+Ecthelion,G,L,4.0,4.0,1.0,L,N,QF,23.0,QF23,N,-
+Magestar,G,L,3.0,3.0,1.0,L,N,QF,23.0,QF23,N,-
+_Stick_,G,L,2.0,2.0,1.0,E,N,QF,23.0,QF23,N,-
+Droughtbringer,E,W,5.0,5.0,1.0,V,N,QF,23.0,QF23,N,-
+DeTess,G,L,4.0,5.0,1.0,E,N,QF,23.0,QF23,N,-
+Yitzi2,G,L,-,-,0.0,S,N,QF,23.0,QF23,N,-
+Ornstein,G,L,6.0,6.0,1.0,F,N,QF,23.0,QF23,N,-
+BrightnessRadiant,E,W,4.0,4.0,1.0,V,N,QF,23.0,QF23,N,-
+Roadwalker,G,L,2.0,2.0,1.0,F,N,QF,23.0,QF23,N,-
+Jedal,G,L,5.0,5.0,1.0,L,N,QF,23.0,QF23,N,-
+Quiver,G,D,-,-,0.0,S,N,MR,22.0,MR22,N,-
+Alvron,G,D,-,-,0.0,S,N,MR,22.0,MR22,N,-
+A Joe in the Bush,G,D,1.0,1.0,1.0,E,N,MR,22.0,MR22,N,-
+Seonid,G,D,-,-,0.0,S,N,MR,22.0,MR22,N,-
+Bridge Boy/Elithanathile,E,D,9.0,9.0,1.0,L,N,MR,22.0,MR22,N,-
+Paranoid King,G,D,-,-,0.0,S,N,MR,22.0,MR22,N,-
+Straw,G,D,1.0,1.0,1.0,L,N,MR,22.0,MR22,N,-
+Ecthelion,G,D,5.0,5.0,1.0,L,N,MR,22.0,MR22,N,-
+Frozen Mint,G,D,2.0,2.0,1.0,L,N,MR,22.0,MR22,N,-
+Darkness Ascendant,G,D,8.0,9.0,2.0,E,N,MR,22.0,MR22,N,-
+Jondesu,G,D,3.0,3.0,1.0,E,N,MR,22.0,MR22,N,-
+Droughtbringer,G,D,-,-,0.0,S,N,MR,22.0,MR22,N,-
+Hemalurgic Headshot,G,D,5.0,5.0,1.0,E,N,MR,22.0,MR22,N,-
+DeTess,G,D,2.0,2.0,1.0,E,N,MR,22.0,MR22,N,-
+Ornstein,E,D,6.0,6.0,1.0,L,N,MR,22.0,MR22,N,-
+BrightnessRadiant,G,D,6.0,8.0,2.0,E,N,MR,22.0,MR22,N,-
+Jedal,E,D,7.0,7.0,1.0,L,N,MR,22.0,MR22,N,-
+xxGaea,E,D,4.0,4.0,1.0,E,N,MR,22.0,MR22,N,-
+Steeldancer,E,D,3.0,3.0,1.0,L,N,MR,22.0,MR22,N,-
+Conatus,G,D,4.0,4.0,1.0,L,N,MR,22.0,MR22,N,-
+Meta,E,L,8.0,9.0,2.0,L,N,LG,34.0,LG34,N,-
+Sart,E,L,8.0,8.0,1.0,L,N,LG,34.0,LG34,N,-
+Araris Valerian,N,W,-,-,0.0,S,N,LG,34.0,LG34,N,-
+Orlok Tsubodai,G,W,4.0,4.0,1.0,L,N,LG,34.0,LG34,N,-
+Paranoid King,G,W,1.0,1.0,1.0,L,N,LG,34.0,LG34,N,-
+TheMightyLopen,G,W,2.0,2.0,1.0,E,N,LG,34.0,LG34,N,-
+Cloudjumper,G,W,6.0,6.0,1.0,E,N,LG,34.0,LG34,N,-
+Ecthelion,N,L,4.0,4.0,1.0,N,N,LG,34.0,LG34,N,-
+Elenion,G,W,5.0,-,1.0,S,N,LG,34.0,LG34,N,-
+Dalinar Kholin,G,W,2.0,2.0,1.0,L,N,LG,34.0,LG34,N,-
+_Stick_,G,W,3.0,3.0,1.0,L,N,LG,34.0,LG34,N,-
+Jondesu,E,L,5.0,6.0,2.0,L,N,LG,34.0,LG34,N,-
+Manukos,G,W,8.0,-,1.0,S,N,LG,34.0,LG34,N,-
+Droughtbringer,G,W,7.0,7.0,1.0,L,N,LG,34.0,LG34,N,-
+Hemalurgic Headshot,G,W,-,-,0.0,S,N,LG,34.0,LG34,N,-
+Yitzi2,G,W,5.0,7.0,2.0,E,N,LG,34.0,LG34,N,-
+Ornstein,N,L,1.0,1.0,1.0,E,N,LG,34.0,LG34,N,-
+BrightnessRadiant,E,L,3.0,3.0,1.0,V,N,LG,34.0,LG34,N,-
+Roadwalker,G,W,5.0,5.0,1.0,L,N,LG,34.0,LG34,N,-
+Steeldancer,G,W,4.0,-,1.0,S,N,LG,34.0,LG34,N,-
+StrikerEZ,G,W,3.0,3.0,1.0,E,N,LG,34.0,LG34,N,-
+Seonid,G,W,-,-,0.0,S,N,QF,24.0,QF24,N,-
+Bridge Boy/Elithanathile,G,W,1.0,1.0,1.0,F,N,QF,24.0,QF24,N,-
+Paranoid King,G,W,2.0,2.0,1.0,L,N,QF,24.0,QF24,N,-
+TheMightyLopen,E,L,4.0,4.0,1.0,L,N,QF,24.0,QF24,N,-
+Cloudjumper,G,W,1.0,1.0,1.0,E,N,QF,24.0,QF24,N,-
+Ecthelion,G,W,-,-,0.0,S,N,QF,24.0,QF24,N,-
+Elenion,G,W,3.0,3.0,1.0,E,N,QF,24.0,QF24,N,-
+Jondesu,G,W,-,-,0.0,S,N,QF,24.0,QF24,N,-
+Arinian,G,W,1.0,1.0,1.0,L,N,QF,24.0,QF24,N,-
+Drake Marshall,E,L,3.0,3.0,1.0,L,N,QF,24.0,QF24,N,-
+DeTess,G,W,2.0,2.0,1.0,E,N,QF,24.0,QF24,N,-
+Yitzi2,G,W,-,-,0.0,S,N,QF,24.0,QF24,N,-
+BrightnessRadiant,G,W,5.0,-,1.0,S,N,QF,24.0,QF24,N,-
+Roadwalker,E,L,5.0,5.0,1.0,V,N,QF,24.0,QF24,N,-
+Steeldancer,G,W,-,-,0.0,S,N,QF,24.0,QF24,N,-
+StrikerEZ,G,W,-,-,0.0,S,N,QF,24.0,QF24,N,-
+Asterion,G,W,5.0,5.0,1.0,L,N,QF,24.0,QF24,N,-
+little wilson,N,W,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+A Joe in the Bush,N,W,6.0,6.0,1.0,L,N,LG,35.0,LG35,Y,-
+Araris Valerian,E,W,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+Seonid,G,L,7.0,7.0,1.0,E,N,LG,35.0,LG35,Y,-
+Orlok Tsubodai,N,W,1.0,-,1.0,S,N,LG,35.0,LG35,Y,-
+Paranoid King,E,W,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+TheMightyLopen,G,L,2.0,2.0,1.0,E,N,LG,35.0,LG35,Y,-
+STINK,N,W,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+Amanuensis,G,L,3.0,3.0,1.0,E,N,LG,35.0,LG35,Y,-
+Arraenae,G,L,4.0,4.0,1.0,E,N,LG,35.0,LG35,Y,-
+Elbereth,N,W,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+Straw,G,L,2.0,3.0,2.0,L,N,LG,35.0,LG35,Y,-
+Cloudjumper,G,L,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+Ecthelion,G,L,7.0,7.0,1.0,L,N,LG,35.0,LG35,Y,-
+Elenion,G,L,4.0,4.0,1.0,L,N,LG,35.0,LG35,Y,-
+Dalinar Kholin,G,L,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+_Stick_,E,W,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+Jondesu,G,L,1.0,1.0,1.0,L,N,LG,35.0,LG35,Y,-
+Arinian,G,L,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+Drake Marshall,G,L,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+DeTess,G,L,3.0,3.0,1.0,F,N,LG,35.0,LG35,Y,-
+Shqueeves,G,L,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+Yitzi2,E,W,2.0,2.0,1.0,L,N,LG,35.0,LG35,Y,-
+BrightnessRadiant,G,L,6.0,6.0,1.0,E,N,LG,35.0,LG35,Y,-
+xxGaea,N,W,-,-,0.0,S,N,LG,35.0,LG35,Y,-
+Steeldancer,G,L,8.0,8.0,1.0,L,N,LG,35.0,LG35,Y,-
+StrikerEZ,G,L,5.0,5.0,1.0,E,N,LG,35.0,LG35,Y,-
+Asterion,G,L,5.0,5.0,1.0,L,N,LG,35.0,LG35,Y,-
+Alvron,F,W,6.0,-,4.0,S,N,MR,23.0,MR23,Y,-
+A Joe in the Bush,F,L,9.0,9.0,2.0,L,N,MR,23.0,MR23,Y,-
+Sart,F,W,-,-,0.0,S,N,MR,23.0,MR23,Y,-
+Orlok Tsubodai,F,W,2.0,3.0,1.0,N,N,MR,23.0,MR23,Y,-
+Elbereth,F,W,4.0,5.0,2.0,S,N,MR,23.0,MR23,Y,-
+Straw,F,W,-,-,0.0,S,N,MR,23.0,MR23,Y,-
+Cloudjumper,F,L,5.0,8.0,3.0,L,N,MR,23.0,MR23,Y,-
+Elenion,F,L,1.0,2.0,3.0,L,N,MR,23.0,MR23,Y,-
+daniyah,F,W,9.0,9.0,1.0,N,N,MR,23.0,MR23,Y,-
+Frozen Mint,F,W,-,-,0.0,S,N,MR,23.0,MR23,Y,-
+Jondesu,F,L,4.0,5.0,2.0,L,N,MR,23.0,MR23,Y,-
+Drake Marshall,F,W,3.0,-,2.0,S,N,MR,23.0,MR23,Y,-
+Hemalurgic Headshot,F,W,3.0,3.0,1.0,L,N,MR,23.0,MR23,Y,-
+Yitzi2,F,L,8.0,8.0,1.0,N,N,MR,23.0,MR23,Y,-
+BrightnessRadiant,F,L,3.0,6.0,2.0,L,N,MR,23.0,MR23,Y,-
+Roadwalker,F,L,2.0,2.0,1.0,N,N,MR,23.0,MR23,Y,-
+xxGaea,F,L,4.0,5.0,2.0,N,N,MR,23.0,MR23,Y,-
+Steeldancer,F,W,3.0,6.0,2.0,S,N,MR,23.0,MR23,Y,-
+StrikerEZ,F,L,5.0,7.0,2.0,N,N,MR,23.0,MR23,Y,-
+Asterion,F,W,2.0,3.0,2.0,N,N,MR,23.0,MR23,Y,-
+Megasif,F,L,4.0,4.0,1.0,N,N,MR,23.0,MR23,Y,-
+Sami,F,W,-,-,0.0,S,N,MR,23.0,MR23,Y,-
+Alvron,G,W,3.0,-,1.0,L,N,LG,36.0,LG36,Y,-
+Alvron,G,W,3.0,-,1.0,S,N,LG,36.0,LG36,Y,-
+Aonar,G,W,-,-,0.0,S,N,LG,36.0,LG36,Y,-
+A Joe in the Bush,E,L,4.0,4.0,1.0,V,N,LG,36.0,LG36,Y,-
+Araris Valerian,G,W,4.0,4.0,1.0,E,N,LG,36.0,LG36,Y,-
+Clanky,G,W,-,-,0.0,S,N,LG,36.0,LG36,Y,-
+Orlok Tsubodai,G,W,4.0,4.0,1.0,N,N,LG,36.0,LG36,Y,-
+STINK,E,L,1.0,1.0,1.0,N,N,LG,36.0,LG36,Y,-
+Straw,G,W,1.0,2.0,1.0,L,N,LG,36.0,LG36,Y,-
+Cloudjumper,E,L,4.0,4.0,1.0,V,N,LG,36.0,LG36,Y,-
+daniyah,G,W,-,-,0.0,S,N,LG,36.0,LG36,Y,-
+Manukos,G,W,4.0,4.0,1.0,L,N,LG,36.0,LG36,Y,-
+Drake Marshall,G,W,3.0,4.0,1.0,E,N,LG,36.0,LG36,Y,-
+Yitzi2,E,L,2.0,-,1.0,L,N,LG,36.0,LG36,Y,-
+BrightnessRadiant,G,W,-,-,0.0,S,N,LG,36.0,LG36,Y,-
+Roadwalker,G,W,-,-,0.0,S,N,LG,36.0,LG36,Y,-
+Steeldancer,G,W,1.0,2.0,1.0,E,N,LG,36.0,LG36,Y,-
+StrikerEZ,G,W,2.0,3.0,1.0,E,N,LG,36.0,LG36,Y,-
+Asterion,G,W,-,-,0.0,S,N,LG,36.0,LG36,Y,-
+Megasif,G,W,-,-,0.0,S,N,LG,36.0,LG36,Y,-
+Sami,G,W,-,-,0.0,S,N,LG,36.0,LG36,Y,-
+Sart,G,L,7.0,7.0,1.0,E,N,QF,25.0,QF25,N,-
+Winter,G,L,7.0,7.0,1.0,E,N,QF,25.0,QF25,N,-
+Orlok Tsubodai,E,W,-,-,0.0,S,N,QF,25.0,QF25,N,-
+Bridge Boy/Elithanathile,G,L,-,-,0.0,S,N,QF,25.0,QF25,N,-
+Paranoid King,G,L,2.0,2.0,1.0,L,N,QF,25.0,QF25,N,-
+TheMightyLopen,G,L,3.0,7.0,2.0,E,N,QF,25.0,QF25,N,-
+STINK,E,W,7.0,7.0,1.0,L,N,QF,25.0,QF25,N,-
+Arraenae,G,L,4.0,4.0,1.0,E,N,QF,25.0,QF25,N,-
+Young Bard,G,L,-,5.0,0.0,I,Y,QF,25.0,QF25,N,-
+Ecthelion,G,L,-,-,0.0,S,N,QF,25.0,QF25,N,-
+Elenion,G,L,5.0,5.0,1.0,L,N,QF,25.0,QF25,N,-
+Magestar,G,L,7.0,7.0,1.0,E,N,QF,25.0,QF25,N,-
+_Stick_,G,L,2.0,2.0,1.0,L,N,QF,25.0,QF25,N,-
+Darkness Ascendant,G,L,7.0,7.0,1.0,E,N,QF,25.0,QF25,N,-
+Jondesu,G,L,4.0,7.0,2.0,E,N,QF,25.0,QF25,N,-
+Arinian,G,L,6.0,6.0,1.0,E,N,QF,25.0,QF25,N,-
+Drake Marshall,G,L,1.0,1.0,1.0,E,N,QF,25.0,QF25,N,-
+Yitzi2,G,L,6.0,6.0,2.0,L,N,QF,25.0,QF25,N,-
+Roadwalker,G,L,7.0,7.0,1.0,E,N,QF,25.0,QF25,N,-
+Steeldancer,G,L,1.0,1.0,1.0,L,N,QF,25.0,QF25,N,-
+Megasif,G,L,2.0,2.0,1.0,E,N,QF,25.0,QF25,N,-
+Sami,G,L,5.0,5.0,1.0,E,N,QF,25.0,QF25,N,-
+Eternum,G,L,7.0,7.0,1.0,E,N,QF,25.0,QF25,N,-
+Overlord Jebus,G,L,-,-,0.0,S,N,QF,25.0,QF25,N,-
+Meta,N,L,-,-,-,,N,LG,37.0,LG37,N,-
+Araris Valerian,N,L,-,-,-,,N,LG,37.0,LG37,N,-
+Winter,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+Clanky,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+Orlok Tsubodai,E,L,-,-,-,,N,LG,37.0,LG37,N,-
+Burnt Spaghetti,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+Paranoid King,G,L,-,-,-,,N,LG,37.0,LG37,N,-
+TheMightyLopen,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+STINK,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+polkinghornhd,G,L,-,-,-,,N,LG,37.0,LG37,N,-
+Elbereth,N,D,-,-,-,S,N,LG,37.0,LG37,N,-
+Straw,G,L,-,-,-,,N,LG,37.0,LG37,N,-
+Cloudjumper,E,W,-,-,-,,N,LG,37.0,LG37,N,-
+Ecthelion,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+Dalinar Kholin,E,W,-,-,-,,N,LG,37.0,LG37,N,-
+Doctor 12,N,L,-,-,-,,N,LG,37.0,LG37,N,-
+_Stick_,N,L,-,-,-,,N,LG,37.0,LG37,N,-
+Darkness Ascendant,G,L,-,-,-,,N,LG,37.0,LG37,N,-
+Lady of Chaos,G,L,-,-,-,,N,LG,37.0,LG37,N,-
+Jondesu,G,L,-,-,-,,N,LG,37.0,LG37,N,-
+Arinian,G,L,-,-,-,,N,LG,37.0,LG37,N,-
+Droughtbringer,M,L,-,-,-,,N,LG,37.0,LG37,N,-
+Drake Marshall,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+Hemalurgic Headshot,E,W,-,-,-,,N,LG,37.0,LG37,N,-
+DeTess,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+Shqueeves,E,L,-,-,-,,N,LG,37.0,LG37,N,-
+BrightnessRadiant,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+xxGaea,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+Steeldancer,E,L,-,-,-,,N,LG,37.0,LG37,N,-
+Asterion,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+Megasif,M,L,-,-,-,,N,LG,37.0,LG37,N,-
+Eternum,G,L,-,-,-,,N,LG,37.0,LG37,N,-
+A Budgie,G,W,-,-,-,,N,LG,37.0,LG37,N,-
+Majestic,G,L,-,-,-,,N,LG,37.0,LG37,N,-
+Alvron,N,L,5.0,5.0,1.0,L,N,MR,24.0,MR24,N,-
+Winter,E,L,4.0,4.0,1.0,E,N,MR,24.0,MR24,N,-
+Bridge Boy/Elithanathile,N,W,-,-,0.0,S,N,MR,24.0,MR24,N,-
+Paranoid King,E,L,6.0,6.0,2.0,E,N,MR,24.0,MR24,N,-
+RippleGylf,M,L,6.0,8.0,2.0,L,N,MR,24.0,MR24,N,-
+Mark IV,S,L,5.0,6.0,1.0,L,N,MR,24.0,MR24,N,-
+Ecthelion,N,L,-,-,-,,N,MR,24.0,MR24,N,-
+Elenion,N,W,8.0,8.0,1.0,M,N,MR,24.0,MR24,N,-
+Frozen Mint,N,L,4.0,4.0,1.0,L,N,MR,24.0,MR24,N,-
+Jondesu,S,L,2.0,2.0,1.0,L,N,MR,24.0,MR24,N,-
+Arinian,N,L,6.0,6.0,1.0,N,N,MR,24.0,MR24,N,-
+Drake Marshall,S,L,7.0,7.0,1.0,L,N,MR,24.0,MR24,N,-
+Hemalurgic Headshot,N,W,-,-,0.0,S,N,MR,24.0,MR24,N,-
+Shqueeves,N,L,-,-,0.0,S,N,MR,24.0,MR24,N,-
+BrightnessRadiant,N,L,5.0,5.0,1.0,E,N,MR,24.0,MR24,N,-
+Roadwalker,N,L,2.0,2.0,1.0,E,N,MR,24.0,MR24,N,-
+xxGaea,S,L,3.0,3.0,2.0,E,N,MR,24.0,MR24,N,-
+Steeldancer,N,L,4.0,4.0,1.0,E,N,MR,24.0,MR24,N,-
+Asterion,N,W,-,-,0.0,S,N,MR,24.0,MR24,N,-
+Megasif,N,L,-,-,0.0,S,N,MR,24.0,MR24,N,-
+Sami,N,L,-,-,0.0,S,N,MR,24.0,MR24,N,-
+Eternum,E,L,5.0,5.0,1.0,N,N,MR,24.0,MR24,N,-
+Majestic,N,W,2.0,2.0,1.0,L,N,MR,24.0,MR24,N,-
+King Cole,N,L,-,-,0.0,S,N,MR,24.0,MR24,N,-
+Rebecca,N,L,-,-,0.0,S,N,MR,24.0,MR24,N,-
+Lemonelon,E,L,3.0,3.0,1.0,L,N,MR,24.0,MR24,N,-
+little wilson,F,L,4.0,-,1.0,S,N,LG,38.0,LG38,Y,-
+Aonar,F,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Sart,F,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Winter,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Bort,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Clanky,F,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Orlok Tsubodai,F,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Bridge Boy/Elithanathile,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Straw,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Young Bard,F,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Ecthelion,N,L,4.0,4.0,2.0,N,N,LG,38.0,LG38,Y,-
+Elenion,F,L,3.0,3.0,2.0,N,N,LG,38.0,LG38,Y,-
+Magestar,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Darkness Ascendant,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Jondesu,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Arinian,N,L,4.0,-,1.0,S,N,LG,38.0,LG38,Y,-
+Droughtbringer,N,L,1.0,-,1.0,S,N,LG,38.0,LG38,Y,-
+Drake Marshall,F,L,3.0,4.0,2.0,N,N,LG,38.0,LG38,Y,-
+Hemalurgic Headshot,N,L,3.0,-,1.0,S,N,LG,38.0,LG38,Y,-
+DeTess,N,L,1.0,-,1.0,S,N,LG,38.0,LG38,Y,-
+Bort,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Grumpy Dula,N,L,-,-,-,,N,LG,38.0,LG38,Y,-
+Ornstein,N,L,1.0,1.0,1.0,L,N,LG,38.0,LG38,Y,-
+BrightnessRadiant,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Roadwalker,F,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Steeldancer,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Megasif,F,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Sami,N,L,4.0,-,1.0,S,N,LG,38.0,LG38,Y,-
+Eternum,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+Majestic,N,L,-,-,0.0,S,N,LG,38.0,LG38,Y,-
+King Cole,N,L,3.0,-,1.0,S,N,LG,38.0,LG38,Y,-
+Lemonelon,F,L,1.0,-,1.0,S,N,LG,38.0,LG38,Y,-
+little wilson,G,W,1.0,1.0,1.0,N,N,QF,26.0,QF26,N,-
+Alvron,G,W,9.0,9.0,1.0,L,N,QF,26.0,QF26,N,-
+Herowannabe,G,W,11.0,11.0,1.0,L,N,QF,26.0,QF26,N,-
+Seonid,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Haelbarde,G,W,10.0,10.0,1.0,N,N,QF,26.0,QF26,N,-
+TheMightyLopen,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+RippleGylf,G,W,9.0,9.0,1.0,N,N,QF,26.0,QF26,N,-
+Amanuensis,G,W,12.0,12.0,1.0,L,N,QF,26.0,QF26,N,-
+Mark IV,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Straw,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Young Bard,G,W,6.0,6.0,1.0,N,N,QF,26.0,QF26,N,-
+Ecthelion,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+daniyah,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+_Stick_,G,W,13.0,13.0,1.0,N,N,QF,26.0,QF26,N,-
+Darkness Ascendant,G,W,12.0,12.0,1.0,N,N,QF,26.0,QF26,N,-
+Jondesu,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Arinian,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Droughtbringer,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+BrightnessRadiant,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Roadwalker,G,W,5.0,5.0,1.0,L,N,QF,26.0,QF26,N,-
+Steeldancer,G,W,3.0,3.0,1.0,N,N,QF,26.0,QF26,N,-
+Megasif,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Sami,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Eternum,G,W,1.0,1.0,1.0,L,N,QF,26.0,QF26,N,-
+A Budgie,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Majestic,G,W,2.0,2.0,1.0,N,N,QF,26.0,QF26,N,-
+King Cole,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Rebecca,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Lemonelon,G,W,-,-,0.0,S,N,QF,26.0,QF26,N,-
+Julio,G,W,13.0,13.0,1.0,L,N,QF,26.0,QF26,N,-
+Sony,G,W,14.0,14.0,1.0,N,N,QF,26.0,QF26,N,-
+Alvron,G,L,-,-,0.0,S,N,QF,27.0,QF27,N,-
+Orlok Tsubodai,E,W,2.0,-,2.0,S,N,QF,27.0,QF27,N,-
+Queensteph,G,L,-,5.0,0.0,I,Y,QF,27.0,QF27,N,-
+Straw,G,L,6.0,6.0,1.0,L,N,QF,27.0,QF27,N,-
+Doctor 12,G,L,6.0,6.0,1.0,E,N,QF,27.0,QF27,N,-
+Darkness Ascendant,G,L,1.0,1.0,1.0,L,N,QF,27.0,QF27,N,-
+Jondesu,G,L,-,-,0.0,S,N,QF,27.0,QF27,N,-
+Manukos,G,L,-,-,0.0,S,N,QF,27.0,QF27,N,-
+Drake Marshall,G,L,4.0,4.0,1.0,E,N,QF,27.0,QF27,N,-
+DeTess,G,L,5.0,5.0,1.0,E,N,QF,27.0,QF27,N,-
+BrightnessRadiant,E,W,-,-,0.0,S,N,QF,27.0,QF27,N,-
+Roadwalker,G,L,4.0,4.0,1.0,L,N,QF,27.0,QF27,N,-
+Steeldancer,G,L,3.0,3.0,1.0,L,N,QF,27.0,QF27,N,-
+Asterion,G,L,5.0,5.0,1.0,L,N,QF,27.0,QF27,N,-
+Megasif,G,L,-,5.0,0.0,I,Y,QF,27.0,QF27,N,-
+Sami,G,L,-,2.0,0.0,I,Y,QF,27.0,QF27,N,-
+King Cole,G,L,1.0,1.0,1.0,E,N,QF,27.0,QF27,N,-
+Lemonelon,G,L,2.0,2.0,1.0,L,N,QF,27.0,QF27,N,-
+Sony,E,W,-,-,0.0,S,N,QF,27.0,QF27,N,-
+Mestiv,E,W,-,-,0.0,S,N,QF,27.0,QF27,N,-
+little wilson,G,L,-,-,0.0,S,N,LG,39.0,LG39,N,-
+Aonar,E,W,-,-,0.0,S,N,LG,39.0,LG39,N,-
+A Joe in the Bush,G,L,2.0,2.0,1.0,L,N,LG,39.0,LG39,N,-
+Sart,G,L,3.0,3.0,1.0,L,N,LG,39.0,LG39,N,-
+Araris Valerian,E,W,-,-,0.0,S,N,LG,39.0,LG39,N,-
+Seonid,G,L,-,-,0.0,S,N,LG,39.0,LG39,N,-
+Orlok Tsubodai,G,L,-,8.0,0.0,D,N,LG,39.0,LG39,N,-
+Paranoid King,G,L,-,-,0.0,S,Y,LG,39.0,LG39,N,-
+Amanuensis,G,L,1.0,1.0,1.0,L,N,LG,39.0,LG39,N,-
+Arraenae,E,W,6.0,7.0,2.0,L,N,LG,39.0,LG39,N,-
+Elbereth,G,L,9.0,9.0,1.0,E,N,LG,39.0,LG39,N,-
+Straw,G,L,5.0,5.0,1.0,E,N,LG,39.0,LG39,N,-
+Frozen Mint,G,L,4.0,4.0,1.0,E,N,LG,39.0,LG39,N,-
+Doctor 12,G,L,-,-,0.0,S,Y,LG,39.0,LG39,N,-
+Darkness Ascendant,E,W,9.0,9.0,1.0,L,N,LG,39.0,LG39,N,-
+Jondesu,G,L,4.0,4.0,1.0,L,N,LG,39.0,LG39,N,-
+Arinian,G,L,6.0,6.0,1.0,E,N,LG,39.0,LG39,N,-
+Droughtbringer,G,L,8.0,8.0,1.0,E,N,LG,39.0,LG39,N,-
+Shqueeves,G,L,-,-,0.0,S,Y,LG,39.0,LG39,N,-
+Steeldancer,G,L,2.0,2.0,1.0,E,N,LG,39.0,LG39,N,-
+StrikerEZ,G,L,-,-,0.0,S,Y,LG,39.0,LG39,N,-
+Lemonelon,G,L,8.0,8.0,1.0,L,N,LG,39.0,LG39,N,-
+Sony,G,L,7.0,7.0,1.0,E,N,LG,39.0,LG39,N,-
+DarianHammersmith,G,L,-,-,0.0,S,Y,LG,39.0,LG39,N,-
+Davus,G,L,-,-,0.0,S,Y,LG,39.0,LG39,N,-
+A Joe in the Bush,E,W,1.0,1.0,1.0,L,N,MR,25.0,MR25,N,-
+Sart,G,L,2.0,2.0,1.0,E,N,MR,25.0,MR25,N,-
+Orlok Tsubodai,G,L,4.0,4.0,1.0,E,N,MR,25.0,MR25,N,-
+Straw,G,L,6.0,6.0,1.0,E,N,MR,25.0,MR25,N,-
+Darkness Ascendant,G,L,7.0,7.0,1.0,L,N,MR,25.0,MR25,N,-
+Jondesu,G,L,1.0,3.0,2.0,E,N,MR,25.0,MR25,N,-
+Arinian,G,L,-,-,0.0,S,N,MR,25.0,MR25,N,-
+Manukos,G,L,5.0,5.0,1.0,L,N,MR,25.0,MR25,N,-
+Drake Marshall,E,W,4.0,-,1.0,S,N,MR,25.0,MR25,N,-
+Hemalurgic Headshot,E,W,8.0,8.0,1.0,L,N,MR,25.0,MR25,N,-
+DeTess,G,L,7.0,7.0,1.0,E,N,MR,25.0,MR25,N,-
+Shqueeves,G,L,-,7.0,0.0,I,Y,MR,25.0,MR25,N,-
+BrightnessRadiant,G,L,8.0,8.0,1.0,E,N,MR,25.0,MR25,N,-
+Roadwalker,G,L,3.0,3.0,1.0,L,N,MR,25.0,MR25,N,-
+StrikerEZ,G,L,4.0,4.0,2.0,F,N,MR,25.0,MR25,N,-
+Megasif,E,W,6.0,6.0,2.0,V,N,MR,25.0,MR25,N,-
+Sami,G,L,9.0,9.0,1.0,L,N,MR,25.0,MR25,N,-
+Eternum,G,L,-,3.0,0.0,I,Y,MR,25.0,MR25,N,-
+Lemonelon,G,L,5.0,5.0,1.0,E,N,MR,25.0,MR25,N,-
+Walin,G,L,2.0,2.0,1.0,L,N,MR,25.0,MR25,N,-
+Alvron,G,L,2.0,2.0,1.0,,N,LG,40.0,LG40,N,-
+Phattemer,G,W,2.0,2.0,3.0,,N,LG,40.0,LG40,N,-
+TheMightyLopen,G,L,5.0,5.0,1.0,,N,LG,40.0,LG40,N,-
+Arraenae,E,L,8.0,8.0,-,V,N,LG,40.0,LG40,N,-
+Straw,G,L,4.0,4.0,1.0,,N,LG,40.0,LG40,N,-
+Bugsy,G,W,1.0,1.0,1.0,,N,LG,40.0,LG40,N,-
+Cloudjumper,G,L,2.0,2.0,1.0,L,N,LG,40.0,LG40,N,-
+Young Bard,G,L,-,-,-,S,N,LG,40.0,LG40,N,-
+Doctor 12,G,W,-,6.0,-,,N,LG,40.0,LG40,N,-
+Darkness Ascendant,G,L,3.0,3.0,1.0,,N,LG,40.0,LG40,N,-
+livinglegend,G,L,-,-,-,,N,LG,40.0,LG40,N,-
+Arinian,G,W,6.0,-,1.0,S,N,LG,40.0,LG40,N,-
+Manukos,G,W,-,-,-,S,N,LG,40.0,LG40,N,-
+Drake Marshall,E,L,1.0,1.0,1.0,L,N,LG,40.0,LG40,N,-
+DeTess,E,L,5.0,5.0,1.0,V,N,LG,40.0,LG40,N,-
+Shqueeves,G,L,4.0,4.0,1.0,L,N,LG,40.0,LG40,N,-
+BrightnessRadiant,G,L,8.0,8.0,1.0,L,N,LG,40.0,LG40,N,-
+Roadwalker,G,L,4.0,4.0,1.0,,N,LG,40.0,LG40,N,-
+Steeldancer,G,L,1.0,1.0,1.0,,N,LG,40.0,LG40,N,-
+StrikerEZ,G,L,1.0,1.0,1.0,,N,LG,40.0,LG40,N,-
+Asterion,E,L,3.0,3.0,1.0,L,N,LG,40.0,LG40,N,-
+Megasif,G,L,4.0,4.0,1.0,,N,LG,40.0,LG40,N,-
+Sami,G,L,-,-,-,S,N,LG,40.0,LG40,N,-
+A Budgie,G,L,7.0,7.0,1.0,,N,LG,40.0,LG40,N,-
+Rebecca,G,L,5.0,5.0,1.0,L,N,LG,40.0,LG40,N,-
+Lemonelon,E,L,6.0,6.0,1.0,L,N,LG,40.0,LG40,N,-
+ShaneysRus,G,W,7.0,7.0,1.0,L,N,LG,40.0,LG40,N,-
+Alvron,G,L,4.0,4.0,1.0,E,N,QF,28.0,QF28,N,-
+A Joe in the Bush,G,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Sart,G,L,5.0,5.0,1.0,E,N,QF,28.0,QF28,N,-
+Araris Valerian,G,W,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Phattemer,G,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Haelbarde,G,L,2.0,2.0,1.0,L,N,QF,28.0,QF28,N,-
+Orlok Tsubodai,G,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Kynedath,E,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Straw,G,L,5.0,5.0,1.0,L,N,QF,28.0,QF28,N,-
+Young Bard,E,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Darkness Ascendant,G,L,3.0,3.0,1.0,L,N,QF,28.0,QF28,N,-
+livinglegend,E,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Jondesu,G,L,1.0,1.0,1.0,E,N,QF,28.0,QF28,N,-
+Droughtbringer,G,L,6.0,6.0,1.0,E,N,QF,28.0,QF28,N,-
+Madagascar,G,L,6.0,6.0,1.0,L,N,QF,28.0,QF28,N,-
+BrightnessRadiant,G,L,2.0,2.0,1.0,E,N,QF,28.0,QF28,N,-
+Roadwalker,G,L,1.0,1.0,1.0,L,N,QF,28.0,QF28,N,-
+xxGaea,G,L,4.0,4.0,1.0,L,N,QF,28.0,QF28,N,-
+Steeldancer,G,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+StrikerEZ,G,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Asterion,G,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Lemonelon,G,L,3.0,3.0,1.0,E,N,QF,28.0,QF28,N,-
+Devotary of Spontaneity,G,L,-,-,0.0,S,N,QF,28.0,QF28,N,-
+Alvron,G,W,-,-,0.0,S,N,MR,26.0,MR26,N,-
+A Joe in the Bush,G,W,1.0,1.0,1.0,L,N,MR,26.0,MR26,N,-
+Kynedath,G,W,4.0,4.0,1.0,E,N,MR,26.0,MR26,N,-
+Straw,G,W,4.0,4.0,1.0,L,N,MR,26.0,MR26,N,-
+Darkness Ascendant,G,W,1.0,1.0,1.0,E,N,MR,26.0,MR26,N,-
+livinglegend,E,L,6.0,6.0,1.0,V,N,MR,26.0,MR26,N,-
+Arinian,G,W,-,-,0.0,S,N,MR,26.0,MR26,N,-
+Droughtbringer,G,W,-,-,0.0,S,N,MR,26.0,MR26,N,-
+DeTess,E,L,3.0,3.0,1.0,L,N,MR,26.0,MR26,N,-
+Ornstein,G,W,-,-,0.0,S,N,MR,26.0,MR26,N,-
+Roadwalker,G,W,-,-,0.0,S,N,MR,26.0,MR26,N,-
+Steeldancer,E,L,6.0,6.0,1.0,V,N,MR,26.0,MR26,N,-
+Megasif,G,W,5.0,5.0,1.0,L,N,MR,26.0,MR26,N,-
+A Budgie,G,W,2.0,2.0,1.0,L,N,MR,26.0,MR26,N,-
+Walin,N,L,2.0,2.0,1.0,E,N,MR,26.0,MR26,N,-
+Devotary of Spontaneity,G,W,3.0,-,1.0,S,N,MR,26.0,MR26,N,-
+Sart,G,L,2.0,2.0,1.0,M,N,LG,41.0,LG41,N,-
+Araris Valerian,G,L,3.0,3.0,1.0,L,N,LG,41.0,LG41,N,-
+Seonid,E,L,5.0,5.0,1.0,L,N,LG,41.0,LG41,N,-
+Straw,G,L,-,-,0.0,S,N,LG,41.0,LG41,N,-
+Darkness Ascendant,G,L,3.0,3.0,1.0,M,N,LG,41.0,LG41,N,-
+livinglegend,G,L,1.0,1.0,1.0,E,N,LG,41.0,LG41,N,-
+Droughtbringer,G,L,2.0,2.0,1.0,L,N,LG,41.0,LG41,N,-
+Hemalurgic Headshot,E,L,4.0,4.0,1.0,M,N,LG,41.0,LG41,N,-
+Ornstein,E,L,1.0,1.0,1.0,L,N,LG,41.0,LG41,N,-
+Steeldancer,M,W,5.0,-,1.0,S,N,LG,41.0,LG41,N,-
+Asterion,G,L,1.0,1.0,1.0,L,N,LG,41.0,LG41,N,-
+Walin,G,L,-,-,-,,N,LG,41.0,LG41,N,-
+ShaneysRus,G,L,3.0,3.0,1.0,E,N,LG,41.0,LG41,N,-
+Devotary of Spontaneity,G,L,1.0,1.0,1.0,M,N,LG,41.0,LG41,N,-
+shanerockes,G,L,4.0,4.0,1.0,E,N,LG,41.0,LG41,N,-
+nutellaspren,G,L,2.0,2.0,1.0,E,N,LG,41.0,LG41,N,-
+Aspen,G,L,4.0,4.0,1.0,L,N,LG,41.0,LG41,N,-
+Alvron,G,L,8.0,8.0,1.0,L,N,AG,4.0,AG4,N,-
+Aonar,G,L,7.0,7.0,1.0,E,N,AG,4.0,AG4,N,-
+Herowannabe,G,L,4.0,4.0,1.0,E,N,AG,4.0,AG4,N,-
+A Joe in the Bush,G,L,2.0,2.0,1.0,E,N,AG,4.0,AG4,N,-
+Sart,G,L,1.0,1.0,1.0,E,N,AG,4.0,AG4,N,-
+Araris Valerian,G,L,2.0,2.0,1.0,L,N,AG,4.0,AG4,N,-
+Seonid,E,W,9.0,9.0,1.0,L,N,AG,4.0,AG4,N,-
+Haelbarde,E,W,11.0,11.0,1.0,L,N,AG,4.0,AG4,N,-
+TheMightyLopen,G,L,3.0,3.0,1.0,E,N,AG,4.0,AG4,N,-
+RippleGylf,G,L,-,2.0,0.0,I,Y,AG,4.0,AG4,N,-
+Arraenae,G,L,11.0,11.0,1.0,E,N,AG,4.0,AG4,N,-
+Kynedath,G,L,-,-,0.0,S,N,AG,4.0,AG4,N,-
+Straw,G,L,3.0,3.0,1.0,L,N,AG,4.0,AG4,N,-
+Bugsy,G,L,7.0,7.0,1.0,L,N,AG,4.0,AG4,N,-
+Young Bard,G,L,-,9.0,0.0,I,Y,AG,4.0,AG4,N,-
+Elenion,G,L,12.0,12.0,1.0,E,N,AG,4.0,AG4,N,-
+Magestar,E,W,-,-,0.0,S,N,AG,4.0,AG4,N,-
+Frozen Mint,G,L,-,-,0.0,S,N,AG,4.0,AG4,N,-
+Dalinar Kholin,G,L,-,2.0,0.0,I,Y,AG,4.0,AG4,N,-
+Doctor 12,G,L,-,2.0,0.0,I,Y,AG,4.0,AG4,N,-
+Jondesu,G,L,10.0,10.0,1.0,E,N,AG,4.0,AG4,N,-
+Arinian,G,L,5.0,6.0,2.0,L,N,AG,4.0,AG4,N,-
+Droughtbringer,E,W,-,-,0.0,S,N,AG,4.0,AG4,N,-
+Drake Marshall,G,L,3.0,3.0,1.0,E,N,AG,4.0,AG4,N,-
+Hemalurgic Headshot,G,L,4.0,4.0,1.0,L,N,AG,4.0,AG4,N,-
+DeTess,G,L,9.0,9.0,1.0,E,N,AG,4.0,AG4,N,-
+Shqueeves,G,L,-,3.0,0.0,I,Y,AG,4.0,AG4,N,-
+Ornstein,G,L,1.0,1.0,1.0,L,N,AG,4.0,AG4,N,-
+BrightnessRadiant,G,L,5.0,5.0,1.0,E,N,AG,4.0,AG4,N,-
+Steeldancer,G,L,3.0,3.0,1.0,F,N,AG,4.0,AG4,N,-
+Asterion,G,L,-,2.0,0.0,I,Y,AG,4.0,AG4,N,-
+Megasif,E,W,10.0,10.0,1.0,L,N,AG,4.0,AG4,N,-
+Eternum,G,L,2.0,2.0,1.0,F,N,AG,4.0,AG4,N,-
+Devotary of Spontaneity,G,L,1.0,1.0,1.0,F,N,AG,4.0,AG4,N,-
+MonsterMetroid,G,L,6.0,6.0,1.0,E,N,AG,4.0,AG4,N,-
+Fifth Scholar,G,L,8.0,8.0,1.0,E,N,AG,4.0,AG4,N,-
+Coop772,G,L,-,3.0,0.0,I,Y,AG,4.0,AG4,N,-
+Alvron,E,W,-,-,0.0,S,N,QF,29.0,QF29,N,-
+A Joe in the Bush,G,L,1.0,1.0,1.0,E,N,QF,29.0,QF29,N,-
+Kasimir,G,L,3.0,3.0,2.0,E,N,QF,29.0,QF29,N,-
+Kynedath,G,L,2.0,2.0,1.0,L,N,QF,29.0,QF29,N,-
+Darkness Ascendant,G,L,3.0,3.0,1.0,L,N,QF,29.0,QF29,N,-
+livinglegend,E,W,-,-,0.0,S,N,QF,29.0,QF29,N,-
+Pestis the Spider,G,L,-,3.0,0.0,I,Y,QF,29.0,QF29,N,-
+Arinian,G,L,4.0,4.0,1.0,E,N,QF,29.0,QF29,N,-
+Droughtbringer,G,L,-,3.0,0.0,I,Y,QF,29.0,QF29,N,-
+Steeldancer,E,W,-,-,0.0,S,N,QF,29.0,QF29,N,-
+Walin,G,L,4.0,4.0,1.0,L,N,QF,29.0,QF29,N,-
+Devotary of Spontaneity,G,L,3.0,3.0,1.0,E,N,QF,29.0,QF29,N,-
+MacThorstenson,G,L,4.0,4.0,1.0,E,N,QF,29.0,QF29,N,-
+Guava,G,L,-,3.0,0.0,I,Y,QF,29.0,QF29,N,-
+MonsterMetroid,G,L,2.0,2.0,1.0,E,N,QF,29.0,QF29,N,-
+GreenRover,G,L,-,3.0,0.0,I,Y,QF,29.0,QF29,N,-
+Alvron,G,W,2.0,2.0,1.0,L,N,MR,27.0,MR27,N,-
+A Joe in the Bush,G,W,1.0,1.0,1.0,E,N,MR,27.0,MR27,N,-
+Orlok Tsubodai,N,L,4.0,4.0,1.0,E,N,MR,27.0,MR27,N,-
+Kynedath,E,L,4.0,4.0,1.0,L,N,MR,27.0,MR27,N,-
+Elenion,G,W,5.0,5.0,1.0,E,N,MR,27.0,MR27,N,-
+livinglegend,G,W,3.0,3.0,1.0,E,N,MR,27.0,MR27,N,-
+Jondesu,G,W,-,-,0.0,S,N,MR,27.0,MR27,N,-
+Manukos,G,W,-,4.0,0.0,I,Y,MR,27.0,MR27,N,-
+Drake Marshall,G,W,2.0,2.0,1.0,E,N,MR,27.0,MR27,N,-
+BrightnessRadiant,G,W,-,-,0.0,S,N,MR,27.0,MR27,N,-
+Steeldancer,E,L,6.0,6.0,1.0,L,N,MR,27.0,MR27,N,-
+Eternum,G,W,-,-,0.0,S,N,MR,27.0,MR27,N,-
+A Budgie,G,W,3.0,3.0,1.0,L,N,MR,27.0,MR27,N,-
+Devotary of Spontaneity,G,W,-,-,0.0,S,N,MR,27.0,MR27,N,-
+MacThorstenson,G,W,1.0,1.0,1.0,L,N,MR,27.0,MR27,N,-
+MonsterMetroid,E,L,6.0,6.0,1.0,V,N,MR,27.0,MR27,N,-
+Caesura,E,L,5.0,5.0,1.0,L,N,MR,27.0,MR27,N,-
+Sart,F,L,5.0,5.0,1.0,L,N,LG,42.0,LG42,Y,-
+Araris Valerian,F,W,1.0,6.0,2.0,N,N,LG,42.0,LG42,Y,-
+Orlok Tsubodai,F,W,1.0,-,2.0,S,N,LG,42.0,LG42,Y,-
+TheMightyLopen,F,L,1.0,1.0,1.0,N,N,LG,42.0,LG42,Y,-
+Straw,F,L,1.0,6.0,6.0,N,N,LG,42.0,LG42,Y,-
+Bugsy,F,L,2.0,2.0,1.0,N,N,LG,42.0,LG42,Y,-
+Magestar,F,L,2.0,2.0,1.0,N,N,LG,42.0,LG42,Y,-
+_Stick_,F,L,3.0,3.0,1.0,L,N,LG,42.0,LG42,Y,-
+livinglegend,F,L,3.0,3.0,1.0,N,N,LG,42.0,LG42,Y,-
+Jondesu,F,L,7.0,8.0,2.0,N,N,LG,42.0,LG42,Y,-
+Droughtbringer,F,L,2.0,2.0,1.0,N,N,LG,42.0,LG42,Y,-
+xxGaea,F,W,4.0,-,1.0,S,N,LG,42.0,LG42,Y,-
+Steeldancer,F,L,4.0,4.0,1.0,N,N,LG,42.0,LG42,Y,-
+Megasif,F,L,1.0,1.0,1.0,N,N,LG,42.0,LG42,Y,-
+Eternum,F,L,5.0,5.0,1.0,N,N,LG,42.0,LG42,Y,-
+Walin,F,L,4.0,4.0,1.0,L,N,LG,42.0,LG42,Y,-
+Devotary of Spontaneity,F,L,3.0,3.0,2.0,N,N,LG,42.0,LG42,Y,-
+shanerockes,F,L,2.0,5.0,2.0,N,N,LG,42.0,LG42,Y,-
+Fifth Scholar,F,W,3.0,-,2.0,S,N,LG,42.0,LG42,Y,-
+Mafia,F,L,3.0,5.0,3.0,N,N,LG,42.0,LG42,Y,-
+A Joe in the Bush,E,W,7.0,7.0,1.0,L,N,QF,30.0,QF30,N,-
+Bort,G,L,-,5.0,0.0,I,Y,QF,30.0,QF30,N,-
+TheMightyLopen,G,L,4.0,4.0,1.0,L,N,QF,30.0,QF30,N,-
+RippleGylf,G,L,7.0,7.0,1.0,E,N,QF,30.0,QF30,N,-
+Straw,G,L,2.0,2.0,1.0,L,N,QF,30.0,QF30,N,-
+Ecthelion,E,W,-,-,0.0,S,N,QF,30.0,QF30,N,-
+Elenion,G,L,3.0,3.0,1.0,L,N,QF,30.0,QF30,N,-
+livinglegend,G,L,-,4.0,0.0,I,Y,QF,30.0,QF30,N,-
+Arinian,G,L,8.0,8.0,1.0,E,N,QF,30.0,QF30,N,-
+Droughtbringer,E,W,6.0,6.0,1.0,L,N,QF,30.0,QF30,N,-
+DeTess,G,L,1.0,1.0,1.0,L,N,QF,30.0,QF30,N,-
+Shqueeves,G,L,6.0,6.0,1.0,E,N,QF,30.0,QF30,N,-
+BrightnessRadiant,G,L,-,-,0.0,S,N,QF,30.0,QF30,N,-
+Devotary of Spontaneity,E,W,-,-,0.0,S,N,QF,30.0,QF30,N,-
+MacThorstenson,G,L,-,4.0,0.0,I,Y,QF,30.0,QF30,N,-
+MonsterMetroid,G,L,8.0,8.0,1.0,L,N,QF,30.0,QF30,N,-
+Coop772,G,L,5.0,5.0,1.0,L,N,QF,30.0,QF30,N,-
+A Joe in the Bush,M,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+Sart,G,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+Orlok Tsubodai,G,W,-,-,0.0,D,N,LG,43.0,LG43,Y,-
+Elbereth,C,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+Straw,G,L,3.0,3.0,1.0,L,N,LG,43.0,LG43,Y,-
+Young Bard,C,L,4.0,4.0,1.0,V,N,LG,43.0,LG43,Y,-
+Magestar,G,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+_Stick_,G,L,4.0,-,1.0,S,N,LG,43.0,LG43,Y,-
+livinglegend,G,L,3.0,-,1.0,S,N,LG,43.0,LG43,Y,-
+Jondesu,G,L,4.0,4.0,1.0,L,N,LG,43.0,LG43,Y,-
+Arinian,N,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+Droughtbringer,G,L,4.0,4.0,1.0,E,N,LG,43.0,LG43,Y,-
+Drake Marshall,D,L,5.0,-,1.0,S,N,LG,43.0,LG43,Y,-
+Hemalurgic Headshot,N,W,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+DeTess,G,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+Steeldancer,G,L,2.0,2.0,1.0,M,N,LG,43.0,LG43,Y,-
+Megasif,G,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+Eternum,G,L,-,-,-,,N,LG,43.0,LG43,Y,-
+Devotary of Spontaneity,D,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+shanerockes,G,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+MonsterMetroid,C,L,-,-,-,D,N,LG,43.0,LG43,Y,-
+Fifth Scholar,G,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+The Young Pyromancer,N,W,2.0,-,1.0,S,N,LG,43.0,LG43,Y,-
+RippleGylf,C,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+Steeldancer,G,L,-,-,0.0,S,N,LG,43.0,LG43,Y,-
+Herowannabe,G,L,-,-,-,,N,MR,28.0,MR28,N,-
+Orlok Tsubodai,S,W,-,-,0.0,S,N,MR,28.0,MR28,N,-
+STINK,E,W,-,-,-,,N,MR,28.0,MR28,N,-
+Amanuensis,S,W,-,-,0.0,S,N,MR,28.0,MR28,N,-
+Kynedath,E,W,2.0,2.0,1.0,E,N,MR,28.0,MR28,N,-
+Ecthelion,G,L,3.0,3.0,1.0,L,N,MR,28.0,MR28,N,-
+_Stick_,S,W,-,-,0.0,S,N,MR,28.0,MR28,N,-
+livinglegend,G,L,2.0,2.0,1.0,L,N,MR,28.0,MR28,N,-
+Lady of Chaos,G,L,2.0,2.0,1.0,E,N,MR,28.0,MR28,N,-
+Jondesu,N,W,-,-,-,,N,MR,28.0,MR28,N,-
+Droughtbringer,G,W,-,-,-,,N,MR,28.0,MR28,N,-
+Drake Marshall,E,W,1.0,1.0,1.0,L,N,MR,28.0,MR28,N,-
+Madagascar,E,W,-,-,-,,N,MR,28.0,MR28,N,-
+Steeldancer,G,L,-,-,-,,N,MR,28.0,MR28,N,-
+Eternum,G,L,4.0,4.0,1.0,E,N,MR,28.0,MR28,N,-
+Walin,G,L,3.0,3.0,1.0,E,N,MR,28.0,MR28,N,-
+Devotary of Spontaneity,G,L,-,-,-,,N,MR,28.0,MR28,N,-
+Fifth Scholar,G,L,1.0,1.0,1.0,E,N,MR,28.0,MR28,N,-
+Coop772,G,L,4.0,4.0,1.0,L,N,MR,28.0,MR28,N,-
+little wilson,G,W,3.0,-,3.0,S,N,LG,44.0,LG44,N,-
+A Joe in the Bush,G,W,-,3.0,0.0,I,Y,LG,44.0,LG44,N,-
+Arinian,G,W,3.0,3.0,1.0,L,N,LG,44.0,LG44,N,-
+Eternum,G,W,2.0,2.0,1.0,,N,LG,44.0,LG44,N,-
+Steeldancer,D,L,6.0,6.0,1.0,L,N,LG,44.0,LG44,N,-
+Straw,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Araris Valerian,E,L,2.0,2.0,1.0,L,N,LG,44.0,LG44,N,-
+Elenion,C,L,7.0,7.0,1.0,L,N,LG,44.0,LG44,N,-
+King Cole,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Devotary of Spontaneity,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Droughtbringer,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Mraize,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Honey Badger,E,L,-,1.0,0.0,I,Y,LG,44.0,LG44,N,-
+Drake Marshall,E,L,4.0,4.0,1.0,L,N,LG,44.0,LG44,N,-
+Bort,G,W,1.0,1.0,1.0,E,N,LG,44.0,LG44,N,-
+DeTess,G,W,1.0,1.0,1.0,L,N,LG,44.0,LG44,N,-
+Kidpen,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Cadmium Compounder,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Seonid,G,W,6.0,6.0,1.0,E,N,LG,44.0,LG44,N,-
+Kynedath,G,W,-,2.0,0.0,I,Y,LG,44.0,LG44,N,-
+The Young Pyromancer,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Dalinar Kholin,E,L,5.0,5.0,1.0,L,N,LG,44.0,LG44,N,-
+STINK,G,W,7.0,7.0,1.0,E,N,LG,44.0,LG44,N,-
+Hemalurgic Headshot,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Amanuensis,G,W,2.0,2.0,1.0,E,N,LG,44.0,LG44,N,-
+TheMightyLopen,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Walin,E,L,8.0,8.0,1.0,L,N,LG,44.0,LG44,N,-
+Jondesu,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Coop772,G,W,-,-,0.0,S,N,LG,44.0,LG44,N,-
+Droughtbringer,G,W,-,-,-,,N,QF,31.0,QF31,N,-
+Eternum,D,L,-,-,-,,N,QF,31.0,QF31,N,-
+Elenion,B,L,-,-,-,,N,QF,31.0,QF31,N,-
+Devotary of Spontaneity,B,L,-,-,-,,N,QF,31.0,QF31,N,-
+DeTess,G,W,-,-,-,,N,QF,31.0,QF31,N,-
+Walin,G,W,1.0,1.0,1.0,E,N,QF,31.0,QF31,N,-
+Young Bard,G,W,-,-,-,E,N,QF,31.0,QF31,N,-
+Bort,G,W,2.0,2.0,1.0,L,N,QF,31.0,QF31,N,-
+Orlok Tsubodai,G,W,-,-,-,,N,QF,31.0,QF31,N,-
+Elandera,G,W,-,-,-,,N,QF,31.0,QF31,N,-
+xxGaea,G,W,-,-,-,,N,QF,31.0,QF31,N,-
+Coop772,G,W,1.0,1.0,1.0,L,N,QF,31.0,QF31,N,-
+MacThorstenson,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+ElephantEarwax,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Araris Valerian,F,W,-,-,-,,N,LG,45.0,LG45,N,-
+RippleGylf,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Mraize,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Elandera,F,W,-,-,-,,N,LG,45.0,LG45,N,-
+Eternum,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Steeldancer,F,W,-,-,-,,N,LG,45.0,LG45,N,-
+Frozen Mint,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+I think I am here.,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Bort,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Shqueeves,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Arinian,F,W,-,-,-,,N,LG,45.0,LG45,N,-
+Dalinar Kholin,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Mark IV,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Snipexe,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Kidpen,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Walin,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Amanuensis,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Cadmium Compounder,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+The Young Pyromancer,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Fifth Scholar,F,L,-,-,-,,N,LG,45.0,LG45,N,-
+Elandera,E,L,1.0,1.0,1.0,L,N,MR,29.0,MR29,Y,-
+Eternum,M,L,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+Droughtbringer,G,W,4.0,4.0,1.0,S,N,MR,29.0,MR29,Y,-
+Aonar,G,W,-,3.0,1.0,I,Y,MR,29.0,MR29,Y,-
+Devotary of Spontaneity,E,L,5.0,-,2.0,S,N,MR,29.0,MR29,Y,-
+Walin,G,W,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+Fifth Scholar,G,W,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+Snipexe,G,W,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+Alvron,G,W,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+Steeldancer,G,W,2.0,2.0,1.0,L,N,MR,29.0,MR29,Y,-
+Megasif,G,W,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+xinoehp512,G,W,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+Arinian,G,W,4.0,4.0,1.0,L,N,MR,29.0,MR29,Y,-
+Orlok Tsubodai,G,W,3.0,3.0,1.0,E,N,MR,29.0,MR29,Y,-
+I think I am here.,E,L,-,5.0,1.0,I,Y,MR,29.0,MR29,Y,-
+Arraenae,G,W,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+Bort,G,W,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+Wonko the Sane,E,L,3.0,3.0,1.0,L,N,MR,29.0,MR29,Y,-
+Cadmium Compounder,G,W,-,-,0.0,S,N,MR,29.0,MR29,Y,-
+Young Bard,G,W,4.0,4.0,1.0,E,N,MR,29.0,MR29,Y,-
+Walin,E,W,-,-,0.0,S,N,LG,46.0,LG46,Y,-
+Bort,E,W,4.0,4.0,1.0,L,N,LG,46.0,LG46,Y,-
+Manukos,G,L,9.0,9.0,1.0,L,N,LG,46.0,LG46,Y,-
+Araris Valerian,G,L,1.0,1.0,1.0,L,N,LG,46.0,LG46,Y,-
+Cadmium Compounder,G,L,3.0,3.0,3.0,E,N,LG,46.0,LG46,Y,-
+Devotary of Spontaneity,G,L,3.0,3.0,1.0,L,N,LG,46.0,LG46,Y,-
+Drake Marshall,G,L,5.0,5.0,1.0,E,N,LG,46.0,LG46,Y,-
+Hemalurgic Headshot,G,L,6.0,6.0,1.0,E,N,LG,46.0,LG46,Y,-
+Snipexe,G,L,-,-,0.0,S,N,LG,46.0,LG46,Y,-
+Fifth Scholar,G,L,10.0,10.0,1.0,E,N,LG,46.0,LG46,Y,-
+Jondesu,G,L,7.0,7.0,1.0,L,N,LG,46.0,LG46,Y,-
+Elenion,E,W,2.0,2.0,1.0,L,N,LG,46.0,LG46,Y,-
+Roadwalker,G,L,1.0,1.0,1.0,E,N,LG,46.0,LG46,Y,-
+Doctor 12,G,L,6.0,6.0,1.0,L,N,LG,46.0,LG46,Y,-
+Dalinar Kholin,G,L,8.0,8.0,1.0,E,N,LG,46.0,LG46,Y,-
+Bugsy,G,L,4.0,4.0,1.0,E,N,LG,46.0,LG46,Y,-
+Kidpen,G,L,1.0,1.0,1.0,F,N,LG,46.0,LG46,Y,-
+Straw,E,W,-,-,0.0,S,N,LG,46.0,LG46,Y,-
+Mr. Doctor,E,W,-,-,0.0,S,N,LG,46.0,LG46,Y,-
+Val,G,L,7.0,7.0,1.0,E,N,LG,46.0,LG46,Y,-
+DeTess,E,W,5.0,5.0,1.0,L,N,LG,46.0,LG46,Y,-
+Sart,G,L,9.0,9.0,1.0,E,N,LG,46.0,LG46,Y,-
+Elandera,G,L,-,-,0.0,S,N,LG,46.0,LG46,Y,-
+Burnt Spaghetti,G,L,10.0,10.0,1.0,L,N,LG,46.0,LG46,Y,-
+Elbereth,N,L,2.0,9.0,2.0,I,Y,LG,46.0,LG46,Y,-
+Rebecca,G,L,-,4.0,1.0,I,Y,LG,46.0,LG46,Y,-
+Rathmaskal,G,L,8.0,8.0,1.0,L,N,LG,46.0,LG46,Y,-
+Araris Valerian,E,L,5.0,5.0,1.0,L,N,QF,32.0,QF32,Y,-
+Elandera,G,W,2.0,4.0,2.0,L,N,QF,32.0,QF32,Y,-
+xinoehp512,G,W,1.0,1.0,1.0,L,N,QF,32.0,QF32,Y,-
+LopenTheTwoArmedHerdazian,G,W,5.0,5.0,1.0,I,Y,QF,32.0,QF32,Y,-
+Arraenae,G,W,-,-,0.0,S,N,QF,32.0,QF32,Y,-
+I think I am here.,G,W,5.0,5.0,1.0,E,N,QF,32.0,QF32,Y,-
+Snipexe,G,W,-,-,0.0,S,N,QF,32.0,QF32,Y,-
+Devotary of Spontaneity,E,L,4.0,4.0,1.0,V,N,QF,32.0,QF32,Y,-
+Cadmium Compounder,G,W,2.0,2.0,1.0,E,N,QF,32.0,QF32,Y,-
+Alvron,E,L,4.0,4.0,1.0,V,N,QF,32.0,QF32,Y,-
+Gancho Libre,G,W,3.0,3.0,1.0,L,N,QF,32.0,QF32,Y,-
+The Young Pyromancer,G,W,-,-,0.0,S,N,QF,32.0,QF32,Y,-
+TheMightyLopen,G,W,4.0,4.0,1.0,S,N,QF,32.0,QF32,Y,-
+Drake Marshall,G,W,3.0,3.0,1.0,E,N,QF,32.0,QF32,Y,-
+_Stick_,G,W,2.0,-,1.0,S,N,QF,32.0,QF32,Y,-
+Fifth Scholar,G,L,1.0,1.0,1.0,E,N,LG,47.0,LG47,N,-
+Elandera,G,L,4.0,4.0,1.0,E,N,LG,47.0,LG47,N,-
+Devotary of Spontaneity,G,L,3.0,3.0,1.0,E,N,LG,47.0,LG47,N,-
+I think I am here.,G,L,-,-,0.0,S,N,LG,47.0,LG47,N,-
+Ornstein,G,L,-,4.0,1.0,I,Y,LG,47.0,LG47,N,-
+Rathmaskal,E,W,4.0,4.0,1.0,L,N,LG,47.0,LG47,N,-
+Alvron,G,L,3.0,3.0,1.0,E,N,LG,47.0,LG47,N,-
+Snipexe,E,W,-,-,0.0,S,N,LG,47.0,LG47,N,-
+Cadmium Compounder,G,L,4.0,4.0,1.0,F,N,LG,47.0,LG47,N,-
+Bort,G,L,4.0,4.0,1.0,F,N,LG,47.0,LG47,N,-
+Dalinar Kholin,G,L,3.0,3.0,1.0,E,N,LG,47.0,LG47,N,-
+Araris Valerian,G,L,2.0,2.0,1.0,E,N,LG,47.0,LG47,N,-
+xinoehp512,E,W,-,-,0.0,S,N,LG,47.0,LG47,N,-
+Mafia,E,W,5.0,5.0,1.0,L,N,LG,47.0,LG47,N,-
+Walin,G,L,5.0,5.0,1.0,E,N,LG,47.0,LG47,N,-
+GreenRover,G,L,-,-,0.0,S,N,LG,47.0,LG47,N,-
+Elandera,G,W,4.0,4.0,1.0,M,N,MR,30.0,MR30,N,-
+_Stick_,G,W,-,-,0.0,S,N,MR,30.0,MR30,N,-
+I think I am here.,G,W,-,-,0.0,S,N,MR,30.0,MR30,N,-
+Straw,G,W,1.0,1.0,1.0,M,N,MR,30.0,MR30,N,-
+Kidpen,G,W,3.0,3.0,1.0,L,N,MR,30.0,MR30,N,-
+STINK,G,W,4.0,4.0,1.0,L,N,MR,30.0,MR30,N,-
+Araris Valerian,G,W,-,-,0.0,S,N,MR,30.0,MR30,N,-
+Snipexe,G,W,2.0,2.0,1.0,L,N,MR,30.0,MR30,N,-
+Bort,M,L,5.0,6.0,2.0,L,N,MR,30.0,MR30,N,-
+Cadmium Compounder,G,W,-,-,0.0,S,N,MR,30.0,MR30,N,-
+Drake Marshall,G,W,3.0,3.0,1.0,M,N,MR,30.0,MR30,N,-
+The Young Pyromancer,G,W,1.0,1.0,1.0,L,N,MR,30.0,MR30,N,-
+Mr. Doctor,G,W,-,-,0.0,S,N,MR,30.0,MR30,N,-
+DeTess,G,W,2.0,2.0,1.0,M,N,MR,30.0,MR30,N,-
+Rathmaskal,G,W,3.0,3.0,1.0,E,N,LG,48.0,LG48,N,-
+xinoehp512,E,L,5.0,5.0,1.0,L,N,LG,48.0,LG48,N,-
+Steeldancer,G,W,4.0,4.0,1.0,L,N,LG,48.0,LG48,N,-
+DeTess,E,L,4.0,4.0,1.0,V,N,LG,48.0,LG48,N,-
+I think I am here.,G,W,1.0,1.0,1.0,F,N,LG,48.0,LG48,N,-
+Bort,G,W,-,-,0.0,S,N,LG,48.0,LG48,N,-
+Cadmium Compounder,G,W,3.0,3.0,1.0,S,N,LG,48.0,LG48,N,-
+_Stick_,G,W,-,-,0.0,S,N,LG,48.0,LG48,N,-
+Jondesu,G,W,-,-,0.0,S,N,LG,48.0,LG48,N,-
+Kidpen,E,L,3.0,3.0,1.0,L,N,LG,48.0,LG48,N,-
+Elandera,G,W,1.0,1.0,1.0,E,N,LG,48.0,LG48,N,-
+Snipexe,G,W,2.0,2.0,1.0,L,N,LG,48.0,LG48,N,-
+Worldhopper from Yolen,G,W,3.0,3.0,1.0,N,N,LG,48.0,LG48,N,-
+Alvron,G,W,2.0,2.0,1.0,E,N,LG,48.0,LG48,N,-
+Phattemer,G,W,-,-,0.0,S,N,LG,48.0,LG48,N,-
+Ark1002,G,W,-,-,0.0,S,N,LG,48.0,LG48,N,-
+Araris Valerian,E,L,2.0,2.0,1.0,V,N,LG,48.0,LG48,N,-
+Coop772,G,W,1.0,1.0,1.0,L,N,LG,48.0,LG48,N,-
+Sart,G,W,4.0,4.0,1.0,E,N,LG,48.0,LG48,N,-
+Steeldancer,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+A Joe in the Bush,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Droughtbringer,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Devotary of Spontaneity,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+MetaTerminal,E,L,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Rathmaskal,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Elandera,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Wiritos,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Madagascar,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Snipexe,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Araris Valerian,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Kidpen,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Phattemer,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Paranoid King,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+I think I am here.,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+DeTess,E,L,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Cadmium Compounder,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Bort,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Arinian,G,W,-,-,-,,N,QF,33.1,QF33.1,Y,-
+Steeldancer,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+A Joe in the Bush,E,L,-,-,-,,N,QF,33.2,QF33.2,N,-
+Droughtbringer,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Devotary of Spontaneity,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+MetaTerminal,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Rathmaskal,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Elandera,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Wiritos,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Madagascar,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Snipexe,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Araris Valerian,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Kidpen,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Phattemer,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Paranoid King,E,L,-,-,-,,N,QF,33.2,QF33.2,N,-
+I think I am here.,E,L,-,-,-,,N,QF,33.2,QF33.2,N,-
+DeTess,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Cadmium Compounder,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Bort,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+Arinian,G,W,-,-,-,,N,QF,33.2,QF33.2,N,-
+A Joe in the Bush,N,L,6.0,6.0,1.0,N,N,LG,49.0,LG49,N,-
+Herowannabe,N,L,-,-,0.0,S,N,LG,49.0,LG49,N,-
+Elandera,N,L,4.0,4.0,1.0,N,N,LG,49.0,LG49,N,-
+Snipexe,N,L,-,-,0.0,S,N,LG,49.0,LG49,N,-
+Araris Valerian,N,L,5.0,5.0,1.0,N,N,LG,49.0,LG49,N,-
+Hemalurgic Headshot,N,L,12.0,12.0,1.0,N,N,LG,49.0,LG49,N,-
+I think I am here.,N,L,10.0,10.0,1.0,N,N,LG,49.0,LG49,N,-
+MetaTerminal,N,W,-,-,0.0,S,N,LG,49.0,LG49,N,-
+Cadmium Compounder,N,W,4.0,12.0,2.0,S,N,LG,49.0,LG49,N,-
+DeTess,N,W,-,-,0.0,S,N,LG,49.0,LG49,N,-
+Paranoid King,N,L,9.0,9.0,1.0,N,N,LG,49.0,LG49,N,-
+Drake Marshall,N,L,7.0,8.0,1.0,N,N,LG,49.0,LG49,N,-
+Fifth Scholar,N,W,10.0,10.0,1.0,N,N,LG,49.0,LG49,N,-
+Dalinar Kholin,N,L,5.0,5.0,1.0,N,N,LG,49.0,LG49,N,-
+Steeldancer,N,W,-,-,0.0,S,N,LG,49.0,LG49,N,-
+Furamirionind,N,W,-,-,0.0,S,N,LG,49.0,LG49,N,-
+Devotary of Spontaneity,N,W,-,-,0.0,S,N,LG,49.0,LG49,N,-
+STINK,N,W,-,-,0.0,S,N,LG,49.0,LG49,N,-
+Young Bard,N,W,9.0,9.0,1.0,N,N,LG,49.0,LG49,N,-
+Kidpen,N,W,-,-,0.0,S,N,LG,49.0,LG49,N,-
+Rathmaskal,N,L,9.0,9.0,1.0,N,N,LG,49.0,LG49,N,-
+Ark1002,N,L,9.0,9.0,1.0,N,N,LG,49.0,LG49,N,-
+xinoehp512,N,L,10.0,12.0,2.0,N,N,LG,49.0,LG49,N,-
+Straw,N,L,3.0,3.0,1.0,N,N,LG,49.0,LG49,N,-
+Arraenae,N,L,6.0,6.0,1.0,N,N,LG,49.0,LG49,N,-
+xxGaea,E,W,6.0,-,1.0,S,N,MR,31.0,MR31,N,-
+Fifth Scholar,C,W,-,-,0.0,S,N,MR,31.0,MR31,N,-
+xinoehp512,G,L,6.0,7.0,3.0,F,N,MR,31.0,MR31,N,-
+Kidpen,G,L,-,-,0.0,S,N,MR,31.0,MR31,N,-
+BrightnessRadiant,G,L,3.0,3.0,1.0,F,N,MR,31.0,MR31,N,-
+Devotary of Spontaneity,E,W,6.0,-,1.0,S,N,MR,31.0,MR31,N,-
+Elandera,E,W,4.0,4.0,1.0,L,N,MR,31.0,MR31,N,-
+Steeldancer,G,L,5.0,5.0,1.0,F,N,MR,31.0,MR31,N,-
+Walin,G,L,-,-,0.0,S,N,MR,31.0,MR31,N,-
+Cadmium Compounder,G,L,5.0,5.0,1.0,L,N,MR,31.0,MR31,N,-
+Mailliw73,G,L,4.0,4.0,1.0,F,N,MR,31.0,MR31,N,-
+I think I am here.,G,L,-,-,0.0,S,N,MR,31.0,MR31,N,-
+Alvron,C,W,5.0,-,2.0,S,N,MR,31.0,MR31,N,-
+Straw,G,L,-,-,0.0,S,N,MR,31.0,MR31,N,-
+Droughtbringer,G,L,-,-,0.0,S,N,MR,31.0,MR31,N,-
+TheMightyLopen,G,L,5.0,5.0,1.0,E,N,MR,31.0,MR31,N,-
+Shqueeves,E,W,3.0,3.0,1.0,L,N,MR,31.0,MR31,N,-
+MetaTerminal,G,L,4.0,-,2.0,S,N,MR,31.0,MR31,N,-
+ElephantEarwax,G,L,-,-,0.0,S,N,MR,31.0,MR31,N,-
+Coop772,G,L,2.0,4.0,3.0,F,N,MR,31.0,MR31,N,-
+Sart,G,L,2.0,2.0,1.0,L,N,MR,31.0,MR31,N,-
+Young Bard,G,L,6.0,6.0,1.0,L,N,MR,31.0,MR31,N,-
+Elandera,G,L,3.0,3.0,1.0,E,N,QF,34.0,QF34,N,-
+Kidpen,G,L,5.0,5.0,1.0,L,N,QF,34.0,QF34,N,-
+Mr. Doctor,E,W,-,-,0.0,S,N,QF,34.0,QF34,N,-
+Shqueeves,G,L,5.0,5.0,1.0,E,N,QF,34.0,QF34,N,-
+Devotary of Spontaneity,E,W,-,-,0.0,S,N,QF,34.0,QF34,N,-
+xxGaea,G,L,1.0,-,1.0,,N,QF,34.0,QF34,N,-
+I think I am here.,G,L,2.0,2.0,1.0,L,N,QF,34.0,QF34,N,-
+STINK,G,L,6.0,6.0,1.0,L,N,QF,34.0,QF34,N,-
+Droughtbringer,E,W,-,-,0.0,S,N,QF,34.0,QF34,N,-
+Snipexe,G,L,4.0,4.0,1.0,E,N,QF,34.0,QF34,N,-
+DeathClutch,G,L,3.0,3.0,1.0,L,N,QF,34.0,QF34,N,-
+Sart,G,L,6.0,6.0,1.0,E,N,QF,34.0,QF34,N,-
+Megasif,E,W,-,-,0.0,S,N,QF,34.0,QF34,N,-
+xinoehp512,G,L,4.0,4.0,1.0,L,N,QF,34.0,QF34,N,-
+Cadmium Compounder,G,L,4.0,5.0,1.0,F,N,QF,34.0,QF34,N,-
+Coop772,G,L,1.0,1.0,1.0,L,N,QF,34.0,QF34,N,-
+Gancho Libre,G,L,-,-,0.0,S,N,QF,34.0,QF34,N,-
+xinoehp512,G,W,-,-,0.0,S,N,LG,50.0,LG50,N,-
+I think I am here.,G,W,2.0,2.0,1.0,L,N,LG,50.0,LG50,N,-
+Fifth Scholar,G,W,3.0,3.0,1.0,E,N,LG,50.0,LG50,N,-
+Jondesu,E,L,6.0,6.0,1.0,V,N,LG,50.0,LG50,N,-
+Elandera,G,W,2.0,4.0,2.0,I,Y,LG,50.0,LG50,N,-
+Araris Valerian,G,W,-,-,0.0,S,N,LG,50.0,LG50,N,-
+Cadmium Compounder,G,W,1.0,1.0,1.0,L,N,LG,50.0,LG50,N,-
+Young Bard,E,L,7.0,7.0,1.0,L,N,LG,50.0,LG50,N,-
+Gancho Libre,E,L,6.0,6.0,1.0,L,N,LG,50.0,LG50,N,-
+Orlok Tsubodai,G,W,6.0,6.0,1.0,E,N,LG,50.0,LG50,N,-
+Steeldancer,G,W,4.0,4.0,1.0,E,N,LG,50.0,LG50,N,-
+Rathmaskal,G,W,-,-,0.0,S,N,LG,50.0,LG50,N,-
+Snipexe,G,W,1.0,1.0,1.0,F,N,LG,50.0,LG50,N,-
+Coop772,G,W,5.0,6.0,2.0,I,Y,LG,50.0,LG50,N,-
+Shqueeves,G,W,-,-,0.0,S,N,LG,50.0,LG50,N,-
+Furamirionind,E,L,7.0,-,1.0,S,N,LG,50.0,LG50,N,-
+Aonar,G,W,-,-,0.0,S,N,LG,50.0,LG50,N,-
+A Joe in the Bush,G,W,-,-,0.0,S,N,LG,50.0,LG50,N,-
+Ark1002,G,W,5.0,5.0,1.0,L,N,LG,50.0,LG50,N,-
+Nohadon,G,W,-,-,0.0,S,N,LG,50.0,LG50,N,-
+MetaTerminal,E,L,4.0,4.0,1.0,L,N,LG,50.0,LG50,N,-
+Devotary of Spontaneity,G,W,1.0,1.0,1.0,E,N,LG,50.0,LG50,N,-
+Steeldancer,G,L,5.0,-,1.0,S,N,MR,32.0,MR32,N,-
+DeTess,G,L,-,-,0.0,S,N,MR,32.0,MR32,N,-
+Karnatheon,G,L,-,-,0.0,S,N,MR,32.0,MR32,N,-
+Cadmium Compounder,E,W,-,-,0.0,S,N,MR,32.0,MR32,N,-
+xinoehp512,G,L,2.0,2.0,1.0,E,N,MR,32.0,MR32,N,-
+Amanuensis,E,W,-,-,0.0,S,N,MR,32.0,MR32,N,-
+Droughtbringer,G,L,5.0,5.0,1.0,L,N,MR,32.0,MR32,N,-
+Rathmaskal,G,L,5.0,5.0,1.0,E,N,MR,32.0,MR32,N,-
+Devotary of Spontaneity,G,L,1.0,1.0,1.0,E,N,MR,32.0,MR32,N,-
+Young Bard,G,L,4.0,4.0,1.0,E,N,MR,32.0,MR32,N,-
+Mark IV,G,L,6.0,-,1.0,S,N,MR,32.0,MR32,N,-
+Snipexe,G,L,1.0,2.0,2.0,L,N,MR,32.0,MR32,N,-
+Furamirionind,G,L,-,-,0.0,S,N,MR,32.0,MR32,N,-
+Hemalurgic Headshot,G,L,4.0,5.0,2.0,E,N,MR,32.0,MR32,N,-
+Ark1002,G,L,3.0,3.0,1.0,E,N,MR,32.0,MR32,N,-
+A Joe in the Bush,G,L,-,-,0.0,S,N,MR,32.0,MR32,N,-
+MetaTerminal,G,L,3.0,3.0,1.0,L,N,MR,32.0,MR32,N,-
+BrightnessRadiant,E,W,4.0,4.0,1.0,L,N,MR,32.0,MR32,N,-
+Mr. Doctor,G,L,6.0,6.0,1.0,L,N,MR,32.0,MR32,N,-
+Sart,E,W,-,-,-,,N,MR,32.0,MR32,N,-
+xinoehp512,G,L,1.0,1.0,1.0,L,N,LG,51.0,LG51,N,-
+I think I am here.,D,W,3.0,4.0,2.0,L,N,LG,51.0,LG51,N,-
+Araris Valerian,G,L,7.0,7.0,1.0,E,N,LG,51.0,LG51,N,-
+Mailliw73,B,W,-,-,0.0,S,N,LG,51.0,LG51,N,-
+Alvron,G,L,4.0,4.0,1.0,E,N,LG,51.0,LG51,N,-
+Lumgol,G,L,-,-,0.0,S,N,LG,51.0,LG51,N,-
+Coop772,G,L,-,-,1.0,I,Y,LG,51.0,LG51,N,-
+Karnatheon,B,W,-,-,0.0,S,N,LG,51.0,LG51,N,-
+Nohadon,G,L,-,-,1.0,I,Y,LG,51.0,LG51,N,-
+Amanuensis,G,L,6.0,6.0,1.0,E,N,LG,51.0,LG51,N,-
+Cadmium Compounder,G,L,8.0,8.0,1.0,L,N,LG,51.0,LG51,N,-
+Gancho Libre,G,L,-,-,1.0,I,Y,LG,51.0,LG51,N,-
+Rathmaskal,G,L,5.0,5.0,1.0,L,N,LG,51.0,LG51,N,-
+Devotary of Spontaneity,G,L,3.0,3.0,1.0,E,N,LG,51.0,LG51,N,-
+Snipexe,G,L,7.0,7.0,1.0,L,N,LG,51.0,LG51,N,-
+Jondesu,G,L,6.0,6.0,1.0,L,N,LG,51.0,LG51,N,-
+STINK,G,L,-,-,1.0,I,Y,LG,51.0,LG51,N,-
+Walin,G,L,2.0,2.0,1.0,L,N,LG,51.0,LG51,N,-
+Furamirionind,G,L,5.0,5.0,1.0,E,N,LG,51.0,LG51,N,-
+xinoehp512,N,L,6.0,7.0,2.0,,N,QF,35.0,QF35,N,-
+Mailliw73,N,L,2.0,2.0,2.0,N,N,QF,35.0,QF35,N,-
+Elandera,N,L,4.0,6.0,3.0,N,N,QF,35.0,QF35,N,-
+Snipexe,N,L,2.0,3.0,2.0,N,N,QF,35.0,QF35,N,-
+Fifth Scholar,N,L,1.0,1.0,1.0,N,N,QF,35.0,QF35,N,-
+A Joe in the Bush,N,L,3.0,-,1.0,S,N,QF,35.0,QF35,N,-
+Rathmaskal,N,L,2.0,5.0,2.0,N,N,QF,35.0,QF35,N,-
+Droughtbringer,N,W,-,-,0.0,S,N,QF,35.0,QF35,N,-
+Furamirionind,N,L,2.0,2.0,1.0,N,N,QF,35.0,QF35,N,-
+Ornstein,N,L,2.0,2.0,1.0,N,N,QF,35.0,QF35,N,-
+Devotary of Spontaneity,N,L,2.0,3.0,4.0,N,N,QF,35.0,QF35,N,-
+I think I am here.,N,L,4.0,4.0,1.0,N,N,QF,35.0,QF35,N,-
+Steeldancer,N,L,1.0,1.0,1.0,N,N,QF,35.0,QF35,N,-
+Cadmium Compounder,N,L,1.0,1.0,1.0,N,N,QF,35.0,QF35,N,-
+Elenion,N,L,2.0,2.0,1.0,N,N,QF,35.0,QF35,N,-
+Araris Valerian,N,L,2.0,2.0,1.0,N,N,QF,35.0,QF35,N,-
+Frozen Mint,N,L,2.0,2.0,1.0,N,N,QF,35.0,QF35,N,-
+Lumgol,N,L,4.0,5.0,3.0,N,N,QF,35.0,QF35,N,-
+Drake Marshall,N,L,3.0,3.0,1.0,N,N,QF,35.0,QF35,N,-
+Kidpen,N,L,4.0,4.0,1.0,N,N,QF,35.0,QF35,N,-
+Shqueeves,N,L,3.0,3.0,1.0,N,N,QF,35.0,QF35,N,-
+Young Bard,F,L,2.0,2.0,1.0,N,N,AG,5.0,AG5,Y,-
+Rathmaskal,F,L,3.0,3.0,1.0,N,N,AG,5.0,AG5,Y,-
+Lumgol,F,W,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Mr. Mafia,F,L,6.0,6.0,1.0,L,N,AG,5.0,AG5,Y,-
+Steeldancer,F,L,2.0,2.0,1.0,N,N,AG,5.0,AG5,Y,-
+Jondesu,F,W,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Cadmium Compounder,F,L,8.0,-,1.0,S,N,AG,5.0,AG5,Y,-
+Dalinar Kholin,F,L,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Mark IV,F,W,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+The Young Pyromancer,F,W,2.0,7.0,2.0,L,N,AG,5.0,AG5,Y,-
+Devotary of Spontaneity,F,W,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+DeTess,F,W,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Alvron,F,L,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Snipexe,F,L,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Sart,F,W,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+I think I am here.,F,L,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+_Stick_,F,L,4.0,4.0,1.0,L,N,AG,5.0,AG5,Y,-
+Hemalurgic Headshot,F,L,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Elandera,F,W,6.0,6.0,1.0,N,N,AG,5.0,AG5,Y,-
+xinoehp512,F,W,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Fifth Scholar,F,W,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Furamirionind,F,L,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+shanerockes,F,L,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Amanuensis,N,L,4.0,4.0,1.0,N,N,AG,5.0,AG5,Y,-
+Droughtbringer,F,W,7.0,7.0,1.0,N,N,AG,5.0,AG5,Y,-
+Araris Valerian,F,L,3.0,3.0,1.0,L,N,AG,5.0,AG5,Y,-
+Drake Marshall,N,W,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Magestar,F,L,5.0,5.0,1.0,N,N,AG,5.0,AG5,Y,-
+Shqueeves,F,L,-,-,0.0,S,N,AG,5.0,AG5,Y,-
+Mailliw73,N,L,5.0,5.0,1.0,L,N,AG,5.0,AG5,Y,-
+Roadwalker,G,W,-,-,0.0,S,N,MR,33.0,MR33,N,-
+I think I am here.,G,W,-,-,0.0,S,N,MR,33.0,MR33,N,-
+Ark1002,G,W,-,-,0.0,S,N,MR,33.0,MR33,N,-
+Shqueeves,G,W,2.0,2.0,1.0,M,N,MR,33.0,MR33,N,-
+Fifth Scholar,G,W,4.0,4.0,1.0,E,N,MR,33.0,MR33,N,-
+Droughtbringer,G,W,1.0,1.0,1.0,M,N,MR,33.0,MR33,N,-
+xinoehp512,G,W,1.0,1.0,1.0,E,N,MR,33.0,MR33,N,-
+Elandera,E,L,2.0,2.0,1.0,L,N,MR,33.0,MR33,N,-
+Devotary of Spontaneity,M,L,-,-,0.0,S,N,MR,33.0,MR33,N,-
+Cadmium Compounder,E,L,1.0,1.0,1.0,L,N,MR,33.0,MR33,N,-
+shanerockes,G,W,3.0,-,1.0,S,N,MR,33.0,MR33,N,-
+Snipexe,E,L,4.0,4.0,1.0,M,N,MR,33.0,MR33,N,-
+Walin,G,W,3.0,3.0,1.0,L,N,MR,33.0,MR33,N,-
+Steeldancer,G,W,-,-,0.0,S,N,MR,33.0,MR33,N,-
+Mailliw73,G,L,5.0,5.0,1.0,E,N,LG,52.0,LG52,N,-
+Droughtbringer,E,W,5.0,5.0,1.0,L,N,LG,52.0,LG52,N,-
+Lumgol,G,L,2.0,2.0,1.0,L,N,LG,52.0,LG52,N,-
+Elandera,G,L,4.0,4.0,1.0,E,N,LG,52.0,LG52,N,-
+Rathmaskal,G,L,2.0,2.0,1.0,E,N,LG,52.0,LG52,N,-
+I think I am here.,E,W,-,-,0.0,S,N,LG,52.0,LG52,N,-
+Ark1002,G,L,6.0,6.0,1.0,L,N,LG,52.0,LG52,N,-
+Steeldancer,E,W,-,-,0.0,S,N,LG,52.0,LG52,N,-
+Cadmium Compounder,G,L,1.0,1.0,1.0,L,N,LG,52.0,LG52,N,-
+xinoehp512,G,L,-,-,0.0,S,N,LG,52.0,LG52,N,-
+Furamirionind,G,L,-,-,0.0,S,N,LG,52.0,LG52,N,-
+shanerockes,G,L,3.0,3.0,1.0,L,N,LG,52.0,LG52,N,-
+Devotary of Spontaneity,G,L,6.0,6.0,1.0,E,N,LG,52.0,LG52,N,-
+FatherTiempo,G,L,-,-,0.0,S,N,LG,52.0,LG52,N,-
+Roadwalker,E,W,4.0,4.0,1.0,L,N,LG,52.0,LG52,N,-
+Snipexe,E,W,-,-,0.0,S,N,LG,52.0,LG52,N,-
+ElendVenture,G,L,3.0,3.0,1.0,E,N,LG,52.0,LG52,N,-
+Fifth Scholar,G,L,1.0,1.0,1.0,E,N,LG,52.0,LG52,N,-
+Lumgol,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Coop772,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Elandera,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Devotary of Spontaneity,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+I think I am here.,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+xinoehp512,F,W,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Young Bard,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Snipexe,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+DeTess,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Cadmium Compounder,F,W,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Shqueeves,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Roadwalker,F,W,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Sart,F,W,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Alvron,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+GreenRover,F,L,-,-,0.0,S,N,QF,36.0,QF36,N,-
+Elandera,G,L,-,-,-,,N,LG,53.0,LG53,N,-
+Droughtbringer,G,W,4.0,4.0,1.0,L,N,LG,53.0,LG53,N,-
+xinoehp512,G,W,-,-,-,,N,LG,53.0,LG53,N,-
+Furamirionind,G,L,-,-,-,,N,LG,53.0,LG53,N,-
+Young Bard,G,W,-,-,-,,N,LG,53.0,LG53,N,-
+Devotary of Spontaneity,E,L,2.0,2.0,1.0,L,N,LG,53.0,LG53,N,-
+DeTess,G,L,-,-,-,,N,LG,53.0,LG53,N,-
+Steeldancer,G,W,-,-,-,,N,LG,53.0,LG53,N,-
+I think I am here.,G,W,5.0,5.0,1.0,,N,LG,53.0,LG53,N,-
+Fifth Scholar,G,W,-,-,-,,N,LG,53.0,LG53,N,-
+Cadmium Compounder,G,L,-,-,-,,N,LG,53.0,LG53,N,-
+Roadwalker,E,L,1.0,1.0,1.0,V,N,LG,53.0,LG53,N,-
+Lumgol,G,L,5.0,5.0,1.0,,N,LG,53.0,LG53,N,-
+Snipexe,G,W,5.0,5.0,1.0,L,N,LG,53.0,LG53,N,-
+Alvron,E,L,3.0,3.0,1.0,L,N,LG,53.0,LG53,N,-
+Rathmaskal,G,L,3.0,3.0,1.0,E,N,LG,53.0,LG53,N,-
+Araris Valerian,G,L,-,-,-,,N,LG,53.0,LG53,N,-
+Arraenae,G,W,2.0,2.0,1.0,E,N,LG,53.0,LG53,N,-
+Jondesu,G,W,1.0,1.0,1.0,E,N,LG,53.0,LG53,N,-
+Kidpen,G,W,4.0,4.0,1.0,E,N,LG,53.0,LG53,N,-
+Mailliw73,G,W,2.0,2.0,1.0,E,N,LG,53.0,LG53,N,-
+Hemalurgic Headshot,E,L,1.0,1.0,1.0,L,N,LG,53.0,LG53,N,-
+Amanuensis,G,L,-,-,-,,N,LG,53.0,LG53,N,-
+Walin,E,L,6.0,6.0,1.0,L,N,LG,53.0,LG53,N,-
+Elandera,E,L,8.0,8.0,1.0,L,N,MR,34.0,MR34,N,-
+Furamirionind,G,W,1.0,1.0,1.0,E,N,MR,34.0,MR34,N,-
+A Joe in the Bush,M,L,4.0,4.0,1.0,E,N,MR,34.0,MR34,N,-
+Cadmium Compounder,E,L,2.0,2.0,1.0,L,N,MR,34.0,MR34,N,-
+Lumgol,E,L,1.0,1.0,1.0,L,N,MR,34.0,MR34,N,-
+xinoehp512,G,W,4.0,4.0,1.0,L,N,MR,34.0,MR34,N,-
+xxGaea,G,W,5.0,5.0,1.0,E,N,MR,34.0,MR34,N,-
+STINK,G,W,3.0,3.0,1.0,E,N,MR,34.0,MR34,N,-
+Kidpen,G,W,5.0,5.0,1.0,L,N,MR,34.0,MR34,N,-
+Devotary of Spontaneity,G,W,6.0,6.0,1.0,L,N,MR,34.0,MR34,N,-
+Arraenae,G,W,3.0,3.0,1.0,L,N,MR,34.0,MR34,N,-
+Steeldancer,G,W,-,-,0.0,S,N,MR,34.0,MR34,N,-
+Snipexe,G,W,7.0,7.0,1.0,L,N,MR,34.0,MR34,N,-
+Furamirionind,B,W,-,-,0.0,S,N,LG,54.0,LG54,N,-
+Lumgol,D,W,-,-,-,E,N,LG,54.0,LG54,N,-
+Elandera,G,L,1.0,1.0,1.0,E,N,LG,54.0,LG54,N,-
+DeTess,G,L,1.0,1.0,1.0,E,N,LG,54.0,LG54,N,-
+xinoehp512,B,W,-,-,0.0,S,N,LG,54.0,LG54,N,-
+Rathmaskal,G,L,3.0,-,1.0,S,N,LG,54.0,LG54,N,-
+Snipexe,G,L,5.0,5.0,1.0,E,N,LG,54.0,LG54,N,-
+Ark1002,G,L,-,-,0.0,S,N,LG,54.0,LG54,N,-
+Devotary of Spontaneity,B,W,-,-,0.0,S,N,LG,54.0,LG54,N,-
+Levitaph,B,W,-,-,0.0,S,N,LG,54.0,LG54,N,-
+A Joe in the Bush,G,L,5.0,5.0,1.0,L,N,LG,54.0,LG54,N,-
+Fifth Scholar,G,L,1.0,1.0,1.0,L,N,LG,54.0,LG54,N,-
+Coop772,G,L,1.0,1.0,1.0,L,N,LG,54.0,LG54,N,-
+TheMightyLopen,G,L,4.0,4.0,1.0,L,N,LG,54.0,LG54,N,-
+Cadmium Compounder,G,L,3.0,3.0,1.0,E,N,LG,54.0,LG54,N,-
+Dr. Dapper,G,L,4.0,5.0,2.0,E,N,LG,54.0,LG54,N,-
+Sart,G,L,4.0,4.0,1.0,E,N,LG,54.0,LG54,N,-
+Steeldancer,E,L,3.0,3.0,1.0,L,N,QF,37.0,QF37,N,-
+xinoehp512,G,W,5.0,5.0,1.0,L,N,QF,37.0,QF37,N,-
+Ark1002,G,W,1.0,1.0,1.0,L,N,QF,37.0,QF37,N,-
+Elandera,G,W,2.0,2.0,1.0,L,N,QF,37.0,QF37,N,-
+DeTess,E,L,6.0,6.0,1.0,L,N,QF,37.0,QF37,N,-
+Cadmium Compounder,G,W,-,-,0.0,S,N,QF,37.0,QF37,N,-
+Alvron,G,W,4.0,4.0,1.0,L,N,QF,37.0,QF37,N,-
+Lumgol,G,W,2.0,2.0,1.0,E,N,QF,37.0,QF37,N,-
+Kidpen,E,L,7.0,7.0,1.0,L,N,QF,37.0,QF37,N,-
+Devotary of Spontaneity,G,W,1.0,1.0,1.0,E,N,QF,37.0,QF37,N,-
+Mailliw73,G,W,-,-,0.0,S,N,QF,37.0,QF37,N,-
+Rathmaskal,G,W,4.0,4.0,1.0,E,N,QF,37.0,QF37,N,-
+Sart,G,W,3.0,3.0,1.0,E,N,QF,37.0,QF37,N,-
+A Joe in the Bush,G,W,-,-,0.0,S,N,QF,37.0,QF37,N,-
+Mailliw73,M,L,7.0,7.0,1.0,L,N,LG,55.0,LG55,N,-
+Elandera,G,W,5.0,5.0,1.0,E,N,LG,55.0,LG55,N,-
+Lumgol,G,W,8.0,8.0,1.0,L,N,LG,55.0,LG55,N,-
+Furamirionind,E,L,8.0,8.0,1.0,L,N,LG,55.0,LG55,N,-
+Snipexe,G,W,-,-,0.0,S,N,LG,55.0,LG55,N,-
+Araris Valerian,G,W,1.0,1.0,1.0,L,N,LG,55.0,LG55,N,-
+xinoehp512,G,W,2.0,2.0,1.0,M,N,LG,55.0,LG55,N,-
+Young Bard,G,W,1.0,1.0,1.0,M,N,LG,55.0,LG55,N,-
+Devotary of Spontaneity,E,L,5.0,5.0,1.0,L,N,LG,55.0,LG55,N,-
+Arraenae,G,W,2.0,2.0,1.0,L,N,LG,55.0,LG55,N,-
+Steeldancer,E,L,3.0,3.0,1.0,L,N,LG,55.0,LG55,N,-
+Ark1002,G,W,-,-,0.0,S,N,LG,55.0,LG55,N,-
+Rathmaskal,E,L,4.0,5.0,2.0,M,N,LG,55.0,LG55,N,-
+Cadmium Compounder,G,W,3.0,3.0,1.0,E,N,LG,55.0,LG55,N,-
+Hemalurgic Headshot,G,W,3.0,-,1.0,S,N,LG,55.0,LG55,N,-
+STINK,G,W,2.0,2.0,1.0,E,N,LG,55.0,LG55,N,-
+_Stick_,M,L,4.0,6.0,2.0,L,N,LG,55.0,LG55,N,-
+Straw,G,W,4.0,-,1.0,S,N,LG,55.0,LG55,N,-
+Amanuensis,G,W,6.0,6.0,1.0,E,N,LG,55.0,LG55,N,-
+Coop772,G,W,-,-,0.0,S,N,LG,55.0,LG55,N,-
+DeTess,G,W,1.0,1.0,1.0,E,N,LG,55.0,LG55,N,-
+Snipexe,G,W,3.0,3.0,1.0,N,N,MR,35.0,MR35,N,-
+xinoehp512,G,W,7.0,7.0,1.0,L,N,MR,35.0,MR35,N,-
+Elandera,G,W,-,-,0.0,S,N,MR,35.0,MR35,N,-
+Mailliw73,E,L,5.0,5.0,1.0,L,N,MR,35.0,MR35,N,-
+Devotary of Spontaneity,G,W,1.0,1.0,1.0,E,N,MR,35.0,MR35,N,-
+Ark1002,E,L,8.0,8.0,1.0,L,N,MR,35.0,MR35,N,-
+Furamirionind,G,W,-,-,0.0,S,N,MR,35.0,MR35,N,-
+Lumgol,G,W,4.0,4.0,1.0,L,N,MR,35.0,MR35,N,-
+StrikerEZ,G,W,5.0,5.0,1.0,E,N,MR,35.0,MR35,N,-
+Young Bard,G,W,-,-,0.0,S,N,MR,35.0,MR35,N,-
+Sart,G,W,3.0,3.0,1.0,L,N,MR,35.0,MR35,N,-
+Darkness Ascendant,G,W,3.0,3.0,1.0,E,N,MR,35.0,MR35,N,-
+Walin,G,W,3.0,3.0,1.0,N,N,MR,35.0,MR35,N,-
+xxGaea,E,L,6.0,6.0,1.0,L,N,MR,35.0,MR35,N,-
+A Joe in the Bush,E,L,3.0,3.0,1.0,N,N,MR,35.0,MR35,N,-
+_Stick_,G,W,2.0,2.0,1.0,L,N,MR,35.0,MR35,N,-
+Drake Marshall,G,W,5.0,5.0,1.0,N,N,MR,35.0,MR35,N,-
+Amanuensis,E,W,1.0,4.0,1.0,M,N,LG,56.0,LG56,N,-
+Ark1002,G,L,1.0,1.0,1.0,L,N,LG,56.0,LG56,N,-
+Lumgol,G,L,-,-,0.0,S,N,LG,56.0,LG56,N,-
+Fifth Scholar,G,L,-,-,0.0,S,N,LG,56.0,LG56,N,-
+Araris Valerian,G,L,5.0,5.0,1.0,E,N,LG,56.0,LG56,N,-
+Ventyl,G,L,6.0,6.0,1.0,E,N,LG,56.0,LG56,N,-
+Furamirionind,G,L,2.0,2.0,1.0,L,N,LG,56.0,LG56,N,-
+Rathmaskal,G,L,4.0,4.0,1.0,L,N,LG,56.0,LG56,N,-
+Devotary of Spontaneity,G,L,6.0,6.0,1.0,L,N,LG,56.0,LG56,N,-
+Sart,G,L,3.0,3.0,1.0,L,N,LG,56.0,LG56,N,-
+_Stick_,E,W,-,-,0.0,S,N,LG,56.0,LG56,N,-
+Young Bard,G,L,-,2.0,1.0,I,Y,LG,56.0,LG56,N,-
+Aonar,M,L,4.0,4.0,1.0,E,N,LG,56.0,LG56,N,-
+Snipexe,E,W,-,-,0.0,S,N,LG,56.0,LG56,N,-
+Straw,G,L,5.0,5.0,1.0,L,N,LG,56.0,LG56,N,-
+Drake Marshall,G,L,2.0,3.0,1.0,E,N,LG,56.0,LG56,N,-
+xinoehp512,E,W,2.0,2.0,1.0,M,N,LG,56.0,LG56,N,-
+Elandera,B,L,-,-,0.0,S,N,QF,38.0,QF38,N,-
+Straw,G,W,-,-,0.0,S,N,QF,38.0,QF38,N,-
+Rathmaskal,B,L,-,-,0.0,S,N,QF,38.0,QF38,N,-
+Mailliw73,G,W,-,-,0.0,S,N,QF,38.0,QF38,N,-
+Devotary of Spontaneity,B,L,-,-,0.0,S,N,QF,38.0,QF38,N,-
+StrikerEZ,G,W,-,-,0.0,S,N,QF,38.0,QF38,N,-
+Ventyl,B,L,-,-,0.0,S,N,QF,38.0,QF38,N,-
+Butt Ad Venture,B,L,-,-,0.0,S,N,QF,38.0,QF38,N,-
+I think I am here.,G,W,4.0,4.0,1.0,F,N,QF,38.0,QF38,N,-
+Cadmium Compounder,B,L,4.0,4.0,1.0,V,N,QF,38.0,QF38,N,-
+Snipexe,B,L,-,-,0.0,S,N,QF,38.0,QF38,N,-
+Hemalurgic Headshot,G,W,2.0,2.0,1.0,N,N,QF,38.0,QF38,N,-
+Fifth Scholar,B,L,4.0,4.0,1.0,V,N,QF,38.0,QF38,N,-
+Lumgol,B,L,2.0,2.0,1.0,L,N,QF,38.0,QF38,N,-
+Ark1002,G,W,4.0,4.0,1.0,F,N,QF,38.0,QF38,N,-
+Coop772,B,L,4.0,4.0,1.0,V,N,QF,38.0,QF38,N,-
+Kidpen,B,L,-,-,0.0,S,N,QF,38.0,QF38,N,-
+xinoehp512,B,L,-,-,0.0,S,N,QF,38.0,QF38,N,-
+Sart,B,L,-,-,0.0,S,N,QF,38.0,QF38,N,-
+WeebTrash,B,L,4.0,4.0,1.0,V,N,QF,38.0,QF38,N,-
+StrikerEZ,G,L,2.0,2.0,1.0,E,N,LG,57.0,LG57,N,-
+Dr. Dapper,G,L,1.0,1.0,1.0,L,N,LG,57.0,LG57,N,-
+Devotary of Spontaneity,G,L,2.0,2.0,1.0,L,N,LG,57.0,LG57,N,-
+xinoehp512,E,W,2.0,2.0,1.0,V,N,LG,57.0,LG57,N,-
+Butt Ad Venture,G,L,-,-,0.0,S,N,LG,57.0,LG57,N,-
+Araris Valerian,E,W,-,-,0.0,S,N,LG,57.0,LG57,N,-
+Cadmium Compounder,M,L,3.0,3.0,1.0,L,N,LG,57.0,LG57,N,-
+Lumgol,G,L,3.0,3.0,1.0,N,N,LG,57.0,LG57,N,-
+Ventyl,G,L,3.0,3.0,1.0,E,N,LG,57.0,LG57,N,-
+Alvron,B,W,-,-,0.0,S,N,LG,57.0,LG57,N,-
+Elandera,G,L,1.0,1.0,1.0,E,N,LG,57.0,LG57,N,-
+Shqueeves,E,W,-,-,0.0,S,N,LG,57.0,LG57,N,-
+Snipexe,G,L,-,-,0.0,S,N,LG,57.0,LG57,N,-
+xinoehp512,G,L,-,-,0.0,S,N,MR,36.0,MR36,N,-
+Lumgol,E,W,-,-,0.0,S,N,MR,36.0,MR36,N,-
+StrikerEZ,E,W,-,-,0.0,S,N,MR,36.0,MR36,N,-
+BrightnessRadiant,G,L,2.0,-,1.0,S,N,MR,36.0,MR36,N,-
+Ventyl,G,L,4.0,4.0,1.0,L,Y,MR,36.0,MR36,N,-
+Elandera,G,L,1.0,1.0,1.0,L,N,MR,36.0,MR36,N,-
+Amanuensis,G,L,-,-,0.0,S,N,MR,36.0,MR36,N,-
+Ark1002,G,L,2.0,2.0,1.0,L,N,MR,36.0,MR36,N,-
+Drake Marshall,G,L,-,-,0.0,S,N,MR,36.0,MR36,N,-
+Devotary of Spontaneity,E,W,-,-,0.0,S,N,MR,36.0,MR36,N,-
+Mark IV,G,L,-,-,0.0,S,Y,MR,36.0,MR36,N,-
+shanerockes,G,L,-,-,0.0,S,N,MR,36.0,MR36,N,-
+_Stick_,G,L,3.0,3.0,1.0,L,N,MR,36.0,MR36,N,-
+TheMightyLopen,G,L,-,-,0.0,S,N,MR,36.0,MR36,N,-
+Alvron,E,W,-,-,0.0,S,N,MR,36.0,MR36,N,-
+Araris Valerian,G,L,-,-,0.0,S,N,MR,36.0,MR36,N,-
+Burnt Spaghetti,G,L,-,-,0.0,S,N,MR,36.0,MR36,N,-
+Haelbarde,G,W,-,-,0.0,S,N,LG,58.0,LG58,N,-
+Burnt Spaghetti,G,W,3.0,5.0,2.0,E,N,LG,58.0,LG58,N,-
+Snipexe,G,W,-,-,0.0,S,N,LG,58.0,LG58,N,-
+StrikerEZ,G,W,2.0,2.0,1.0,L,N,LG,58.0,LG58,N,-
+Araris Valerian,G,W,-,-,1.0,E,N,LG,58.0,LG58,N,-
+Lumgol,G,W,6.0,6.0,1.0,E,N,LG,58.0,LG58,N,-
+Ark1002,G,W,4.0,4.0,1.0,L,N,LG,58.0,LG58,N,-
+shanerockes,G,W,-,-,0.0,S,N,LG,58.0,LG58,N,-
+Doctor 12,G,W,-,-,0.0,S,N,LG,58.0,LG58,N,-
+DeTess,C,L,3.0,3.0,1.0,L,N,LG,58.0,LG58,N,-
+Amanuensis,G,W,1.0,1.0,1.0,L,N,LG,58.0,LG58,N,-
+BrightnessRadiant,D,L,6.0,7.0,3.0,L,N,LG,58.0,LG58,N,-
+Elandera,D,L,6.0,7.0,3.0,L,N,LG,58.0,LG58,N,-
+Fifth Scholar,G,W,2.0,2.0,1.0,S,N,LG,58.0,LG58,N,-
+Devotary of Spontaneity,G,W,5.0,5.0,1.0,L,N,LG,58.0,LG58,N,-
+Rathmaskal,G,W,-,-,0.0,S,N,LG,58.0,LG58,N,-
+Young Bard,G,W,-,-,0.0,S,N,LG,58.0,LG58,N,-
+Sart,G,W,-,-,0.0,S,N,LG,58.0,LG58,N,-
+STINK,G,W,-,-,0.0,S,N,LG,58.0,LG58,N,-
+StrikerEZ,G,L,-,-,0.0,M,N,QF,39.0,QF39,N,-
+Alvron,E,L,4.0,4.0,1.0,L,N,QF,39.0,QF39,N,-
+Snipexe,G,L,-,-,0.0,M,N,QF,39.0,QF39,N,-
+Elbereth,G,L,3.0,3.0,1.0,E,N,QF,39.0,QF39,N,-
+Lumgol,E,L,2.0,2.0,1.0,L,N,QF,39.0,QF39,N,-
+Haelbarde,G,L,-,-,0.0,M,N,QF,39.0,QF39,N,-
+Burnt Spaghetti,E,L,1.0,1.0,1.0,V,N,QF,39.0,QF39,N,-
+Young Bard,G,L,8.0,8.0,1.0,L,N,QF,39.0,QF39,N,-
+Devotary of Spontaneity,E,L,7.0,7.0,1.0,M,N,QF,39.0,QF39,N,-
+Fifth Scholar,G,L,9.0,9.0,1.0,M,N,QF,39.0,QF39,N,-
+Elandera,G,L,7.0,7.0,1.0,L,N,QF,39.0,QF39,N,-
+Bugsy,G,L,6.0,6.0,1.0,L,N,QF,39.0,QF39,N,-
+Hemalurgic Headshot,G,L,-,-,0.0,M,N,QF,39.0,QF39,N,-
+Shqueeves,G,L,9.0,9.0,1.0,L,N,QF,39.0,QF39,N,-
+Butt Ad Venture,E,L,-,-,0.0,M,N,QF,39.0,QF39,N,-
+Kidpen,E,L,5.0,5.0,1.0,L,N,QF,39.0,QF39,N,-
+Furamirionind,G,L,-,-,0.0,M,N,QF,39.0,QF39,N,-
+Ark1002,G,L,3.0,3.0,1.0,L,N,QF,39.0,QF39,N,-
+Drake Marshall,M,W,-,-,0.0,S,N,QF,39.0,QF39,N,-
+Araris Valerian,G,L,9.0,9.0,1.0,L,N,QF,39.0,QF39,N,-
+Rathmaskal,G,L,-,-,0.0,M,N,QF,39.0,QF39,N,-
+Arraenae,E,L,7.0,7.0,1.0,L,N,QF,39.0,QF39,N,-
+Furamirionind,G,W,-,-,0.0,S,N,LG,59.0,LG59,N,-
+Cicada,G,W,-,-,0.0,S,N,LG,59.0,LG59,N,-
+xinoehp512,G,W,2.0,2.0,1.0,L,N,LG,59.0,LG59,N,-
+Drake Marshall,G,W,-,-,0.0,S,N,LG,59.0,LG59,N,-
+_Stick_,E,L,3.0,-,2.0,S,N,LG,59.0,LG59,N,-
+Cadmium Compounder,G,W,-,-,0.0,S,N,LG,59.0,LG59,N,-
+Rathmaskal,G,W,-,-,0.0,S,N,LG,59.0,LG59,N,-
+shanerockes,G,W,-,-,0.0,S,N,LG,59.0,LG59,N,-
+Butt Ad Venture,G,W,1.0,1.0,1.0,E,N,LG,59.0,LG59,N,-
+Devotary of Spontaneity,G,W,-,-,0.0,S,N,LG,59.0,LG59,N,-
+Amanuensis,G,W,2.0,2.0,1.0,L,N,LG,59.0,LG59,N,-
+Sart,G,W,-,-,0.0,S,N,LG,59.0,LG59,N,-
+Snipexe,G,W,1.0,1.0,1.0,L,N,LG,59.0,LG59,N,-
+Haelbarde,M,L,-,-,0.0,S,N,MR,37.0,MR37,N,-
+Young Bard,G,L,1.0,1.0,4.0,E,N,MR,37.0,MR37,N,-
+xinoehp512,G,L,1.0,1.0,2.0,L,N,MR,37.0,MR37,N,-
+Furamirionind,E,W,-,-,0.0,S,N,MR,37.0,MR37,N,-
+Cadmium Compounder,G,L,1.0,1.0,5.0,M,N,MR,37.0,MR37,N,-
+Snipexe,G,L,1.0,1.0,5.0,L,N,MR,37.0,MR37,N,-
+DeTess,E,W,-,-,0.0,S,N,MR,37.0,MR37,N,-
+Straw,G,L,1.0,1.0,5.0,E,N,MR,37.0,MR37,N,-
+shanerockes,G,L,1.0,1.0,3.0,E,N,MR,37.0,MR37,N,-
+Devotary of Spontaneity,G,L,1.0,1.0,2.0,E,N,MR,37.0,MR37,N,-
+Burnt Spaghetti,G,L,1.0,1.0,4.0,L,N,MR,37.0,MR37,N,-
+Kasimir,G,L,1.0,1.0,1.0,L,N,MR,37.0,MR37,N,-
+Sallom,G,L,1.0,1.0,1.0,E,N,MR,37.0,MR37,N,-
+Sart,G,L,1.0,1.0,3.0,L,N,MR,37.0,MR37,N,-
+Hemalurgic Headshot,E,W,-,-,0.0,S,N,MR,37.0,MR37,N,-
+xinoehp512,G,L,-,-,0.0,S,N,LG,60.0,LG60,N,-
+Rathmaskal,E,W,5.0,-,1.0,S,N,LG,60.0,LG60,N,-
+Fifth Scholar,E,W,3.0,3.0,1.0,E,N,LG,60.0,LG60,N,-
+Cadmium Compounder,N,L,3.0,3.0,1.0,L,N,LG,60.0,LG60,N,-
+Araris Valerian,G,L,1.0,3.0,2.0,E,N,LG,60.0,LG60,N,-
+shanerockes,N,L,1.0,1.0,1.0,L,N,LG,60.0,LG60,N,-
+Amanuensis,G,L,2.0,2.0,1.0,E,N,LG,60.0,LG60,N,-
+Butt Ad Venture,G,L,-,-,0.0,S,N,LG,60.0,LG60,N,-
+StrikerEZ,G,L,2.0,2.0,1.0,L,N,LG,60.0,LG60,N,-
+Elbereth,G,L,6.0,8.0,3.0,L,N,LG,60.0,LG60,N,-
+ILuvHats,E,W,-,-,0.0,S,N,LG,60.0,LG60,N,-
+Sart,E,W,3.0,3.0,1.0,?,N,LG,60.0,LG60,N,-
+Ark1002,G,L,4.0,4.0,1.0,L,N,LG,60.0,LG60,N,-
+Devotary of Spontaneity,G,L,4.0,8.0,1.0,E,N,LG,60.0,LG60,N,-
+I think I am here.,E,W,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+DeTess,E,W,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+xinoehp512,G,L,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+StrikerEZ,G,L,1.0,2.0,2.0,E,N,QF,40.1,QF40.1,Y,-
+Elandera,G,L,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+Burnt Spaghetti,G,L,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+Young Bard,G,L,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+_Stick_,E,W,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+Rathmaskal,G,L,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+Alvron,N,L,1.0,1.0,1.0,E,N,QF,40.1,QF40.1,Y,-
+Elbereth,G,L,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+STINK,G,L,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+Butt Ad Venture,G,L,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+Devotary of Spontaneity,G,L,-,-,0.0,S,N,QF,40.1,QF40.1,Y,-
+I think I am here.,G,L,3.0,3.0,1.0,E,N,QF,40.2,QF40.2,N,-
+DeTess,G,L,1.0,1.0,1.0,E,N,QF,40.2,QF40.2,N,-
+xinoehp512,G,L,3.0,3.0,1.0,I,Y,QF,40.2,QF40.2,N,-
+StrikerEZ,G,L,1.0,1.0,1.0,L,N,QF,40.2,QF40.2,N,-
+Elandera,E,W,4.0,-,1.0,S,N,QF,40.2,QF40.2,N,-
+Burnt Spaghetti,E,W,-,-,0.0,S,N,QF,40.2,QF40.2,N,-
+Young Bard,G,L,4.0,4.0,1.0,E,N,QF,40.2,QF40.2,N,-
+Rathmaskal,G,L,-,-,0.0,S,N,QF,40.2,QF40.2,N,-
+Alvron,E,W,2.0,2.0,1.0,L,N,QF,40.2,QF40.2,N,-
+Elbereth,G,L,-,-,0.0,S,N,QF,40.2,QF40.2,N,-
+STINK,G,L,-,-,0.0,S,N,QF,40.2,QF40.2,N,-
+Butt Ad Venture,G,L,3.0,3.0,1.0,L,N,QF,40.2,QF40.2,N,-
+Devotary of Spontaneity,G,L,-,-,0.0,S,N,QF,40.2,QF40.2,N,-
+Arraenae,E,W,-,-,0.0,S,N,QF,40.2,QF40.2,N,-
+little wilson,G,L,2.0,2.0,1.0,E,N,QF,40.2,QF40.2,N,-
+Haelbarde,E,W,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Straw,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Fifth Scholar,E,W,1.0,1.0,1.0,L,N,MR,38.1,MR38.1,Y,Regular
+Coda,E,W,1.0,1.0,1.0,L,N,MR,38.1,MR38.1,Y,Regular
+Kasimir,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Elandera,E,W,1.0,1.0,1.0,L,N,MR,38.1,MR38.1,Y,Regular
+Amanuensis,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+xinoehp512,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Wonko the Sane,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Pejidot,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Burnt Spaghetti,E,W,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Aragorn,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+StrikerEZ,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Madagascar,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+GoWibble,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Rathmaskal,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+STINK,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Young Bard,G,L,-,-,0.0,S,N,MR,38.1,MR38.1,Y,Regular
+Elandera,G,W,1.0,1.0,1.0,E,N,LG,61.0,LG61,Y,-
+Young Bard,G,W,6.0,6.0,1.0,I,N,LG,61.0,LG61,Y,-
+Araris Valerian,G,W,4.0,4.0,1.0,E,N,LG,61.0,LG61,Y,-
+Butt Ad Venture,G,W,1.0,1.0,1.0,L,N,LG,61.0,LG61,Y,-
+StrikerEZ,G,W,3.0,3.0,1.0,E,N,LG,61.0,LG61,Y,-
+xinoehp512,G,W,2.0,2.0,1.0,L,N,LG,61.0,LG61,Y,-
+Furamirionind,G,W,2.0,2.0,1.0,E,N,LG,61.0,LG61,Y,-
+Hemalurgic Headshot,G,W,5.0,5.0,1.0,L,N,LG,61.0,LG61,Y,-
+Sart,E,L,2.0,3.0,2.0,L,N,LG,61.0,LG61,Y,-
+STINK,G,W,-,-,0.0,S,N,LG,61.0,LG61,Y,-
+Drake Marshall,E,L,6.0,6.0,1.0,I,N,LG,61.0,LG61,Y,-
+Amanuensis,E,L,4.0,7.0,2.0,L,N,LG,61.0,LG61,Y,-
+Coda,G,W,6.0,6.0,1.0,E,N,LG,61.0,LG61,Y,-
+Straw,G,W,-,-,0.0,S,N,LG,61.0,LG61,Y,-
+Elbereth,G,W,4.0,4.0,1.0,L,N,LG,61.0,LG61,Y,-
+Straw,G,W,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+Fifth Scholar,E,L,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+Coda,G,W,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+Kasimir,G,W,4.0,4.0,1.0,L,N,MR,38.2,MR38.2,N,Regular
+Amanuensis,G,W,3.0,3.0,1.0,L,N,MR,38.2,MR38.2,N,Regular
+xinoehp512,G,W,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+Wonko the Sane,E,L,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+Pejidot,G,W,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+Burnt Spaghetti,G,W,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+Aragorn,G,W,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+StrikerEZ,G,W,5.0,5.0,1.0,L,N,MR,38.2,MR38.2,N,Regular
+GoWibble,E,L,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+Rathmaskal,G,W,2.0,2.0,1.0,L,N,MR,38.2,MR38.2,N,Regular
+STINK,E,L,1.0,1.0,1.0,L,N,MR,38.2,MR38.2,N,Regular
+Young Bard,G,W,-,-,0.0,S,N,MR,38.2,MR38.2,N,Regular
+Snipexe,G,L,3.0,3.0,1.0,E,N,QF,41.0,QF41,N,-
+Coda,G,L,4.0,4.0,1.0,L,N,QF,41.0,QF41,N,-
+Lumgol,G,L,2.0,2.0,1.0,E,N,QF,41.0,QF41,N,-
+Straw,G,L,1.0,1.0,1.0,E,N,QF,41.0,QF41,N,-
+Wonko the Sane,E,W,-,-,0.0,S,N,QF,41.0,QF41,N,-
+StrikerEZ,E,W,1.0,1.0,1.0,L,N,QF,41.0,QF41,N,-
+Darkness Ascendant,G,L,3.0,3.0,1.0,L,N,QF,41.0,QF41,N,-
+Abstrusity,G,L,-,-,0.0,S,N,QF,41.0,QF41,N,-
+Lemonelon,E,W,-,-,0.0,S,N,QF,41.0,QF41,N,-
+Elandera,G,L,-,-,0.0,S,N,QF,41.0,QF41,N,-
+Devotary of Spontaneity,G,L,2.0,2.0,1.0,L,N,QF,41.0,QF41,N,-
+Sart,G,L,-,-,0.0,S,N,QF,41.0,QF41,N,-
+DeTess,G,L,4.0,4.0,1.0,E,N,QF,41.0,QF41,N,-
+Elkanah,E,W,-,-,0.0,S,N,QF,41.0,QF41,N,-
+Elbereth,F,W,-,-,0.0,S,N,LG,62.0,LG62,N,-
+Bartimaeus,F,L,3.0,3.0,1.0,F,N,LG,62.0,LG62,N,-
+Coda,F,L,5.0,5.0,1.0,F,N,LG,62.0,LG62,N,-
+Araris Valerian,F,L,1.0,1.0,1.0,F,N,LG,62.0,LG62,N,-
+Lemonelon,F,W,-,-,0.0,S,N,LG,62.0,LG62,N,-
+Elandera,F,L,5.0,5.0,1.0,F,N,LG,62.0,LG62,N,-
+STINK,F,L,2.0,2.0,1.0,F,N,LG,62.0,LG62,N,-
+Snipexe,F,L,2.0,2.0,1.0,F,N,LG,62.0,LG62,N,-
+Elkanah,F,W,-,-,0.0,S,N,LG,62.0,LG62,N,-
+StrikerEZ,F,W,-,-,0.0,S,N,LG,62.0,LG62,N,-
+Devotary of Spontaneity,F,L,1.0,1.0,1.0,F,N,LG,62.0,LG62,N,-
+Wonko the Sane,F,W,2.0,-,1.0,S,N,LG,62.0,LG62,N,-
+Abstrusity,F,L,4.0,4.0,1.0,F,N,LG,62.0,LG62,N,-
+_Stick_,F,W,2.0,-,1.0,S,N,LG,62.0,LG62,N,-
+Manukos,F,W,-,-,0.0,S,N,LG,62.0,LG62,N,-
+Shqueeves,F,L,3.0,3.0,1.0,F,N,LG,62.0,LG62,N,-
+StrikerEZ,E,L,7.0,7.0,1.0,L,N,MR,39.0,MR39,N,-
+Kynedath,G,W,-,-,0.0,S,N,MR,39.0,MR39,N,-
+DeTess,G,W,2.0,2.0,1.0,L,N,MR,39.0,MR39,N,-
+_Stick_,G,W,2.0,2.0,1.0,E,N,MR,39.0,MR39,N,-
+Sart,E,L,2.0,2.0,1.0,I,N,MR,39.0,MR39,N,-
+Butt Ad Venture,G,W,5.0,5.0,1.0,L,N,MR,39.0,MR39,N,-
+Elandera,G,W,-,-,0.0,S,N,MR,39.0,MR39,N,-
+Cadmium Compounder,G,W,4.0,4.0,1.0,E,N,MR,39.0,MR39,N,-
+Lemonelon,G,W,6.0,6.0,1.0,E,N,MR,39.0,MR39,N,-
+Elkanah,E,L,6.0,6.0,1.0,L,N,MR,39.0,MR39,N,-
+Coda,G,W,1.0,1.0,1.0,L,N,MR,39.0,MR39,N,-
+Devotary of Spontaneity,G,W,3.0,3.0,1.0,L,N,MR,39.0,MR39,N,-
+Kidpen,G,W,7.0,7.0,1.0,E,N,MR,39.0,MR39,N,-
+Furamirionind,G,W,3.0,3.0,1.0,E,N,MR,39.0,MR39,N,-
+A Joe in the Bush,G,W,4.0,4.0,1.0,L,N,MR,39.0,MR39,N,-
+Devotary of Spontaneity,G,L,4.0,4.0,1.0,F,N,AG,6.0,AG6,N,-
+Elandera,G,L,5.0,5.0,1.0,F,N,AG,6.0,AG6,N,-
+Mailliw73,G,L,1.0,1.0,1.0,E,                ,AG,6.0,AG6,N,-
+Sart,G,L,4.0,4.0,1.0,F,N,AG,6.0,AG6,N,-
+Haelbarde,G,L,2.0,2.0,1.0,E,N,AG,6.0,AG6,N,-
+Arraenae,G,L,5.0,5.0,1.0,L,N,AG,6.0,AG6,N,-
+Straw,G,L,8.0,8.0,1.0,L,N,AG,6.0,AG6,N,-
+Hemalurgic Headshot,E,W,1.0,1.0,1.0,V,N,AG,6.0,AG6,N,-
+StrikerEZ,G,L,4.0,6.0,2.0,E,N,AG,6.0,AG6,N,-
+Araris Valerian,G,L,5.0,5.0,1.0,E,N,AG,6.0,AG6,N,-
+Coda,G,L,5.0,5.0,1.0,F,N,AG,6.0,AG6,N,-
+Dalinar,G,L,7.0,7.0,1.0,E,N,AG,6.0,AG6,N,-
+xinoehp512,G,L,2.0,4.0,2.0,F,N,AG,6.0,AG6,N,-
+Rathmaskal,G,L,3.0,3.0,1.0,E,N,AG,6.0,AG6,N,-
+_Stick_,E,W,3.0,3.0,3.0,V,N,AG,6.0,AG6,N,-
+Lumgol,E,W,1.0,1.0,1.0,L,N,AG,6.0,AG6,N,-
+DeTess,E,W,6.0,6.0,1.0,L,N,AG,6.0,AG6,N,-
+Snipexe,G,L,7.0,7.0,1.0,L,N,AG,6.0,AG6,N,-
+Cadmium Compounder,E,W,-,-,0.0,S,N,AG,6.0,AG6,N,-
+A Joe in the Bush,E,W,4.0,4.0,1.0,V,N,AG,6.0,AG6,N,-
+STINK,G,L,6.0,6.0,1.0,F,N,AG,6.0,AG6,N,-
+Young Bard,G,L,4.0,4.0,1.0,L,N,AG,6.0,AG6,N,-
+Elkanah,G,L,2.0,2.0,1.0,E,N,AG,6.0,AG6,N,-
+Burnt Spaghetti,G,L,-,-,0.0,S,N,AG,6.0,AG6,N,-
+Elkanah,G,W,3.0,4.0,2.0,E,N,QF,42.0,QF42,N,-
+Kynedath,G,W,-,-,0.0,S,N,QF,42.0,QF42,N,-
+The_God_King,E,L,-,-,0.0,S,N,QF,42.0,QF42,N,-
+StrikerEZ,G,W,-,-,0.0,S,N,QF,42.0,QF42,N,-
+Cadmium Compounder,G,W,1.0,4.0,3.0,E,N,QF,42.0,QF42,N,-
+Feruchemical Skybreaker,G,W,-,-,0.0,S,N,QF,42.0,QF42,N,-
+Zillah,G,W,-,-,0.0,S,N,QF,42.0,QF42,N,-
+Kidpen,E,L,1.0,1.0,1.0,L,N,QF,42.0,QF42,N,-
+Rathmaskal,G,W,-,-,0.0,S,N,QF,42.0,QF42,N,-
+Devotary of Spontaneity,E,L,4.0,4.0,1.0,L,N,QF,42.0,QF42,N,-
+Butt Ad Venture,G,W,2.0,2.0,1.0,L,N,QF,42.0,QF42,N,-
+DeTess,G,W,3.0,3.0,1.0,L,N,QF,42.0,QF42,N,-
+Kynedath,G,W,4.0,4.0,1.0,E,N,MR,40.0,MR40,N,-
+Zillah,G,W,5.0,5.0,1.0,E,N,MR,40.0,MR40,N,-
+Elkanah,G,W,3.0,3.0,1.0,E,N,MR,40.0,MR40,N,-
+Kidpen,G,W,2.0,2.0,1.0,L,N,MR,40.0,MR40,N,-
+Rathmaskal,G,W,-,-,0.0,S,N,MR,40.0,MR40,N,-
+StrikerEZ,G,W,5.0,5.0,1.0,S,N,MR,40.0,MR40,N,-
+Araris Valerian,E,L,4.0,4.0,1.0,L,N,MR,40.0,MR40,N,-
+The_God_King,G,W,2.0,2.0,1.0,E,N,MR,40.0,MR40,N,-
+xinoehp512,G,W,3.0,3.0,1.0,L,N,MR,40.0,MR40,N,-
+Coda,G,W,1.0,1.0,1.0,L,N,MR,40.0,MR40,N,-
+Fifth Scholar,E,L,5.0,5.0,1.0,L,N,MR,40.0,MR40,N,-
+Abstrusity,E,L,6.0,6.0,1.0,L,N,MR,40.0,MR40,N,-
+shanerockes,G,W,1.0,1.0,1.0,E,N,MR,40.0,MR40,N,-
+Sart,G,W,3.0,3.0,1.0,E,N,MR,40.0,MR40,N,-
+Kynedath,G,L,1.0,1.0,1.0,E,N,LG,63.0,LG63,N,-
+xinoehp512,G,L,6.0,6.0,1.0,L,N,LG,63.0,LG63,N,-
+Butt Ad Venture,E,W,2.0,2.0,1.0,L,N,LG,63.0,LG63,N,-
+Elkanah,G,L,5.0,5.0,1.0,E,N,LG,63.0,LG63,N,-
+Coda,G,L,7.0,7.0,1.0,L,N,LG,63.0,LG63,N,-
+Alvron,G,L,7.0,7.0,1.0,E,N,LG,63.0,LG63,N,-
+Rathmaskal,E,W,-,-,0.0,S,N,LG,63.0,LG63,N,-
+shanerockes,E,W,5.0,5.0,1.0,L,N,LG,63.0,LG63,N,-
+The_God_King,G,L,3.0,3.0,1.0,E,N,LG,63.0,LG63,N,-
+Elandera,E,W,3.0,3.0,1.0,L,N,LG,63.0,LG63,N,-
+Kidpen,G,L,4.0,4.0,1.0,E,N,LG,63.0,LG63,N,-
+Young Bard,G,L,4.0,4.0,1.0,L,N,LG,63.0,LG63,N,-
+Abstrusity,G,L,8.0,8.0,1.0,L,N,LG,63.0,LG63,N,-
+Zillah,G,L,6.0,6.0,1.0,E,N,LG,63.0,LG63,N,-
+EXPERIENCE,G,L,1.0,1.0,1.0,L,N,LG,63.0,LG63,N,-
+EXPERIENCE,G,L,7.0,7.0,1.0,L,N,QF,43.0,QF43,N,-
+Elandera,G,L,6.0,6.0,1.0,L,N,QF,43.0,QF43,N,-
+xinoehp512,G,L,1.0,1.0,1.0,E,N,QF,43.0,QF43,N,-
+Ironfire,G,L,5.0,5.0,1.0,E,N,QF,43.0,QF43,N,-
+Devotary of Spontaneity,G,L,2.0,2.0,1.0,E,N,QF,43.0,QF43,N,-
+Zillah,G,L,7.0,7.0,1.0,E,N,QF,43.0,QF43,N,-
+Kynedath,E,W,-,-,0.0,S,N,QF,43.0,QF43,N,-
+The_God_King,E,W,4.0,4.0,1.0,L,N,QF,43.0,QF43,N,-
+shanerockes,G,L,3.0,3.0,1.0,?,N,QF,43.0,QF43,N,-
+Rathmaskal,G,L,3.0,3.0,1.0,L,N,QF,43.0,QF43,N,-
+Sart,G,L,3.0,3.0,1.0,E,N,QF,43.0,QF43,N,-
+DeTess,G,L,4.0,4.0,1.0,E,N,QF,43.0,QF43,N,-
+A Joe in the Bush,G,L,1.0,1.0,1.0,L,N,QF,43.0,QF43,N,-
+Straw,G,L,5.0,5.0,1.0,L,N,QF,43.0,QF43,N,-
+StrikerEZ,G,L,2.0,2.0,1.0,L,N,QF,43.0,QF43,N,-
+STINK,E,W,5.0,5.0,1.0,?,N,QF,43.0,QF43,N,-
+EXPERIENCE,G,W,-,-,0.0,S,N,LG,64.0,LG64,N,-
+Straw,M,L,6.0,6.0,1.0,V,N,LG,64.0,LG64,N,-
+Kidpen,G,W,5.0,5.0,1.0,M,N,LG,64.0,LG64,N,-
+A Joe in the Bush,G,W,2.0,2.0,1.0,M,N,LG,64.0,LG64,N,-
+Coda,G,W,4.0,4.0,1.0,L,N,LG,64.0,LG64,N,-
+StrikerEZ,G,W,3.0,3.0,1.0,L,N,LG,64.0,LG64,N,-
+Kynedath,G,W,3.0,3.0,1.0,M,N,LG,64.0,LG64,N,-
+Elandera,G,W,5.0,5.0,1.0,L,N,LG,64.0,LG64,N,-
+Zillah,G,W,-,6.0,0.0,I,Y,LG,64.0,LG64,N,-
+xinoehp512,G,W,4.0,4.0,1.0,M,N,LG,64.0,LG64,N,-
+Ironfire,E,L,-,3.0,0.0,I,Y,LG,64.0,LG64,N,-
+Sart,G,W,-,-,0.0,S,N,LG,64.0,LG64,N,-
+Elkanah,E,L,1.0,1.0,1.0,L,N,LG,64.0,LG64,N,-
+Fifth Scholar,G,W,1.0,1.0,1.0,M,N,LG,64.0,LG64,N,-
+The_God_King,G,W,2.0,2.0,1.0,L,N,LG,64.0,LG64,N,-
+Shqueeves,G,W,6.0,6.0,1.0,L,N,LG,64.0,LG64,N,-
+Devotary of Spontaneity,G,0,4.0,4.0,1.0,E,N,MR,41.0,MR41,N,-
+Kynedath,E,0,-,-,-,,N,MR,41.0,MR41,N,-
+EXPERIENCE,G,0,5.0,5.0,1.0,?,N,MR,41.0,MR41,N,-
+Hemalurgic Headshot,G,0,-,-,-,,N,MR,41.0,MR41,N,-
+Mailliw73,G,0,-,-,-,,N,MR,41.0,MR41,N,-
+Sart,G,0,-,-,-,,N,MR,41.0,MR41,N,-
+Haelbarde,G,0,-,-,-,,N,MR,41.0,MR41,N,-
+Young Bard,G,0,-,-,-,,N,MR,41.0,MR41,N,-
+The_God_King,G,0,3.0,3.0,1.0,?,N,MR,41.0,MR41,N,-
+Furamirionind,G,0,2.0,2.0,1.0,E,N,MR,41.0,MR41,N,-
+Elandera,G,0,5.0,5.0,1.0,?,N,MR,41.0,MR41,N,-
+StrikerEZ,G,0,3.0,3.0,1.0,?,N,MR,41.0,MR41,N,-
+Araris Valerian,G,0,1.0,1.0,1.0,V,N,MR,41.0,MR41,N,-
+Straw,G,0,5.0,5.0,1.0,?,N,MR,41.0,MR41,N,-
+Haelbarde,E,L,4.0,4.0,1.0,V,N,LG,65.0,LG65,Y,-
+Elandera,G,W,5.0,5.0,1.0,O,N,LG,65.0,LG65,Y,-
+Burnt Spaghetti,G,W,6.0,6.0,2.0,O,N,LG,65.0,LG65,Y,-
+DeTess,G,W,3.0,3.0,1.0,O,N,LG,65.0,LG65,Y,-
+Elkanah,G,W,6.0,6.0,1.0,L,N,LG,65.0,LG65,Y,-
+Straw,G,W,5.0,5.0,1.0,O,N,LG,65.0,LG65,Y,-
+xinoehp512,G,W,4.0,4.0,2.0,O,N,LG,65.0,LG65,Y,-
+Lord_Silberfarben,G,W,4.0,4.0,1.0,N,N,LG,65.0,LG65,Y,-
+Coda,G,W,3.0,3.0,1.0,O,N,LG,65.0,LG65,Y,-
+Karnage,G,W,6.0,6.0,1.0,F,N,LG,65.0,LG65,Y,-
+Hemalurgic Headshot,G,W,1.0,1.0,1.0,O,N,LG,65.0,LG65,Y,-
+StrikerEZ,G,W,2.0,2.0,1.0,O,N,LG,65.0,LG65,Y,-
+Lumgol,G,W,2.0,2.0,1.0,O,N,LG,65.0,LG65,Y,-
+EXPERIENCE,E,L,6.0,6.0,1.0,V,N,LG,65.0,LG65,Y,-
+Devotary of Spontaneity,G,W,6.0,6.0,2.0,O,N,LG,65.0,LG65,Y,-
+Cadmium Compounder,G,W,4.0,4.0,1.0,O,N,LG,65.0,LG65,Y,-
+Sart,G,W,1.0,1.0,1.0,O,N,LG,65.0,LG65,Y,-
+Furamirionind,G,W,5.0,5.0,1.0,O,N,LG,65.0,LG65,Y,-
+Zillah,G,W,4.0,4.0,1.0,N,N,LG,65.0,LG65,Y,-
+Araris Valerian,G,W,6.0,6.0,1.0,F,N,LG,65.0,LG65,Y,-
+Rathmaskal,G,W,6.0,6.0,1.0,N,N,LG,65.0,LG65,Y,-
+STINK,E,L,4.0,4.0,1.0,O,N,LG,65.0,LG65,Y,-
+Kynedath,G,W,5.0,5.0,1.0,N,N,LG,65.0,LG65,Y,-
+Walin,E,L,4.0,4.0,1.0,V,N,LG,65.0,LG65,Y,-
+GreenRover,E,L,5.0,5.0,1.0,O,N,LG,65.0,LG65,Y,-
+Young Bard,E,L,3.0,3.0,1.0,O,N,LG,65.0,LG65,Y,-
+TheMightyLopen,E,L,5.0,6.0,2.0,V,N,LG,65.0,LG65,Y,-
+xinoehp512,G,L,1.0,1.0,1.0,E,N,QF,44.0,QF44,N,-
+Karnage,G,L,6.0,6.0,1.0,L,N,QF,44.0,QF44,N,-
+StrikerEZ,G,L,2.0,2.0,1.0,L,N,QF,44.0,QF44,N,-
+Elkanah,G,L,5.0,5.0,1.0,L,N,QF,44.0,QF44,N,-
+The_God_King,G,L,-,-,0.0,S,N,QF,44.0,QF44,N,-
+Elandera,G,L,2.0,2.0,1.0,E,N,QF,44.0,QF44,N,-
+Lord_Silberfarben,G,L,-,-,0.0,S,N,QF,44.0,QF44,N,-
+BrightnessRadiant,G,L,4.0,4.0,1.0,E,N,QF,44.0,QF44,N,-
+Kynedath,G,L,3.0,3.0,1.0,E,N,QF,44.0,QF44,N,-
+Kidpen,G,L,7.0,7.0,1.0,L,N,QF,44.0,QF44,N,-
+A Joe in the Bush,G,L,6.0,6.0,1.0,F,N,QF,44.0,QF44,N,-
+Elbereth,E,W,-,-,0.0,S,N,QF,44.0,QF44,N,-
+The_Archivist,E,W,-,-,0.0,I,Y,QF,44.0,QF44,N,-
+Mist,G,L,3.0,3.0,1.0,L,N,QF,44.0,QF44,N,-
+Sart,E,W,-,-,0.0,S,N,QF,44.0,QF44,N,-
+Zillah,E,W,-,-,0.0,S,N,QF,44.0,QF44,N,-
+Cadmium Compounder,G,L,6.0,7.0,2.0,E,N,QF,44.0,QF44,N,-
+Drake Marshall,G,L,8.0,8.0,1.0,L,N,QF,44.0,QF44,N,-
+Amanuensis,G,L,-,-,0.0,I,Y,QF,44.0,QF44,N,-
+Arraenae,E,W,1.0,1.0,1.0,L,N,QF,44.0,QF44,N,-
+Megasif,G,L,8.0,8.0,1.0,E,N,QF,44.0,QF44,N,-
+Furamirionind,G,L,5.0,5.0,1.0,E,N,QF,44.0,QF44,N,-
+Straw,E,W,2.0,2.0,1.0,L,N,MR,42.0,MR42,N,Role Cop
+Lord_Silberfarben,E,W,7.0,7.0,1.0,L,N,MR,42.0,MR42,N,Roleblock
+xinoehp512,G,L,4.0,10.0,2.0,E,N,MR,42.0,MR42,N,Double Life
+Elkanah,G,L,3.0,3.0,1.0,L,N,MR,42.0,MR42,N,Vote Cancel
+EXPERIENCE,E,W,9.0,9.0,1.0,L,N,MR,42.0,MR42,N,Doctor
+Shard of Reading,E,W,6.0,6.0,1.0,L,N,MR,42.0,MR42,N,Vote Cancel
+Coda,E,W,-,-,-,S,N,MR,42.0,MR42,N,Misc
+Kynedath,G,L,7.0,7.0,1.0,E,N,MR,42.0,MR42,N,Role Cop
+Matrim's_Dice,G,L,10.0,10.0,1.0,E,N,MR,42.0,MR42,N,Jack of All Trades
+Zillah,G,L,10.0,10.0,1.0,L,N,MR,42.0,MR42,N,Role Cop
+The_Archivist,G,L,11.0,11.0,1.0,L,N,MR,42.0,MR42,N,Kill
+Karnage,G,L,1.0,3.0,3.0,M,N,MR,42.0,MR42,N,Alignment Cop
+StrikerEZ,G,L,2.0,2.0,1.0,F,N,MR,42.0,MR42,N,Jack of All Trades
+Mist,E,W,-,-,-,S,N,MR,42.0,MR42,N,Redirect
+Emi,G,L,11.0,11.0,1.0,E,N,MR,42.0,MR42,N,Action Cop
+BrightnessRadiant,E,W,-,-,-,S,N,MR,42.0,MR42,N,Misc
+Devotary of Spontaneity,G,L,7.0,7.0,1.0,M,N,MR,42.0,MR42,N,Action Cop
+The_God_King,G,L,-,-,-,S,N,MR,42.0,MR42,N,Roleblock
+The Young Pyromancer,E,W,5.0,5.0,1.0,L,N,MR,42.0,MR42,N,Action Cop
+Orlok Tsubodai,G,L,2.0,2.0,1.0,E,N,MR,42.0,MR42,N,Role Cop
+Arraenae,G,L,3.0,3.0,1.0,E,N,MR,42.0,MR42,N,Misc
+Dot,G,L,-,-,0.0,I,Y,MR,42.0,MR42,N,Misc
+Hammond42,G,L,-,-,0.0,I,Y,MR,42.0,MR42,N,Double Life
+Hemalurgic Headshot,G,L,4.0,4.0,1.0,L,N,MR,42.0,MR42,N,Redirect
+little wilson,G,L,6.0,6.0,1.0,E,N,MR,42.0,MR42,N,Vote Change
+DeTess,G,L,5.0,8.0,2.0,M,N,MR,42.0,MR42,N,Double Life
+Bugsy,M,L,4.0,8.0,3.0,L,N,MR,42.0,MR42,N,Serial Killer
+Furamirionind,E,W,2.0,2.0,1.0,V,N,MR,42.0,MR42,N,Misc
+Araris Valerian,G,L,1.0,1.0,1.0,E,N,MR,42.0,MR42,N,Misc
+Sart,G,L,8.0,8.0,1.0,E,N,MR,42.0,MR42,N,Vote Cancel
+TJ Shade,G,L,6.0,6.0,1.0,E,N,MR,42.0,MR42,N,Misc
+Megasif,G,L,8.0,9.0,2.0,E,N,MR,42.0,MR42,N,Double Life
+Karnage,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Lord_Silberfarben,E,L,-,-,-,,N,LG,66.0,LG66,N,-
+Elkanah,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+The Young Pyromancer,E,L,-,-,-,,N,LG,66.0,LG66,N,-
+Shard of Reading,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+EXPERIENCE,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Lahilt,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Ventyl,E,L,-,-,-,,N,LG,66.0,LG66,N,-
+Coda,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Matrim's_Dice,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+TJ Shade,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Emi,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+xinoehp512,E,L,-,-,-,,N,LG,66.0,LG66,N,-
+Elandera,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Mist,E,L,-,-,-,,N,LG,66.0,LG66,N,-
+Drake Marshall,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Araris Valerian,M,L,-,-,-,,N,LG,66.0,LG66,N,-
+Devotary of Spontaneity,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Kynedath,E,L,-,-,-,,N,LG,66.0,LG66,N,-
+Walin,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Ashbringer,M,L,-,-,-,,N,LG,66.0,LG66,N,-
+The_God_King,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Magestar,G,W,-,-,-,,N,LG,66.0,LG66,N,-
+Gears,G,L,3.0,3.0,1.0,E,N,QF,45.0,QF45,N,-
+Matrim's_Dice,G,L,2.0,2.0,1.0,E,N,QF,45.0,QF45,N,-
+Ashbringer,E,W,-,-,0.0,S,N,QF,45.0,QF45,N,-
+Straw,G,L,-,-,0.0,S,N,QF,45.0,QF45,N,-
+Vapor,G,L,-,-,0.0,S,N,QF,45.0,QF45,N,-
+Shard of Reading,G,L,-,-,0.0,I,Y,QF,45.0,QF45,N,-
+Mist,G,L,4.0,4.0,1.0,L,N,QF,45.0,QF45,N,-
+Lord_Silberfarben,G,L,1.0,1.0,1.0,L,N,QF,45.0,QF45,N,-
+TJ Shade,G,L,5.0,5.0,1.0,E,N,QF,45.0,QF45,N,-
+The_Truthwatcher,G,L,7.0,7.0,1.0,L,N,QF,45.0,QF45,N,-
+Eternum,E,W,-,-,0.0,S,N,QF,45.0,QF45,N,-
+Lotus,G,L,7.0,7.0,1.0,E,N,QF,45.0,QF45,N,-
+The Young Pyromancer,G,L,2.0,2.0,1.0,L,N,QF,45.0,QF45,N,-
+EXPERIENCE,G,L,-,-,0.0,I,N,QF,45.0,QF45,N,-
+Frozen Mint,E,W,6.0,6.0,1.0,L,N,QF,45.0,QF45,N,-
+Ventyl,G,L,3.0,3.0,1.0,L,N,QF,45.0,QF45,N,-
+Fifth Scholar,E,W,-,-,0.0,S,N,QF,45.0,QF45,N,-
+Devotary of Spontaneity,G,L,5.0,5.0,1.0,L,N,QF,45.0,QF45,N,-
+xinoehp512,G,L,1.0,1.0,1.0,E,N,QF,45.0,QF45,N,-
+StrikerEZ,G,L,6.0,6.0,1.0,E,N,QF,45.0,QF45,N,-
+Lahilt,G,L,4.0,4.0,1.0,E,N,QF,45.0,QF45,N,-
+Roadwalker,G,L,-,-,0.0,I,Y,QF,45.0,QF45,N,-
+A Joe in the Bush,G,L,3.0,3.0,1.0,E,N,LG,67.0,LG67,N,-
+Araris Valerian,E,W,-,-,0.0,S,N,LG,67.0,LG67,N,-
+Ashbringer,G,L,2.0,2.0,1.0,E,N,LG,67.0,LG67,N,-
+Devotary of Spontaneity,G,L,-,-,0.0,S,N,LG,67.0,LG67,N,-
+Elbereth,G,L,4.0,4.0,1.0,E,N,LG,67.0,LG67,N,-
+Eternum,G,L,3.0,3.0,1.0,L,N,LG,67.0,LG67,N,-
+Fifth Scholar,G,L,-,-,0.0,I,Y,LG,67.0,LG67,N,-
+Frozen Mint,E,W,-,-,0.0,S,N,LG,67.0,LG67,N,-
+Gears,G,L,4.0,4.0,1.0,L,N,LG,67.0,LG67,N,-
+Illwei,G,L,-,-,0.0,S,N,LG,67.0,LG67,N,-
+Kynedath,G,L,-,-,0.0,S,N,LG,67.0,LG67,N,-
+Lahilt,G,L,5.0,5.0,1.0,L,N,LG,67.0,LG67,N,-
+Lord_Silberfarben,E,W,-,-,0.0,S,N,LG,67.0,LG67,N,-
+Magestar,E,W,-,-,0.0,S,N,LG,67.0,LG67,N,-
+Matrim's_Dice,G,L,6.0,6.0,1.0,E,N,LG,67.0,LG67,N,-
+Orlok Tsubodai,G,L,7.0,7.0,1.0,L,N,LG,67.0,LG67,N,-
+Sart,G,L,1.0,1.0,1.0,E,N,LG,67.0,LG67,N,-
+StrikerEZ,E,W,1.0,1.0,1.0,L,N,LG,67.0,LG67,N,-
+The Young Pyromancer,G,L,6.0,6.0,1.0,L,N,LG,67.0,LG67,N,-
+The_Truthwatcher,G,L,-,-,0.0,S,N,LG,67.0,LG67,N,-
+TJ Shade,G,L,5.0,5.0,1.0,E,N,LG,67.0,LG67,N,-
+Ventyl,G,L,2.0,2.0,1.0,L,N,LG,67.0,LG67,N,-
+xinoehp512,E,W,-,-,0.0,S,N,LG,67.0,LG67,N,-
+Zillah,E,W,-,-,0.0,S,N,LG,67.0,LG67,N,-
+shanerockes,G,L,-,-,0.0,S,N,LG,67.0,LG67,N,-
+TJ Shade,G,L,-,-,0.0,S,N,MR,43.0,MR43,N,-
+Gears,G,L,4.0,4.0,1.0,L,N,MR,43.0,MR43,N,-
+Orlok Tsubodai,E,W,-,-,0.0,S,N,MR,43.0,MR43,N,-
+StrikerEZ,G,L,5.0,5.0,1.0,E,N,MR,43.0,MR43,N,-
+Eternum,G,L,-,-,0.0,I,Y,MR,43.0,MR43,N,-
+Mist,G,L,5.0,5.0,1.0,E,N,MR,43.0,MR43,N,-
+Elbereth,G,L,-,-,0.0,I,Y,MR,43.0,MR43,N,-
+Vapor,G,L,3.0,3.0,1.0,L,N,MR,43.0,MR43,N,-
+Araris Valerian,G,L,2.0,2.0,1.0,E,N,MR,43.0,MR43,N,-
+Lord_Silberfarben,G,L,2.0,2.0,1.0,L,N,MR,43.0,MR43,N,-
+Burnt Spaghetti,E,W,-,-,0.0,S,N,MR,43.0,MR43,N,-
+Lotus,G,L,5.0,5.0,1.0,E,N,MR,43.0,MR43,N,-
+The_Truthwatcher,G,L,-,-,0.0,S,N,MR,43.0,MR43,N,-
+xinoehp512,G,L,5.0,5.0,1.0,L,N,MR,43.0,MR43,N,-
+Lahilt,E,W,5.0,5.0,1.0,V,N,MR,43.0,MR43,N,-
+Drake Marshall,E,W,-,-,0.0,S,N,MR,43.0,MR43,N,-
+Wind,G,L,3.0,3.0,1.0,E,N,MR,43.0,MR43,N,-
+Devotary of Spontaneity,G,L,4.0,4.0,1.0,E,N,MR,43.0,MR43,N,-
+Ashbringer,G,W,2.0,2.0,1.0,L,N,QF,46.0,QF46,N,-
+Haelbarde,E,L,4.0,4.0,1.0,L,N,QF,46.0,QF46,N,-
+Kasimir,G,W,4.0,4.0,1.0,E,N,QF,46.0,QF46,N,-
+Devotary of Spontaneity,G,W,5.0,5.0,1.0,L,N,QF,46.0,QF46,N,-
+TJ Shade,G,W,3.0,3.0,1.0,E,N,QF,46.0,QF46,N,-
+Lord_Silberfarben,E,L,6.0,6.0,1.0,L,N,QF,46.0,QF46,N,-
+Young Bard,S,W,5.0,5.0,1.0,E,N,QF,46.0,QF46,N,-
+Gears,G,W,2.0,2.0,1.0,E,N,QF,46.0,QF46,N,-
+Straw,G,W,1.0,1.0,1.0,E,N,QF,46.0,QF46,N,-
+Matrim's_Dice,G,W,4.0,4.0,1.0,L,N,QF,46.0,QF46,N,-
+xinoehp512,S,W,2.0,2.0,1.0,L,N,QF,46.0,QF46,N,-
+Mist,S,W,7.0,7.0,1.0,L,N,QF,46.0,QF46,N,-
+StrikerEZ,S,W,6.0,6.0,1.0,L,N,QF,46.0,QF46,N,-
+The Young Pyromancer,G,W,-,-,0.0,S,N,QF,46.0,QF46,N,-
+Lotus,S,W,1.0,1.0,1.0,L,N,QF,46.0,QF46,N,-
+Drake Marshall,S,W,3.0,3.0,1.0,L,N,QF,46.0,QF46,N,-
+Vapor,G,W,3.0,3.0,1.0,L,N,QF,46.0,QF46,N,-
+Frozen Mint,G,W,1.0,1.0,1.0,L,N,QF,46.0,QF46,N,-
+Sart,G,W,6.0,6.0,1.0,E,N,QF,46.0,QF46,N,-
+Illwei,E,L,7.0,7.0,1.0,L,N,QF,46.0,QF46,N,-
+Elkanah,E,L,5.0,5.0,1.0,L,N,QF,46.0,QF46,N,-
+Gears,G,W,2.0,2.0,1.0,E,N,LG,68.0,LG68,N,-
+Ashbringer,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+The Young Pyromancer,G,W,2.0,2.0,1.0,L,N,LG,68.0,LG68,N,-
+Teft the mosshead,G,W,-,-,0.0,I,Y,LG,68.0,LG68,N,-
+Matrim's_Dice,E,L,5.0,5.0,1.0,L,N,LG,68.0,LG68,N,-
+Araris Valerian,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+Lord_Silberfarben,G,W,1.0,1.0,1.0,E,N,LG,68.0,LG68,N,-
+TJ Shade,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+Straw,E,L,4.0,4.0,1.0,L,N,LG,68.0,LG68,N,-
+Mist,G,W,1.0,1.0,1.0,L,N,LG,68.0,LG68,N,-
+Frozen Mint,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+Lotus,G,W,4.0,4.0,1.0,E,N,LG,68.0,LG68,N,-
+Illwei,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+Vapor,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+Kasimir,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+Sart,G,W,3.0,3.0,1.0,E,N,LG,68.0,LG68,N,-
+Lahilt,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+Devotary of Spontaneity,E,L,3.0,3.0,1.0,L,N,LG,68.0,LG68,N,-
+StrikerEZ,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+Elandera,G,W,-,-,0.0,S,N,LG,68.0,LG68,N,-
+A Joe in the Bush,E,W,-,-,0.0,S,N,MR,44.0,MR44,N,-
+Araris Valerian,E,W,-,-,0.0,S,N,MR,44.0,MR44,N,-
+Elandera,G,L,1.0,1.0,1.0,E,N,MR,44.0,MR44,N,-
+Elkanah,G,L,3.0,3.0,1.0,E,N,MR,44.0,MR44,N,-
+Gears,G,L,2.0,2.0,1.0,L,N,MR,44.0,MR44,N,-
+Illwei,G,L,2.0,2.0,1.0,F,N,MR,44.0,MR44,N,-
+Lord_Silberfarben,G,L,-,-,0.0,S,N,MR,44.0,MR44,N,-
+Matrim's_Dice,G,L,2.0,2.0,1.0,E,N,MR,44.0,MR44,N,-
+STINK,G,L,4.0,4.0,1.0,L,N,MR,44.0,MR44,N,-
+Sart,G,L,4.0,4.0,1.0,E,N,MR,44.0,MR44,N,-
+Sorana,G,L,5.0,5.0,1.0,E,N,MR,44.0,MR44,N,-
+Vapor,E,W,3.0,3.0,1.0,L,N,MR,44.0,MR44,N,-
+xinoehp512,G,L,5.0,5.0,1.0,L,N,MR,44.0,MR44,N,-
+Illwei,E,W,-,-,0.0,S,N,LG,69.0,LG69,N,-
+Elkanah,G,L,7.0,7.0,1.0,L,N,LG,69.0,LG69,N,-
+The Young Pyromancer,G,L,6.0,6.0,1.0,E,N,LG,69.0,LG69,N,-
+Ashbringer,G,L,6.0,6.0,1.0,L,N,LG,69.0,LG69,N,-
+Lord_Silberfarben,G,L,5.0,5.0,1.0,E,N,LG,69.0,LG69,N,-
+Kynedath,E,W,5.0,5.0,1.0,L,N,LG,69.0,LG69,N,-
+Sart,G,L,4.0,4.0,1.0,E,N,LG,69.0,LG69,N,-
+Frozen Mint,G,L,4.0,4.0,1.0,L,N,LG,69.0,LG69,N,-
+Lotus,G,L,3.0,3.0,1.0,E,N,LG,69.0,LG69,N,-
+Matrim's_Dice,G,L,3.0,3.0,1.0,E,N,LG,69.0,LG69,N,-
+Experience,E,W,3.0,3.0,1.0,L,N,LG,69.0,LG69,N,-
+TJ Shade,G,L,2.0,2.0,1.0,E,N,LG,69.0,LG69,N,-
+Vapor,E,W,2.0,2.0,1.0,L,N,LG,69.0,LG69,N,-
+Elandera,G,L,1.0,1.0,1.0,E,N,LG,69.0,LG69,N,-
+Mist,G,L,1.0,1.0,1.0,L,N,LG,69.0,LG69,N,-
+Lord_Silberfarben,N,L,3.0,9.0,3.0,N,N,QF,47.0,QF47,N,-
+Matrim's_Dice,N,L,2.0,2.0,1.0,N,N,QF,47.0,QF47,N,-
+Gears,N,L,5.0,5.0,2.0,N,N,QF,47.0,QF47,N,-
+Vapor,N,W,5.0,-,3.0,S,N,QF,47.0,QF47,N,-
+Elkanah,N,L,3.0,3.0,1.0,N,N,QF,47.0,QF47,N,-
+Straw,N,L,3.0,4.0,3.0,N,N,QF,47.0,QF47,N,-
+Illwei,N,L,4.0,4.0,1.0,N,N,QF,47.0,QF47,N,-
+Experience,N,L,2.0,2.0,1.0,N,N,QF,47.0,QF47,N,-
+TJ Shade,N,L,5.0,5.0,2.0,N,N,QF,47.0,QF47,N,-
+JesterLavorre,N,L,8.0,8.0,2.0,N,N,QF,47.0,QF47,N,-
+Butt Ad Venture,N,L,6.0,6.0,1.0,N,N,QF,47.0,QF47,N,-
+Ashbringer,N,L,4.0,4.0,1.0,N,N,QF,47.0,QF47,N,-
+Orlok Tsubodai,N,L,2.0,2.0,1.0,N,N,QF,47.0,QF47,N,-
+Shard of Reading,N,L,1.0,1.0,1.0,N,N,QF,47.0,QF47,N,-
+Frozen Mint,N,L,8.0,9.0,2.0,N,N,QF,47.0,QF47,N,-
+Kings_way,N,L,7.0,9.0,2.0,N,N,QF,47.0,QF47,N,-
+Ventyl,N,L,8.0,8.0,1.0,N,N,QF,47.0,QF47,N,-
+xinoehp512,G,L,-,-,0.0,S,N,LG,70.0,LG70,N,-
+Lotus,G,L,-,-,0.0,S,N,LG,70.0,LG70,N,-
+Vapor,G,L,6.0,6.0,1.0,E,N,LG,70.0,LG70,N,-
+Butt Ad Venture,G,L,-,-,0.0,S,N,LG,70.0,LG70,N,-
+Kings_way,E,W,-,-,0.0,S,N,LG,70.0,LG70,N,-
+Matrim's_Dice,E,W,-,-,0.0,S,N,LG,70.0,LG70,N,-
+Ashbringer,E,W,-,-,0.0,S,N,LG,70.0,LG70,N,-
+Elkanah,M,L,3.0,6.0,4.0,L,N,LG,70.0,LG70,N,-
+Lord_Silberfarben,G,L,5.0,5.0,1.0,L,N,LG,70.0,LG70,N,-
+Mist,G,L,4.0,4.0,1.0,L,N,LG,70.0,LG70,N,-
+Ventyl,E,W,3.0,3.0,1.0,L,N,LG,70.0,LG70,N,-
+TJ Shade,G,L,2.0,2.0,1.0,E,N,LG,70.0,LG70,N,-
+Illwei,G,L,2.0,2.0,1.0,L,N,LG,70.0,LG70,N,-
+Devotary of Spontaneity,G,L,1.0,1.0,1.0,E,N,LG,70.0,LG70,N,-
+Gears,G,L,1.0,1.0,1.0,L,N,LG,70.0,LG70,N,-
+Lord_Silberfarben,G,L,1.0,1.0,1.0,E,N,MR,45.0,MR45,N,-
+Ashbringer,E,W,-,-,0.0,S,N,MR,45.0,MR45,N,-
+Elkanah,E,W,3.0,3.0,1.0,L,N,MR,45.0,MR45,N,-
+Kings_way,G,L,-,-,0.0,S,N,MR,45.0,MR45,N,-
+Shard of Reading,G,L,1.0,1.0,1.0,L,N,MR,45.0,MR45,N,-
+Gears,G,L,-,-,0.0,S,N,MR,45.0,MR45,N,-
+Matrim's_Dice,G,L,-,-,0.0,S,N,MR,45.0,MR45,N,-
+Ghanderflaffle,G,L,1.0,1.0,1.0,F,N,MR,45.0,MR45,N,-
+Vapor,G,L,2.0,2.0,1.0,E,N,MR,45.0,MR45,N,-
+JesterLavorre,G,L,2.0,2.0,1.0,L,N,MR,45.0,MR45,N,-
+The Windrunner Supreme,G,L,5.0,5.0,1.0,L,N,MR,45.0,MR45,N,-
+eltruT,E,W,4.0,4.0,1.0,L,N,MR,45.0,MR45,N,-
+Straw,G,L,-,-,0.0,S,N,MR,45.0,MR45,N,-
+Frozen Mint,G,L,5.0,5.0,1.0,E,N,MR,45.0,MR45,N,-
+CadCom,E,W,-,-,0.0,S,N,MR,45.0,MR45,N,-
+Illwei,G,L,4.0,4.0,1.0,E,N,MR,45.0,MR45,N,-
+Wind,G,L,8.0,8.0,1.0,L,N,LG,71.0,LG71,N,-
+Amanuensis,G,L,4.0,4.0,1.0,E,N,LG,71.0,LG71,N,-
+Araris Valerian,E,W,-,-,0.0,S,N,LG,71.0,LG71,N,-
+Ashbringer,E,W,4.0,4.0,1.0,L,N,LG,71.0,LG71,N,-
+Condensation,G,L,-,-,0.0,S,N,LG,71.0,LG71,N,-
+Danex,G,L,-,-,0.0,S,N,LG,71.0,LG71,N,-
+Devotary of Spontaneity,G,L,3.0,3.0,1.0,E,N,LG,71.0,LG71,N,-
+Elandera,G,L,2.0,2.0,1.0,L,N,LG,71.0,LG71,N,-
+Elkanah,G,L,-,-,0.0,I,Y,LG,71.0,LG71,N,-
+eltruT,G,L,3.0,3.0,1.0,F,N,LG,71.0,LG71,N,-
+Experience,G,L,6.0,6.0,1.0,L,N,LG,71.0,LG71,N,-
+Flyingbooks42,E,W,-,-,0.0,S,N,LG,71.0,LG71,N,-
+Gears,G,L,1.0,1.0,1.0,E,N,LG,71.0,LG71,N,-
+Illwei,G,L,2.0,5.0,2.0,E,N,LG,71.0,LG71,N,-
+Lord_Silberfarben,E,W,-,-,0.0,S,N,LG,71.0,LG71,N,-
+Mist,E,W,6.0,-,2.0,S,N,LG,71.0,LG71,N,-
+Orlok Tsubodai,G,L,-,-,0.0,I,Y,LG,71.0,LG71,N,-
+Shard of Reading,G,L,3.0,3.0,1.0,L,N,LG,71.0,LG71,N,-
+The Windrunner Supreme,E,W,-,-,0.0,S,N,LG,71.0,LG71,N,-
+TJ Shade,G,L,7.0,7.0,1.0,E,N,LG,71.0,LG71,N,-
+Vapor,G,L,-,-,0.0,S,N,LG,71.0,LG71,N,-
+Ventyl,G,L,1.0,1.0,1.0,L,N,LG,71.0,LG71,N,-
+Whysper,G,L,-,-,0.0,S,N,LG,71.0,LG71,N,-
+Lotus,G,L,5.0,5.0,1.0,L,N,LG,71.0,LG71,N,-
+Burnt Spaghetti,G,L,-,-,0.0,S,N,LG,71.0,LG71,N,-
+Lord_Silberfarben,G,L,-,-,0.0,S,N,QF,48.0,QF48,N,-
+Matrim's_Dice,E,W,-,-,0.0,S,N,QF,48.0,QF48,N,-
+Gears,G,L,4.0,4.0,1.0,L,N,QF,48.0,QF48,N,-
+Ghanderflaffle,E,W,-,-,0.0,S,N,QF,48.0,QF48,N,-
+Lotus,G,L,-,-,0.0,S,N,QF,48.0,QF48,N,-
+Condensation,G,L,-,-,0.0,S,N,QF,48.0,QF48,N,-
+Kings_way,G,L,-,-,0.0,S,N,QF,48.0,QF48,N,-
+Somebody From Sel,G,L,2.0,2.0,1.0,E,N,QF,48.0,QF48,N,-
+JesterLavorre,G,L,2.0,2.0,1.0,L,N,QF,48.0,QF48,N,-
+Quinn0928,E,W,-,-,0.0,S,N,QF,48.0,QF48,N,-
+Illwei,G,L,3.0,3.0,1.0,E,N,QF,48.0,QF48,N,-
+Alvron,G,L,3.0,3.0,1.0,L,N,QF,48.0,QF48,N,-
+eltruT,E,W,-,-,0.0,S,N,QF,48.0,QF48,N,-
+Ashbringer,G,L,1.0,1.0,1.0,E,N,QF,48.0,QF48,N,-
+Shard of Reading,E,W,-,-,0.0,S,N,QF,48.0,QF48,N,-
+The Windrunner Supreme,G,L,4.0,4.0,1.0,E,N,QF,48.0,QF48,N,-
+Ventyl,G,L,-,-,0.0,S,N,QF,48.0,QF48,N,-
+Experience,G,L,1.0,1.0,1.0,L,N,QF,48.0,QF48,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
+,0,0,-,-,-,,N,,,,N,-
