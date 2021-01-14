@@ -28,127 +28,207 @@ function init_games() {
     var myFormat = d3.select('#selFormat').property('value');
     var myComplexity = d3.select('#selComplexity').property('value');
     var mySetting = d3.select('#selSetting').property('value');
+    var myIM = d3.select('#selIM').property('value');
+    var myBroken = d3.select('#selBroken').property('value');
+    var myGM = d3.select('#selGM').property('value');
 
-    console.log(`check for dropdown pulling: ${myFormat}`);
+    //console.log(`check for dropdown pulling: ${myGM}`);
 
 
 
     // pull data and filter appropriately
     d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/gamedata.json').then(function(initdata) {
-        console.log(`check for file pulling: ${initdata[0]}`);
-        
-        var gamedata = initdata;
-        if (myFormat !== 'All') {
-            gamedata = gamedata.filter(d => d.format === myFormat);
-        };
-        if (myComplexity !== 'All') {
-            gamedata = gamedata.filter(d => d.complexity === myComplexity);
-        };
-        if (mySetting !== 'All') {
-            gamedata = gamedata.filter(d => d.setting === mySetting);
-        };
-        // other filters 
-
-        // should print # of games you're looking at somewhere
+        //console.log(`check for game pulling: ${initdata[0]}`);
 
 
-        // pull standard variables
-        var game_ids = gamedata.map(d => d.game_id);
-        var game_names = gamedata.map(d => d.game_str);
-        var n_players = gamedata.map(d => d.num_players);
-        
+        d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/playerdata.json').then(function(playerdata) {
 
-        // SURVIVE PER GAME BAR
-        var n_survive = gamedata.map(d => d.status_counts).map(e => e.S_death)
-        var n_dead = [];
-        for(var i=0; i <= n_players.length; i++) {
-            n_dead.push(n_players[i] - n_survive[i]);
-        }
+            d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/nonplayerdata.json').then(function(npdata) {
 
-        SpGBars(game_names, n_dead, n_survive, game_names, 'bar-num-survive');
+                var np_id_list = npdata.map(d => d.player_id);
+                var np_name_list = npdata.map(d => d.player_name);
+                
+            
+                var player_id_list1 = np_id_list.concat(playerdata.map(d => d.player_id));
+                var player_name_list1 = np_name_list.concat(playerdata.map(d => d.player_name));
 
-     // drawBarPlot(game_ids, n_survive, game_names, 'bar-num-survive', '# Survived per Game');
-        // var nVsurvive = gamedata.map(d => [d.game_id, d.alignment_counts.G, d.game_str])
-        // need better data - pull players or flatten this one
-        // maybe stacked, num survived per game and num played? 
+                
 
+                var player_id_list = [... new Set(player_id_list1)];
+                var player_name_list = [... new Set(player_name_list1)];
+                
+                var player_dict = player_id_list.map((d, i) => {
+                    return {'name': player_name_list[i], 'id': d};
+                });
 
+                var gm_list_messy = initdata.map(d => d.gm);
 
+                var gm_list_redundant = [];
+                gm_list_messy.forEach(gms => {
+                    gms.forEach(currGM => {
+                        gm_list_redundant.push(currGM)
+                    })
+                });
 
-        // ----------- OUTCOMES -----------------
-        // AVERAGE OUTCOME LENGTH BAR
-        var outcome_stuff = value_counts(gamedata.map(d => d.winner));
-        var x_val = outcome_stuff[0];
+                var gmDropdown = d3.select("#selGM");
 
-        var y_val = [];
-        x_val.forEach(x => {
-            var outcome_data = gamedata.filter(d => d.winner === x);
-            var totals = outcome_data.map(d => d.length);
-            var result = d3.mean(totals);
-            y_val.push(result);
-        })
+                gm_list_clean = [... new Set(gm_list_redundant)]; 
+                
+                gmDropdown.selectAll('option').remove();
+                gmDropdown.append('option').text('All');
+         
 
-        // should really do color as dict but at moment ordering is: Elim, Village, Faction, FFA, Draw, Misc, No one
-        var outcome_colors = {'Eliminator': 'red', 'Village': 'green', 'Faction': 'purple', 'Free For All': 'yellow', 'Draw': 'gray', 'Misc': 'orange', 'No One': 'black', undefined: 'blue'};
+                gm_list_clean.forEach(gm => {
 
-        var lvbar_cols = x_val.map(d => outcome_colors[d]);
-
-        LVbar(x_val, y_val, lvbar_cols, 'outcomes-length');
-        
-
-        // OUTCOME PIE
-        var pie_colors = outcome_stuff[0].map(d => outcome_colors[d]);
-        pie_labels = outcome_stuff[0];
-
-        temp = pie_labels.pop();
-        if (temp !== undefined) {
-            pie_labels.push(temp);
-        } else {
-            pie_colors.pop();
-        }
-
-        outcomePie(outcome_stuff[1], outcome_stuff[0], pie_colors, 'outcome-pie');
+                    var currGM = gmDropdown.append('option');
+                    let gm_name = player_dict.filter(p => p.id === gm)[0].name;
+                    currGM.text(gm_name);
+                });
 
 
-        // Scatter plot of games v length colored by outcome
-        var game_lengths = gamedata.map(d => d.length);
-        
-       
-        var game_stuffs = gamedata.map(d => d.winner);
-        var my_colors = game_stuffs.map(d => outcome_colors[d]);
 
-        //drawScatter(game_ids, 'game', game_lengths, '# of cycles', game_names, 'length-outcome-scatter', 'Game Outcomes by Game Length', my_colors)
+                
+
+                // FILTERS: GM, Time period
+                var gamedata = initdata;
+                if (myFormat !== 'All') {
+                    gamedata = gamedata.filter(d => d.format === myFormat);
+                };
+                if (myComplexity !== 'All') {
+                    gamedata = gamedata.filter(d => d.complexity === myComplexity);
+                };
+                if (mySetting !== 'All') {
+                    gamedata = gamedata.filter(d => d.setting === mySetting);
+                };
+            
+                if (myIM !== 'All') {
+                    IM_id = player_dict.filter(d => d.name === myIM)[0].id;
+                    gamedata = gamedata.filter(d => d.mod === IM_id);
+                }
+                if (myBroken !== 'All') {
+                    if (myBroken === 'Not Broken') {
+                        gamedata = gamedata.filter(d => d.broken);
+                    } else {
+                        gamedata = gamedata.filter(d => !d.broken);
+                    }
+                }
+                if (myGM !== 'All') {
+                    gmDropdown.property('value', myGM);
+
+                    GM_id = player_dict.filter(d => d.name === myGM)[0].id;
+                    
+                    gamedata = gamedata.filter(d => {
+                        console.log(d.gm);
+                        d.gm.includes(GM_id);
+                    })
+                    
+                }
 
 
-        // -----stuff-------------
-        // Survival % vs evil %
-        var survival_perc = gamedata.map(d => (d.status_counts.S_death / d.num_players)*100);
-        var evil_perc = gamedata.map(d => (d.alignment_counts.E / d.num_players)*100);
-        drawScatter(survival_perc, '% survived', evil_perc, '% evil', game_names, 'survival-evil-perc', 'survival percent vs evil percent', my_colors);
+                // should print # of games you're looking at somewhere
 
 
-        // length vs evil %
-        drawScatter(game_lengths, '# of cycles', evil_perc, '% evil', game_names, 'length-evil-perc', 'evil percent by length', my_colors);
+                // pull standard variables
+                var game_ids = gamedata.map(d => d.game_id);
+                var game_names = gamedata.map(d => d.game_str);
+                var n_players = gamedata.map(d => d.num_players);
+                
 
-        var evilsfiltered = gamedata.filter(d => d.alignment_counts.E !== undefined);
-        var eviltest = evilsfiltered.map(d => {
-            let evils = d.alignment_counts.E;
-            if (evils !== undefined) {
-                let evil_perc = (evils / d.num_players)*100;
-                return {'game_id':d.game_id, 'game_name':d.game_str, 'outcome':d.winner, 'evil_perc':evil_perc};
-            } 
+                // SURVIVE PER GAME BAR
+                var n_survive = gamedata.map(d => d.status_counts).map(e => e.S_death)
+                var n_dead = [];
+                for(var i=0; i <= n_players.length; i++) {
+                    n_dead.push(n_players[i] - n_survive[i]);
+                }
+
+                SpGBars(game_names, n_dead, n_survive, game_names, 'bar-num-survive');
+
+            // drawBarPlot(game_ids, n_survive, game_names, 'bar-num-survive', '# Survived per Game');
+                // var nVsurvive = gamedata.map(d => [d.game_id, d.alignment_counts.G, d.game_str])
+                // need better data - pull players or flatten this one
+                // maybe stacked, num survived per game and num played? 
+
+
+
+
+                // ----------- OUTCOMES -----------------
+                // AVERAGE OUTCOME LENGTH BAR
+                var outcome_stuff = value_counts(gamedata.map(d => d.winner));
+                var x_val = outcome_stuff[0];
+
+                var y_val = [];
+                x_val.forEach(x => {
+                    var outcome_data = gamedata.filter(d => d.winner === x);
+                    var totals = outcome_data.map(d => d.length);
+                    var result = d3.mean(totals);
+                    y_val.push(result);
+                })
+
+                var outcome_colors = {'Eliminator': 'red', 'Village': 'green', 'Faction': 'purple', 'Free For All': 'yellow', 'Draw': 'gray', 'Misc': 'orange', 'No One': 'black', undefined: 'blue'};
+
+                var lvbar_cols = x_val.map(d => outcome_colors[d]);
+
+                LVbar(x_val, y_val, lvbar_cols, 'outcomes-length');
+                
+
+                // OUTCOME PIE
+                var pie_colors = outcome_stuff[0].map(d => outcome_colors[d]);
+                pie_labels = outcome_stuff[0];
+
+                temp = pie_labels.pop();
+                if (temp !== undefined) {
+                    pie_labels.push(temp);
+                } else {
+                    pie_colors.pop();
+                }
+
+                outcomePie(outcome_stuff[1], outcome_stuff[0], pie_colors, 'outcome-pie');
+
+
+                // Scatter plot of games v length colored by outcome
+                var game_lengths = gamedata.map(d => d.length);
+                
+            
+                var game_stuffs = gamedata.map(d => d.winner);
+                var my_colors = game_stuffs.map(d => outcome_colors[d]);
+
+                //drawScatter(game_ids, 'game', game_lengths, '# of cycles', game_names, 'length-outcome-scatter', 'Game Outcomes by Game Length', my_colors)
+
+
+                // -----stuff-------------
+                // Survival % vs evil %
+                var survival_perc = gamedata.map(d => (d.status_counts.S_death / d.num_players)*100);
+                var evil_perc = gamedata.map(d => (d.alignment_counts.E / d.num_players)*100);
+                drawScatter(survival_perc, '% survived', evil_perc, '% evil', game_names, 'survival-evil-perc', 'survival percent vs evil percent', my_colors);
+
+
+                // length vs evil %
+                drawScatter(game_lengths, '# of cycles', evil_perc, '% evil', game_names, 'length-evil-perc', 'evil percent by length', my_colors);
+
+                var evilsfiltered = gamedata.filter(d => d.alignment_counts.E !== undefined);
+                var eviltest = evilsfiltered.map(d => {
+                    let evils = d.alignment_counts.E;
+                    if (evils !== undefined) {
+                        let evil_perc = (evils / d.num_players)*100;
+                        return {'game_id':d.game_id, 'game_name':d.game_str, 'outcome':d.winner, 'evil_perc':evil_perc};
+                    } 
+                });
+
+                //console.log(eviltest);
+
+                x_dot = eviltest.map(d => d.evil_perc);
+                y_dot = eviltest.map(d => d.outcome);
+                y_labels = eviltest.map(d => d.game_name);
+
+                outcomeDot(x_dot, y_dot, 'outcome-evil-perc', y_labels);
+                // notes: add big dot for average; add colors
+
+                var num_inactives = gamedata.map(d => d.inactives);
+
+                inactivePlot(game_names, num_inactives, game_names, 'inactive-bar');
+            })
+
         });
-
-        console.log(eviltest);
-
-        x_dot = eviltest.map(d => d.evil_perc);
-        y_dot = eviltest.map(d => d.outcome);
-        y_labels = eviltest.map(d => d.game_name);
-
-        outcomeDot(x_dot, y_dot, 'outcome-evil-perc', y_labels);
-        // notes: add big dot for average; add colors
-
-        
     });
 };
 

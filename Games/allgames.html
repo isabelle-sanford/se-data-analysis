@@ -94,6 +94,41 @@
         </select>
       </div>
 
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">Impartial Moderator</label>
+        <select class="form-control form-control-lg" id="selIM" onchange="init_games()">
+          <option>All</option>
+          <option>little wilson</option>
+          <option>Meta</option>
+          <option>Gamma</option> 
+          <option>Alvron</option>
+          <option>Orlok Tsubodai</option>
+          <option>Fifth Scholar</option>
+          <option>Devotary of Spontaneity</option>
+          <option>Elbereth</option>
+          <option>Elandera</option>
+          <option>Araris Valerian</option>
+        </select>
+      </div>
+
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">Broken</label>
+        <select class="form-control form-control-lg" id="selBroken" onchange="init_games()">
+          <option>All</option>
+          <option>Broken</option>
+          <option>Not Broken</option> 
+        </select>
+      </div>
+
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">GM</label>
+        <select class="form-control form-control-lg" id="selGM" onchange="init_games()">
+          <option>All</option>
+        </select>
+      </div>
+
+
+
 
         <!-- <div class='card text-center border-primary bg-light'></div>
           <p>[other filters here]</p>
@@ -120,6 +155,9 @@
     <div class="row">
       <div class="col-md-6">
         <div id="outcome-evil-perc"></div>
+      </div>
+      <div class='col-md-6'>
+        <div id='inactive-bar'></div>
       </div>
     </div>
 

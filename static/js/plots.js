@@ -105,7 +105,23 @@ function outcomeDot(evil_percs, outcomes, div, labels) {
 }
 
 
-
+function inactivePlot(x_value, y_value, labels, div) {
+    let data_plot = [{
+        x: x_value,
+        y: y_value,
+        type: 'scatter',
+        mode: 'markers',
+        text: labels
+      }];
+  
+      let layout = {
+        title: 'Inactivity over time',
+        xaxis: {title: "Game"},
+        yaxis: {title: "# inactive players"}
+      };
+  
+      Plotly.newPlot(div, data_plot, layout);
+}
 
 
 
