@@ -117,7 +117,7 @@ function init_games() {
         var game_stuffs = gamedata.map(d => d.winner);
         var my_colors = game_stuffs.map(d => outcome_colors[d]);
 
-        drawScatter(game_ids, 'game', game_lengths, '# of cycles', game_names, 'length-outcome-scatter', 'Game Outcomes by Game Length', my_colors)
+        //drawScatter(game_ids, 'game', game_lengths, '# of cycles', game_names, 'length-outcome-scatter', 'Game Outcomes by Game Length', my_colors)
 
 
         // -----stuff-------------
@@ -142,10 +142,11 @@ function init_games() {
         console.log(eviltest);
 
         x_dot = eviltest.map(d => d.evil_perc);
-        y_dot = eviltest.map(d => d.winner);
+        y_dot = eviltest.map(d => d.outcome);
         y_labels = eviltest.map(d => d.game_name);
 
         outcomeDot(x_dot, y_dot, 'outcome-evil-perc', y_labels);
+        // notes: add big dot for average; add colors
 
         
     });

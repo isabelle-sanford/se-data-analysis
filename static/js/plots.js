@@ -81,6 +81,11 @@ function outcomeDot(evil_percs, outcomes, div, labels) {
 
         type: 'scatter', 
         mode: 'markers',
+        marker: {
+            color: 'blue',
+            symbol: 'circle',
+            size: 16
+        },
         text: labels
         // stuff
     };

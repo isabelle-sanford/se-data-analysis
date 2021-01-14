@@ -54,45 +54,38 @@
       </nav>
 
 
-
+<!-- note: change dropdowns to bootstrap dropdowns -->
   <div class="container">
     <div class="row">
-      <!-- <div class="col-md-10 jumbotron text-center">
-        <h1>SE stuff</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
-      </div> -->
 
-      <div class="col-md-2">
-        <!-- <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Filters</h3>
-          </div>
-          <div id="sample-metadata" class="panel-body"> -->
-        <p>Format: </p>
-        <select id="selFormat" onchange="init_games()">
-            <option>All</option>
-            <option>LG</option>
-            <option>MR</option>
-            <option>QF</option>
-            <option>AG</option>
-          </select>
+      <div class="form-group col">
+        <label for="exampleFormControlSelect1">Format</label>
+        <select class="form-control form-control-lg" id="selFormat" onchange="init_games()">
+          <option>All</option>
+          <option>LG</option>
+          <option>MR</option>
+          <option>QF</option>
+          <option>AG</option>
+        </select>
       </div>
+      <!-- note: add LG/AG combo -->
+      <!-- GROUP CHECKBOXES -->
 
-      <div class="col-md-2">
-        <p>Type: </p>
-        <select id="selComplexity" onchange="init_games()">
-            <option>All</option>
-            <option>Basic</option>
-            <option>Standard</option>
-            <option>Semi Standard</option>
-            <option>Complex</option>
-            <option>Faction/Free For All</option>
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">Type</label>
+        <select class="form-control form-control-lg" id="selComplexity" onchange="init_games()">
+          <option>All</option>
+          <option>Basic</option>
+          <option>Standard</option>
+          <option>Semi Standard</option>
+          <option>Complex</option>
+          <option>Faction/Free For All</option>
         </select>
       </div>
 
-      <div class='col-md-2'>
-        <p>Setting: </p>
-        <select id="selSetting" onchange="init_games()">
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">Setting</label>
+        <select class="form-control form-control-lg" id="selSetting" onchange="init_games()">
           <option>All</option>
           <option>Cosmere</option>
           <option>Non Cosmere</option> 
@@ -101,14 +94,16 @@
         </select>
       </div>
 
-      <div class='col-md-2'></div>
-        <p>[other filters here]</p>
-      </div>
+
+        <!-- <div class='card text-center border-primary bg-light'></div>
+          <p>[other filters here]</p>
+        </div> -->
+
     </div>
-  
+    
 
     <div class="row">
-      <div class="col-md-12 jumbotron">
+      <div class="col jumbotron">
         <div id="bar-num-survive"></div>
       </div>
     </div>
@@ -123,8 +118,8 @@
     </div>
 
     <div class="row">
-      <div class="col-md-12">
-        <div id="length-outcome-scatter"></div>
+      <div class="col-md-6">
+        <div id="outcome-evil-perc"></div>
       </div>
     </div>
 
@@ -136,7 +131,7 @@
         <div id='length-evil-perc'></div>
       </div>
       <div class='col-md-4'>
-        <div id='outcome-evil-perc'></div>
+        <div id='testing'></div>
       </div>
     </div>
   </div>
