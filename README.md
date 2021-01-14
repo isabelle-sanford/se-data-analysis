@@ -7,7 +7,6 @@ TO DO:
 
 
 - Filters - Checkboxes instead of dropdowns? 
-- Add table at bottom
 - Tabs? 
 - include number of games you're viewing somewhere - probably in header above dropdowns
 

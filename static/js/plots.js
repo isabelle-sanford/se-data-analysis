@@ -74,7 +74,7 @@ function outcomePie(values, labels, colors, div, title) {
 
 
 // DOT PLOT - evil % for each outcome
-function outcomeDot(evil_percs, outcomes, div, labels) {
+function outcomeDot(evil_percs, outcomes, mean_perc, mean_outcome, div, labels, colors) {
     let trace1 = {
         x:  evil_percs,
         y: outcomes,
@@ -82,15 +82,31 @@ function outcomeDot(evil_percs, outcomes, div, labels) {
         type: 'scatter', 
         mode: 'markers',
         marker: {
-            color: 'blue',
+            color: colors,
             symbol: 'circle',
-            size: 16
+            size: 15,
+            opacity: .5
+
         },
-        text: labels
+        text: labels,
+        name: 'evil percentage'
         // stuff
     };
 
-    let data = [trace1];
+    let trace2 = {
+        x: mean_perc,
+        y: mean_outcome,
+        type: 'scatter',
+        mode: 'markers', 
+        marker: {
+            color: 'black', 
+            symbol: 'star-diamond',
+            size: 18
+        },
+        name: 'average'
+    }
+
+    let data = [trace1, trace2];
 
     let layout = {
         title: "Evil Team Size by Outcome",
@@ -111,6 +127,9 @@ function inactivePlot(x_value, y_value, labels, div) {
         y: y_value,
         type: 'scatter',
         mode: 'markers',
+        marker: {
+            color: 'black'
+        },
         text: labels
       }];
   

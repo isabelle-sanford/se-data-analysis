@@ -121,7 +121,10 @@ function init_games() {
 
 
                 // should print # of games you're looking at somewhere
-
+                var num_games = gamedata.length;
+                var html_header = d3.select('#games-header');
+                html_header.select('p').remove();
+                html_header.append('p').text(`Currently viewing: ${num_games} games`);
 
 
                 // pull standard variables
@@ -201,7 +204,8 @@ function init_games() {
                 // length vs evil %
                 //drawScatter(game_lengths, '# of cycles', evil_perc, '% evil', game_names, 'length-evil-perc', 'evil percent by length', my_colors);
 
-                var evilsfiltered = gamedata.filter(d => d.alignment_counts.E !== undefined);
+                var evilsfiltered1 = gamedata.filter(d => d.alignment_counts.E !== undefined);
+                var evilsfiltered = evilsfiltered1.filter(d => d.winner !== "Misc" && d.winner !== "Faction");
                 var eviltest = evilsfiltered.map(d => {
                     let evils = d.alignment_counts.E;
                     if (evils !== undefined) {
@@ -216,8 +220,23 @@ function init_games() {
                 y_dot = eviltest.map(d => d.outcome);
                 y_labels = eviltest.map(d => d.game_name);
 
-                outcomeDot(x_dot, y_dot, 'outcome-evil-perc', y_labels);
+                var dot_outcomes = [... new Set(y_dot)];
+                var outcomes_avg = []
+                dot_outcomes.forEach(d => {
+                    curr_outcomes = eviltest.filter(e => e.outcome === d);
+                    curr_evilperc = curr_outcomes.map(f => f.evil_perc);
+                    curr_mean = d3.mean(curr_evilperc);
+                    outcomes_avg.push(curr_mean);
+                })
+
+                console.log(dot_outcomes);
+
+                var dot_colors = y_dot.map(d => outcome_colors[d]);
+                
+
+                outcomeDot(x_dot, y_dot, outcomes_avg, dot_outcomes, 'outcome-evil-perc', y_labels, dot_colors);
                 // notes: add big dot for average; add colors
+
 
                 var num_inactives = gamedata.map(d => d.inactives);
 
@@ -266,6 +285,7 @@ function init_games() {
                     Object.entries(game).forEach(function([key, value]) {
                         var cell = row.append("td");
                         cell.text(value);
+                        cell.style('color', outcome_colors[value]);
                     });
                 });
 
