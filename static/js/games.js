@@ -61,6 +61,7 @@ function init_games() {
                     return {'name': player_name_list[i], 'id': d};
                 });
 
+
                 var gm_list_messy = initdata.map(d => d.gm);
 
                 var gm_list_redundant = [];
@@ -113,15 +114,15 @@ function init_games() {
                     }
                 }
                 if (myGM !== 'All') {
+                    
                     gmDropdown.property('value', myGM);
 
                     GM_id = player_dict.filter(d => d.name === myGM)[0].id;
+                   
                     
-                    gamedata = gamedata.filter(d => {
-                        console.log(d.gm);
-                        d.gm.includes(GM_id);
-                    })
+                    gamedata = gamedata.filter(d => d.gm.includes(GM_id));
                     
+                    console.log(gamedata);
                 }
 
 
