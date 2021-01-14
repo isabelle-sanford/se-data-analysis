@@ -114,19 +114,14 @@ function init_games() {
                     }
                 }
                 if (myGM !== 'All') {
-                    
                     gmDropdown.property('value', myGM);
-
                     GM_id = player_dict.filter(d => d.name === myGM)[0].id;
-                   
-                    
-                    gamedata = gamedata.filter(d => d.gm.includes(GM_id));
-                    
-                    console.log(gamedata);
+                    gamedata = gamedata.filter(d => d.gm.includes(GM_id)); 
                 }
 
 
                 // should print # of games you're looking at somewhere
+
 
 
                 // pull standard variables
@@ -200,11 +195,11 @@ function init_games() {
                 // Survival % vs evil %
                 var survival_perc = gamedata.map(d => (d.status_counts.S_death / d.num_players)*100);
                 var evil_perc = gamedata.map(d => (d.alignment_counts.E / d.num_players)*100);
-                drawScatter(survival_perc, '% survived', evil_perc, '% evil', game_names, 'survival-evil-perc', 'survival percent vs evil percent', my_colors);
+                //drawScatter(survival_perc, '% survived', evil_perc, '% evil', game_names, 'survival-evil-perc', 'survival percent vs evil percent', my_colors);
 
 
                 // length vs evil %
-                drawScatter(game_lengths, '# of cycles', evil_perc, '% evil', game_names, 'length-evil-perc', 'evil percent by length', my_colors);
+                //drawScatter(game_lengths, '# of cycles', evil_perc, '% evil', game_names, 'length-evil-perc', 'evil percent by length', my_colors);
 
                 var evilsfiltered = gamedata.filter(d => d.alignment_counts.E !== undefined);
                 var eviltest = evilsfiltered.map(d => {
@@ -227,7 +222,58 @@ function init_games() {
                 var num_inactives = gamedata.map(d => d.inactives);
 
                 inactivePlot(game_names, num_inactives, game_names, 'inactive-bar');
-            })
+
+                var tbody = d3.select("tbody");
+                tbody.html("");
+
+                var tabledata = gamedata.map(d => {
+                    let mod_name = player_dict.filter(p => p.id === d.mod)[0];
+                    if (mod_name === undefined) {
+                        mod_name = "-";
+                    } else {
+                        mod_name = mod_name.name;
+                    }
+
+                    let gms_id = d.gm;
+                    let gm_names = [];
+                
+                    gms_id.forEach(gm => {
+                        curr_name = player_dict.filter(p => p.id === gm);
+                        gm_names.push(curr_name[0].name);
+                    });
+
+                    var is_broken = "Y";
+                    if (d.broken === 0) {
+                        is_broken = "N";
+                    }
+
+                    //console.log(mod_name);
+                    return [d.game_str, 
+                        gm_names.join(', '), 
+                        d.winner, 
+                        d.num_players, 
+                        d.status_counts.S_death, 
+                        d.complexity, 
+                        d.setting, 
+                        d.length, 
+                        is_broken, 
+                        mod_name,
+                        d.inactives];
+                });
+
+                tabledata.forEach(function(game) {
+                    let row = tbody.append("tr");
+                    Object.entries(game).forEach(function([key, value]) {
+                        var cell = row.append("td");
+                        cell.text(value);
+                    });
+                });
+
+                // TABLE
+                // game name,  gm, # of players, # survived, winner, broken, # inactives, complexity, setting, length, mod,
+
+
+            });
 
         });
     });

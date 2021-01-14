@@ -83,7 +83,7 @@
       <!-- GROUP CHECKBOXES -->
 
       <div class="form-group col">
-        <label for="exampleFormControlSelect2">Type</label>
+        <label for="exampleFormControlSelect2">Complexity</label>
         <select class="form-control form-control-lg" id="selComplexity" onchange="init_games()">
           <option>All</option>
           <option>Basic</option>
@@ -173,14 +173,26 @@
     </div>
 
     <div class='row'>
-      <div class='col-md-4'>
-        <div id='survival-evil-perc'> </div>
-      </div>
-      <div class='col-md-4'>
-        <div id='length-evil-perc'></div>
-      </div>
-      <div class='col-md-4'>
-        <div id='testing'></div>
+      <div class='col-md-12'>
+        <div id='curr-table'>
+          <table id="game-table" class="table table-striped">
+            <thead>
+              <tr>
+                <th class="table-head">Game</th>
+                <th class="table-head">GM(s)</th>
+                <th class="table-head">Winner</th>                
+                <th class="table-head">#_Players</th>
+                <th class="table-head">#_Survived</th>
+                <th class="table-head">Complexity</th>
+                <th class="table-head">Setting</th>
+                <th class="table-head">#_Cycles</th>
+                <th class="table-head">Broken</th>                                
+                <th class="table-head">IM</th>
+                <th class="table-head">#_Inactive</th>
+              </tr>
+            </thead>
+            <tbody class="tbod"></tbody>
+          </table> </div>
       </div>
     </div>
   </div>
