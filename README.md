@@ -4,11 +4,18 @@ Analysis of Sanderson Elimination statistics
 
 TO DO:
 - Change paths for all analysis outputs (done in to_mongo, tbd in ETL one) to account for moving them into Cleaning
+- Move cleaning/dataX into resources folder? 
+- Change Games & Player folders to be more clear about what they do?
+- Divide static folder into one for each page? 
+- what is the sqlite file here for
+- why are there 2 ToMongos
+- put this somewhere else and make a good readme file
+- about page
 
+__ __ __ 
 
 - Filters - Checkboxes instead of dropdowns? 
 - Tabs? 
-- include number of games you're viewing somewhere - probably in header above dropdowns
 
 - Bar plot: # surviving players vs game; color indicates what amount of each alignment was left alive
 - Fiddle with outcome/elim % dot plot
@@ -18,11 +25,14 @@ TO DO:
 - Modified sunburst diagram - pie chart that you can click to see the extent of one piece broken down
 - Maybe whole inactivity tab? 
 
+__ __ __ 
+
 Tab options: Outcomes, Broken, Inactivity, format? 
 
 filters: format, broken, mod, gm, winner, complexity, setting, length
 non-filters: game, # of players, alignments, outcomes, inactives, winner, length
 
+__ __ __
 
 Data collection stuff
 - Lot of Broken isn't filled in
