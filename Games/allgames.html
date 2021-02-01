@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>SE Stats - Games</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="../static/css/style.css">
 </head>
 
@@ -15,22 +15,20 @@
 
     <!-- NAVBAR HERE -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-        <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+        <a class="navbar-brand" href="#">SE Data Analysis</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
       
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
+
             <li class="nav-item">
-              <a class="nav-link" href="#">Games 1</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="#">About</span></a>
             </li>
             <li class="nav-item dropdown active">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Games
+                Games <span class="sr-only">(current)
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="Games/allgames.html">All Games</a>
@@ -54,58 +52,102 @@
       </nav>
 
 
-
-  <div class="container">
+<!-- note: change dropdowns to bootstrap dropdowns -->
+  <div class="container-fluid">
     <div class="row">
-      <div class="col-md-10 jumbotron text-center">
-        <h1>SE stuff</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
-      </div>
-
-      <div class="col-md-2">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Filters</h3>
-          </div>
-          <div id="sample-metadata" class="panel-body">
-            <p>Format: </p>
-            <select id="selFormat" onchange="init_games()">
-                <option>All</option>
-                <option>LG</option>
-                <option>MR</option>
-                <option>QF</option>
-                <option>AG</option>
-            </select>
-
-            <p>Type: </p>
-            <select id="selComplexity" onchange="init_games()">
-                <option>All</option>
-                <option>Basic</option>
-                <option>Standard</option>
-                <option>Semi Standard</option>
-                <option>Complex</option>
-                <option>Faction/Free For All</option>
-            </select>
-
-            <p>Setting: </p>
-            <select id="selSetting" onchange="init_games()">
-              <option>All</option>
-              <option>Cosmere</option>
-              <option>Non Cosmere</option> 
-              <option>Wheel of Time</option>
-              <option>Non Sanderson</option>
-          </select>
-
-            <h5>other filters here</h5>
-          </div>
-
-
+      <div class="col-12">
+        <div class="jumbotron text-center" id="games-header">
+          <h1>SE Game Stats</h1>
+          <!-- currently viewing stat -->
         </div>
       </div>
     </div>
 
+
+
     <div class="row">
-      <div class="col-md-12">
+
+      <div class="form-group col">
+        <label for="exampleFormControlSelect1">Format</label>
+        <select class="form-control form-control-lg" id="selFormat" onchange="init_games()">
+          <option>All</option>
+          <option>LG</option>
+          <option>MR</option>
+          <option>QF</option>
+          <option>AG</option>
+        </select>
+      </div>
+      <!-- note: add LG/AG combo -->
+      <!-- GROUP CHECKBOXES -->
+
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">Complexity</label>
+        <select class="form-control form-control-lg" id="selComplexity" onchange="init_games()">
+          <option>All</option>
+          <option>Basic</option>
+          <option>Standard</option>
+          <option>Semi Standard</option>
+          <option>Complex</option>
+          <option>Faction/Free For All</option>
+        </select>
+      </div>
+
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">Setting</label>
+        <select class="form-control form-control-lg" id="selSetting" onchange="init_games()">
+          <option>All</option>
+          <option>Cosmere</option>
+          <option>Non Cosmere</option> 
+          <option>Wheel of Time</option>
+          <option>Non Sanderson</option>
+        </select>
+      </div>
+
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">Impartial Moderator</label>
+        <select class="form-control form-control-lg" id="selIM" onchange="init_games()">
+          <option>All</option>
+          <option>little wilson</option>
+          <option>Meta</option>
+          <option>Gamma</option> 
+          <option>Alvron</option>
+          <option>Orlok Tsubodai</option>
+          <option>Fifth Scholar</option>
+          <option>Devotary of Spontaneity</option>
+          <option>Elbereth</option>
+          <option>Elandera</option>
+          <option>Araris Valerian</option>
+        </select>
+      </div>
+
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">Broken</label>
+        <select class="form-control form-control-lg" id="selBroken" onchange="init_games()">
+          <option>All</option>
+          <option>Broken</option>
+          <option>Not Broken</option> 
+        </select>
+      </div>
+
+      <div class="form-group col">
+        <label for="exampleFormControlSelect2">GM</label>
+        <select class="form-control form-control-lg" id="selGM" onchange="init_games()">
+          <option>All</option>
+        </select>
+      </div>
+
+
+
+
+        <!-- <div class='card text-center border-primary bg-light'></div>
+          <p>[other filters here]</p>
+        </div> -->
+
+    </div>
+    
+
+    <div class="row">
+      <div class="col jumbotron">
         <div id="bar-num-survive"></div>
       </div>
     </div>
@@ -120,17 +162,35 @@
     </div>
 
     <div class="row">
-      <div class="col-md-12">
-        <div id="length-outcome-scatter"></div>
+      <div class="col-md-6">
+        <div id="outcome-evil-perc"></div>
+      </div>
+      <div class='col-md-6'>
+        <div id='inactive-bar'></div>
       </div>
     </div>
 
     <div class='row'>
-      <div class='col-md-5'>
-        <div id='survival-evil-perc'> </div>
-      </div>
-      <div class='col-md-5'>
-        <div id='length-evil-perc'></div>
+      <div class='col-md-12'>
+        <div id='curr-table'>
+          <table id="game-table" class="table table-striped">
+            <thead>
+              <tr>
+                <th class="table-head">Game</th>
+                <th class="table-head">GM(s)</th>
+                <th class="table-head">Winner</th>                
+                <th class="table-head">#_Players</th>
+                <th class="table-head">#_Survived</th>
+                <th class="table-head">Complexity</th>
+                <th class="table-head">Setting</th>
+                <th class="table-head">#_Cycles</th>
+                <th class="table-head">Broken</th>                                
+                <th class="table-head">IM</th>
+                <th class="table-head">#_Inactive</th>
+              </tr>
+            </thead>
+            <tbody class="tbod"></tbody>
+          </table> </div>
       </div>
     </div>
   </div>
@@ -142,7 +202,7 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src='../static/js/games_test.js'></script>
+  <script src='../static/js/plots.js'></script>
   <script src="../static/js/games.js"></script>
   
 </body>
