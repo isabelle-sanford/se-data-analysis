@@ -28,3 +28,6 @@ Data collection stuff
 - Lot of Broken isn't filled in
 - scrape start and end dates from 17S
 - eventually also scrape votes, quicklinks, etc
+
+
+- Broken things: for conversion games, only first elim is counting
