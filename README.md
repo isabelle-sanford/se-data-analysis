@@ -1,46 +1,23 @@
 # se-data-analysis
 Analysis of Sanderson Elimination statistics 
 
+Page structure:
 
-TO DO:
-- Change paths for all analysis outputs (done in to_mongo, tbd in ETL one) to account for moving them into Cleaning
-- Move cleaning/dataX into resources folder? 
-- Change Games & Player folders to be more clear about what they do?
-- Divide static folder into one for each page? 
-- what is the sqlite file here for
-- why are there 2 ToMongos
-- put this somewhere else and make a good readme file
-- about page
-- Footer? 
-- way to pull navbar html automatically? (is it flask (sigh))
-    * Navbar has to be changed by folder
+`index.html` - about page. Contains information about me, SE, etc. 
 
-__ __ __ 
+## Games
 
-- Filters - Checkboxes instead of dropdowns? 
-- Tabs? 
+`allgames.html` - most fleshed-out page currently. Contains various visualizations, with six filters that allow you to look a slice of the games that have happened. 
 
-- Bar plot: # surviving players vs game; color indicates what amount of each alignment was left alive
-- Fiddle with outcome/elim % dot plot
-- Maybe initial bar plot is scatter & by outcome instead? Survival/death distracts a lot from the point
-    - Consider lines of best fit
-- Bubble plot: outcomes vs length
-- Modified sunburst diagram - pie chart that you can click to see the extent of one piece broken down
-- Maybe whole inactivity tab? 
-
-__ __ __ 
-
-Tab options: Outcomes, Broken, Inactivity, format? 
-
-filters: format, broken, mod, gm, winner, complexity, setting, length
-non-filters: game, # of players, alignments, outcomes, inactives, winner, length
-
-__ __ __
-
-Data collection stuff
-- Lot of Broken isn't filled in
-- scrape start and end dates from 17S
-- eventually also scrape votes, quicklinks, etc
+`specific_games.html` - WIP. Will contain options to look at the stats of any particular game, and possibly compare two side-by-side.
 
 
-- Broken things: for conversion games, only first elim is counting
+## Players
+
+`allplayers.html` - WIP. Currently contains a few graphs and a non-functioning filter. 
+
+`specific_players.html` - WIP. Will contain options to look at the stats of any particular player, and possibly compare two side-by-side.
+
+
+All graphs pull from functions in `plots.js`, but are filled in by JavaScript files specific to each page. (e.g. the All Games page pulls from `games.js`.) Data comes from the Sanderson Elimination stats sheet (LINK), imported as a csv, cleaned in the Cleaning folder, and then put into the `datajsons` folder as jsons. 
+
