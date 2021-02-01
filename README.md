@@ -13,6 +13,7 @@ TO DO:
 - about page
 - Footer? 
 - way to pull navbar html automatically? (is it flask (sigh))
+    * Navbar has to be changed by folder
 
 __ __ __ 
 
