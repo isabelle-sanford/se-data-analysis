@@ -11,6 +11,8 @@ TO DO:
 - why are there 2 ToMongos
 - put this somewhere else and make a good readme file
 - about page
+- Footer? 
+- way to pull navbar html automatically? (is it flask (sigh))
 
 __ __ __ 
 
