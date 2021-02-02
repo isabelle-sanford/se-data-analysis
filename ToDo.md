@@ -9,6 +9,7 @@
 ### ????
 - what is the sqlite file here for
 - why are there 2 ToMongos
+- am I gonna need a key for colors somewhere? esp specific evil colors
 
 ### All-pages stuff
 - Footer? 
@@ -31,6 +32,9 @@
 * Bubble plot: outcomes vs length
 * Modified sunburst diagram - pie chart that you can click to see the extent of one piece broken down
 * Maybe whole inactivity tab? 
+
+### Specific games page
+* Players buttons - color=alignment, outline shows win/loss, strikethrough shows death, mouseover for kill type
 
 ## Other
 
