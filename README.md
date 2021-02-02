@@ -1,33 +1,23 @@
 # se-data-analysis
 Analysis of Sanderson Elimination statistics 
 
+Page structure:
 
-TO DO:
-- Change paths for all analysis outputs (done in to_mongo, tbd in ETL one) to account for moving them into Cleaning
+`index.html` - about page. Contains information about me, SE, etc. 
 
+## Games
 
-- Filters - Checkboxes instead of dropdowns? 
-- Tabs? 
-- include number of games you're viewing somewhere - probably in header above dropdowns
+`allgames.html` - most fleshed-out page currently. Contains various visualizations, with six filters that allow you to look a slice of the games that have happened. 
 
-- Bar plot: # surviving players vs game; color indicates what amount of each alignment was left alive
-- Fiddle with outcome/elim % dot plot
-- Maybe initial bar plot is scatter & by outcome instead? Survival/death distracts a lot from the point
-    - Consider lines of best fit
-- Bubble plot: outcomes vs length
-- Modified sunburst diagram - pie chart that you can click to see the extent of one piece broken down
-- Maybe whole inactivity tab? 
-
-Tab options: Outcomes, Broken, Inactivity, format? 
-
-filters: format, broken, mod, gm, winner, complexity, setting, length
-non-filters: game, # of players, alignments, outcomes, inactives, winner, length
+`specific_games.html` - WIP. Will contain options to look at the stats of any particular game, and possibly compare two side-by-side.
 
 
-Data collection stuff
-- Lot of Broken isn't filled in
-- scrape start and end dates from 17S
-- eventually also scrape votes, quicklinks, etc
+## Players
+
+`allplayers.html` - WIP. Currently contains a few graphs and a non-functioning filter. 
+
+`specific_players.html` - WIP. Will contain options to look at the stats of any particular player, and possibly compare two side-by-side.
 
 
-- Broken things: for conversion games, only first elim is counting
+All graphs pull from functions in `plots.js`, but are filled in by JavaScript files specific to each page. (e.g. the All Games page pulls from `games.js`.) Data comes from the Sanderson Elimination stats sheet (LINK), imported as a csv, cleaned in the Cleaning folder, and then put into the `datajsons` folder as jsons. 
+
