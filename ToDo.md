@@ -54,3 +54,9 @@ ___
 
 **Bugs**
 - For conversion games, only first elim is counting
+
+
+
+
+- move `datacsvs` and `datajsons` into a `resources` folder and update references appropriately
+- possibly - create folder for all html pages? (except index)
