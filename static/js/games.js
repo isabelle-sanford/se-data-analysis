@@ -62,6 +62,7 @@ function init_games() {
                 });
 
 
+                // populate GM dropdown
                 var gm_list_messy = initdata.map(d => d.gm);
 
                 var gm_list_redundant = [];
