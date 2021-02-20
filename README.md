@@ -1,9 +1,13 @@
 # se-data-analysis
 Analysis of Sanderson Elimination statistics 
 
-Page structure:
+Site can be found here: https://isabelle-sanford.github.io/se-data-analysis/Games/allgames.html
 
-`index.html` - about page. Contains information about me, SE, etc. 
+
+
+Pages:
+
+`index.html` - about page. Contains information about me, SE, etc. Possibly a better resource than this README at the moment. 
 
 ## Games
 
@@ -21,3 +25,8 @@ Page structure:
 
 All graphs pull from functions in `plots.js`, but are filled in by JavaScript files specific to each page. (e.g. the All Games page pulls from `games.js`.) Data comes from the Sanderson Elimination stats sheet (LINK), imported as a csv, cleaned in the Cleaning folder, and then put into the `datajsons` folder as jsons. 
 
+
+### Languages & Libraries
+* Python (pandas, pymongo, bson.json_util)
+* Mongo DB
+* JavaScript (D3, Plotly), CSS (Bootstrap), HTML

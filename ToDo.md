@@ -19,6 +19,9 @@
 ## About Page
 - about page - Format tabs & fill with content; add how-to above
 
+### README page
+- add links to various libraries used
+
 ## Games
 
 ### All Games page
@@ -54,3 +57,11 @@ ___
 
 **Bugs**
 - For conversion games, only first elim is counting
+
+
+
+
+- move `datacsvs` and `datajsons` into a `resources` folder and update references appropriately
+- possibly - create folder for all html pages? (except index)
+- move ToMongo.ipynb to Cleaning folder and update references (unless can't for some reason? pretty sure it was just convenience, though)
+- split ETL into three files or have all in one; ET and separate L is weird
