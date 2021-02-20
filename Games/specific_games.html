@@ -50,19 +50,22 @@
     </nav>
 
     <div class="container">
+        <!-- make it align left -->
         <div class="row">
-            <div class='col-4 align-items-end'> 
+            <div class='col-4'> 
                 <!-- Button to go back to 'pick games' page -->
+                <button id="back-btn" type="button" class="btn btn-default btn-dark">Choose Another Game</button>
             </div>
         </div>
         
         <div class='row'>
-            <div class="col jumbotron">
+            <div class="col-12 jumbotron">
                 <h1>WORK IN PROGRESS</h1>
                 <h1 id="game-name"></h1>
                 <h3 id='game-title'></h3>
             </div>
 
+        <div class='row'>
             <div class='col-2'>
                 <!-- Table of various stats -->
 
@@ -72,13 +75,13 @@
                     </div>
                     <div id="summ-stats" class="panel-body">
                         <!-- Setting, IM, # players, length, winner -->
-
-
+                        <p>Setting: </p>
+                        <p>IM: </p>
                     </div>
                   </div>
-
-
+                </div>
             </div>
+
 
             <div class='col-10'>
 
@@ -91,6 +94,7 @@
 
                     <div class='col-6'>
                         <!-- Link to SE game page (button) -->
+                        <button id="thread-btn" type="button" class="btn btn-default">Link to Thread</button>
                     </div>
 
 
