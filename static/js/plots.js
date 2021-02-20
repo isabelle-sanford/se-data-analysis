@@ -33,7 +33,7 @@ function SpGBars(x, y1, y2, labels, div) {
 };
 
 
-// Length - Outcome Bar 
+// Length-Outcome Bar 
 function LVbar(x, y, colors, div){
     let my_data = [{
         x: x,
@@ -120,7 +120,7 @@ function outcomeDot(evil_percs, outcomes, mean_perc, mean_outcome, div, labels, 
     Plotly.newPlot(div, data, layout);
 }
 
-
+// Inactivity scatter plot over time
 function inactivePlot(x_value, y_value, labels, div) {
     let data_plot = [{
         x: x_value,
@@ -205,7 +205,7 @@ function drawPiePlot(values, labels, colors, div, title) {
 
 
 
-// -----------------OTHER FUNCTIONS-------------
+// -----------------OTHER NON-PLOT FUNCTIONS-------------
 function value_counts(myList) {
     uniques = [... new Set(myList)];
 

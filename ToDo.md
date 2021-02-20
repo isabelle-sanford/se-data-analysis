@@ -60,3 +60,4 @@ ___
 
 - move `datacsvs` and `datajsons` into a `resources` folder and update references appropriately
 - possibly - create folder for all html pages? (except index)
+- move ToMongo.ipynb to Cleaning folder and update references (unless can't for some reason? pretty sure it was just convenience, though)
