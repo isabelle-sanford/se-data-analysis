@@ -53,6 +53,12 @@ __ __ __
 - eventually also scrape votes, quicklinks, etc
 - figure out how to pull from stats sheet automatically - *once sheet is rearranged properly*
 
+***Stats Sheet To Do***
+* Combine GM/Spec/Mod columns
+* transpose game sheet and fill out last half
+* add validation e v e r y w h e r e
+* mark broken (and how?) in gamedata sheet, not player data
+
 ___ 
 
 **Bugs**
