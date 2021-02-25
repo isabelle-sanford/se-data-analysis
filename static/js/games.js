@@ -1,30 +1,32 @@
+/**
+ * Last modified 2.24.21
+ * All of the primary js code for the allgames.html page; pulls from plots.js 
+ * for plot ideas see ToDo.md; for other tasks search @TODO in here
+ */
 
-// {"_id": {"$oid": "5ffe9492a2561e6c522d15bd"}, "game_id": 0, "game_str": "LG1", "format": 
-// "LG", "game_num": "1", "num_players": 16, "alignment_counts": {"G": 12.0, "E": 4.0}, "outcome_counts": {"L": 12.0, "W": 4.0}, 
-// "status_counts": {"E_death": 5.0, "L_death": 4.0, "V": 1.0, "S_death": 6.0}, "inactives": 0.0, 
-// "broken": 0.0, "mod": 0, "spec": [17, 18, 21], "gm": [31]}, winner, complexity, setting, length
+// there's gotta be a cleaner way to do this. maybe just text file alongside the json?
+/** FOR REFERENCE: single json from gamedata.json--------------------------------------------
+ * {"_id": {"$oid": "5ffe9492a2561e6c522d15bd"}, "game_id": 0, "game_str": "LG1", "format":"LG", 
+ * "game_num": "1", "num_players": 16, "alignment_counts": {"G": 12.0, "E": 4.0}, "outcome_counts": {"L": 12.0, "W": 4.0}, 
+ * "status_counts": {"E_death": 5.0, "L_death": 4.0, "V": 1.0, "S_death": 6.0}, "inactives": 0.0, 
+ * "broken": 0.0, "mod": 0, "spec": [17, 18, 21], "gm": [31]}
+ * PLUS: winner, complexity, setting, length
+ * --------------------------------------------------------
+ * LIST OF VARS (NOT actual var names): 
+ * game, format, # of players, alignments, outcomes, inactives, broken, mod, spec, gm, winner, complexity, setting, length
+ * -----------------------------------------------------------
+ * vars NOT being filtered by: game, # of players, alignments, outcomes, inactives, winner, length
+ * CURRENT FILTERS: Mod, GM, Complexity, Setting, Broken, Format, Time period
+ */
 
-// game, format, # of players, alignments, outcomes, inactives, broken, mod, spec, gm, winner, complexity, setting, length
-// non-filters: game, # of players, alignments, outcomes, inactives, winner, length
-
-
-// OTHER PLOT IDEAS:
-// Bar plot, stacked by alignment, colored different depending on who won
-// Evil % vs outcome ?? - dot plot?
-// # of inactives over time scatter
-
-
-
-// FILTERS: Mod, GM, Complexity, Setting, Broken, Format, Time period
 
 
 
 // -----------------INIT------------------------
+// Run on start and then dropdown changes; does all the plots
 
 function init_games() {
     // pull dropdown values
-    
-    // var inDate = d3.select("#datetime").property("value");
     var myFormat = d3.select('#selFormat').property('value');
     var myComplexity = d3.select('#selComplexity').property('value');
     var mySetting = d3.select('#selSetting').property('value');
@@ -32,39 +34,47 @@ function init_games() {
     var myBroken = d3.select('#selBroken').property('value');
     var myGM = d3.select('#selGM').property('value');
 
-    //console.log(`check for dropdown pulling: ${myGM}`);
-
+    //console.log(`check for dropdown pulling success: ${myGM}`);
 
 
     // pull data and filter appropriately
-    d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/gamedata.json').then(function(initdata) {
+    d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/gamedata.json').then(function(initdata) { //game data
         //console.log(`check for game pulling: ${initdata[0]}`);
+        // @TODO change 'initdata' to 'gamedata' (changed to gamedata anyway in fifty lines or so)
 
 
-        d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/playerdata.json').then(function(playerdata) {
+        d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/playerdata.json').then(function(playerdata) { 
 
             d3.json('https://isabelle-sanford.github.io/se-data-analysis/datajsons/nonplayerdata.json').then(function(npdata) {
 
+                // get and set IDs==================
                 var np_id_list = npdata.map(d => d.player_id);
                 var np_name_list = npdata.map(d => d.player_name);
                 
-            
+                // why is this list1? 
+                // concats np IDs & names (above) with player IDs & names
                 var player_id_list1 = np_id_list.concat(playerdata.map(d => d.player_id));
                 var player_name_list1 = np_name_list.concat(playerdata.map(d => d.player_name));
 
-                
-
+                // get uniques from set of IDs, and match ID to name
                 var player_id_list = [... new Set(player_id_list1)];
                 var player_name_list = [... new Set(player_name_list1)];
                 
+                // I... really feel like there's an easier way to get to this point
+                // how about a PLAYER ID TABLE (@TODO)
                 var player_dict = player_id_list.map((d, i) => {
                     return {'name': player_name_list[i], 'id': d};
                 });
 
 
-                // populate GM dropdown
+                // populate GM dropdown with list of all GMs=================================
+                // @TODO: populate AFTER filters to list only GMs with those games
+                // and again, pretty sure this could be more elegant
+
+                // get lists of GMs
                 var gm_list_messy = initdata.map(d => d.gm);
 
+                // unzip(?) list items with multiple GMs so [1, [1,2], 3] => [1, 1, 2, 3]
                 var gm_list_redundant = [];
                 gm_list_messy.forEach(gms => {
                     gms.forEach(currGM => {
@@ -72,27 +82,28 @@ function init_games() {
                     })
                 });
 
+                // get unique list of GMs 
+                gm_list_clean = [... new Set(gm_list_redundant)]; 
+
                 var gmDropdown = d3.select("#selGM");
 
-                gm_list_clean = [... new Set(gm_list_redundant)]; 
-                
+                // reset dropdown to empty and add 'All'
                 gmDropdown.selectAll('option').remove();
                 gmDropdown.append('option').text('All');
-         
 
                 gm_list_clean.forEach(gm => {
-
                     var currGM = gmDropdown.append('option');
-                    let gm_name = player_dict.filter(p => p.id === gm)[0].name;
+                    let gm_name = player_dict.filter(p => p.id === gm)[0].name; // id -> name
                     currGM.text(gm_name);
                 });
 
 
 
-                
-
-                // FILTERS: Time period
-                var gamedata = initdata;
+                // FILTERS=========================================
+                // if X filter isn't All, filter by that value
+                // Feel like there's a neater way to do this - you can't change multiple dropdowns simultaneously?
+                // But not sure makes much difference in something like this that's messy all over
+                var gamedata = initdata; // don't do this
                 if (myFormat !== 'All') {
                     gamedata = gamedata.filter(d => d.format === myFormat);
                 };
@@ -102,7 +113,6 @@ function init_games() {
                 if (mySetting !== 'All') {
                     gamedata = gamedata.filter(d => d.setting === mySetting);
                 };
-            
                 if (myIM !== 'All') {
                     IM_id = player_dict.filter(d => d.name === myIM)[0].id;
                     gamedata = gamedata.filter(d => d.mod === IM_id);
@@ -114,27 +124,30 @@ function init_games() {
                         gamedata = gamedata.filter(d => !d.broken);
                     }
                 }
-                if (myGM !== 'All') {
+                // populating this twice?? @TODO: combine this and above filling in
+                // (maybe have separate initdata function? but resetting back to all has to still work)
+                if (myGM !== 'All') { 
                     gmDropdown.property('value', myGM);
                     GM_id = player_dict.filter(d => d.name === myGM)[0].id;
                     gamedata = gamedata.filter(d => d.gm.includes(GM_id)); 
                 }
 
 
-                // should print # of games you're looking at somewhere
+                // calculate and print # of games you're looking at after filtering near top of page
                 var num_games = gamedata.length;
                 var html_header = d3.select('#games-header');
                 html_header.select('p').remove();
                 html_header.append('p').text(`Currently viewing: ${num_games} games`);
 
 
-                // pull standard variables
-                var game_ids = gamedata.map(d => d.game_id);
+                // pull standard variables - dubious value, @TODO reconsider 
+                var game_ids = gamedata.map(d => d.game_id); // never used apparently? 
                 var game_names = gamedata.map(d => d.game_str);
                 var n_players = gamedata.map(d => d.num_players);
                 
 
-                // SURVIVE PER GAME BAR
+                // SURVIVE PER GAME BAR=============================================
+                // pull # of people who survived every game (if any)
                 var n_survive = gamedata.map(d => d.status_counts).map(e => {
                     let ns = e.S_death;
                     if (ns === undefined) {
@@ -143,12 +156,16 @@ function init_games() {
                         return ns;
                     }
                 })
+                // get # dead from (num players - num survived)
                 var n_dead = [];
                 for(var i=0; i <= n_players.length; i++) {
                     n_dead.push(n_players[i] - n_survive[i]);
                 }
 
+                // plot (see plots.js for underlying plot function)
                 SpGBars(game_names, n_dead, n_survive, game_names, 'bar-num-survive');
+
+
 
             // drawBarPlot(game_ids, n_survive, game_names, 'bar-num-survive', '# Survived per Game');
                 // var nVsurvive = gamedata.map(d => [d.game_id, d.alignment_counts.G, d.game_str])
@@ -156,11 +173,9 @@ function init_games() {
                 // maybe stacked, num survived per game and num played? 
 
 
-
-
-                // ----------- OUTCOMES -----------------
-                // AVERAGE OUTCOME LENGTH BAR
-                var outcome_stuff = value_counts(gamedata.map(d => d.winner));
+                // OUTCOMES=============================================================
+                // AVERAGE OUTCOME LENGTH BAR-----------------------
+                var outcome_stuff = value_counts(gamedata.map(d => d.winner)); // @TODO rename outcome_stuff (seriously?)
                 var x_val = outcome_stuff[0];
 
                 var y_val = [];
@@ -178,7 +193,7 @@ function init_games() {
                 LVbar(x_val, y_val, lvbar_cols, 'outcomes-length');
                 
 
-                // OUTCOME PIE
+                // OUTCOME PIE-----------------------------------------------
                 var pie_colors = outcome_stuff[0].map(d => outcome_colors[d]);
                 pie_labels = outcome_stuff[0];
 
@@ -192,7 +207,7 @@ function init_games() {
                 outcomePie(outcome_stuff[1], outcome_stuff[0], pie_colors, 'outcome-pie');
 
 
-                // Scatter plot of games v length colored by outcome
+                // Scatter plot of games v length-----------------------------
                 var game_lengths = gamedata.map(d => d.length);
                 
             
@@ -202,7 +217,7 @@ function init_games() {
                 //drawScatter(game_ids, 'game', game_lengths, '# of cycles', game_names, 'length-outcome-scatter', 'Game Outcomes by Game Length', my_colors)
 
 
-                // -----stuff-------------
+                // STUFF (WIP) =====================================================================
                 // Survival % vs evil %
                 var survival_perc = gamedata.map(d => (d.status_counts.S_death / d.num_players)*100);
                 var evil_perc = gamedata.map(d => (d.alignment_counts.E / d.num_players)*100);
@@ -224,6 +239,7 @@ function init_games() {
 
                 //console.log(eviltest);
 
+                // EVIL TEAM SIZE DOT PLOT------------------------------
                 x_dot = eviltest.map(d => d.evil_perc);
                 y_dot = eviltest.map(d => d.outcome);
                 y_labels = eviltest.map(d => d.game_name);
@@ -240,37 +256,40 @@ function init_games() {
                 console.log(dot_outcomes);
 
                 var dot_colors = y_dot.map(d => outcome_colors[d]);
-                
 
                 outcomeDot(x_dot, y_dot, outcomes_avg, dot_outcomes, 'outcome-evil-perc', y_labels, dot_colors);
-                // notes: add big dot for average; add colors
+                
 
-
+                // INACTIVE OVER TIME SCATTER PLOT
                 var num_inactives = gamedata.map(d => d.inactives);
 
                 inactivePlot(game_names, num_inactives, game_names, 'inactive-bar');
 
+
+                // TABLE=================================================================
+                // cols: game name,  gm, # of players, # survived, winner, broken, # inactives, complexity, setting, length, mod,
                 var tbody = d3.select("tbody");
-                tbody.html("");
+                tbody.html(""); // reset rows to 0
 
                 var tabledata = gamedata.map(d => {
-                    let mod_name = player_dict.filter(p => p.id === d.mod)[0];
+                    let mod_name = player_dict.filter(p => p.id === d.mod)[0]; //IM id=>name
                     if (mod_name === undefined) {
                         mod_name = "-";
                     } else {
                         mod_name = mod_name.name;
                     }
 
+                    // get GM names
                     let gms_id = d.gm;
                     let gm_names = [];
-                
                     gms_id.forEach(gm => {
                         curr_name = player_dict.filter(p => p.id === gm);
                         gm_names.push(curr_name[0].name);
                     });
 
+                    // 
                     var is_broken = "Y";
-                    if (d.broken === 0) {
+                    if (d.broken === 0) { // broken is N for values not filled in yet
                         is_broken = "N";
                     }
 
@@ -279,7 +298,7 @@ function init_games() {
                         gm_names.join(', '), 
                         d.winner, 
                         d.num_players, 
-                        d.status_counts.S_death, 
+                        d.status_counts.S_death, // # survived
                         d.complexity, 
                         d.setting, 
                         d.length, 
@@ -287,7 +306,10 @@ function init_games() {
                         mod_name,
                         d.inactives];
                 });
-
+                // @TODO: make ^ into a function?? Function in for loop rather than just for loop?
+                // idk consider it
+                
+                // fill in table data with function above
                 tabledata.forEach(function(game) {
                     let row = tbody.append("tr");
                     Object.entries(game).forEach(function([key, value]) {
@@ -296,10 +318,6 @@ function init_games() {
                         cell.style('color', outcome_colors[value]);
                     });
                 });
-
-                // TABLE
-                // game name,  gm, # of players, # survived, winner, broken, # inactives, complexity, setting, length, mod,
-
 
             });
 
@@ -310,18 +328,10 @@ function init_games() {
 
 
 
-
-// -----------------FILTER----------------------
-
-
-
-
-
-
-
-
-
 init_games();
+
+
+
 
 
 

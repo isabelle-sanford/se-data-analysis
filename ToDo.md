@@ -1,23 +1,25 @@
 # To Do
 
-### File Structure
+### File Structure / cross-files tasks
 - Change paths for all analysis outputs (done in to_mongo, tbd in ETL one) to account for moving them into Cleaning
 - Move cleaning/dataX into resources folder? 
 - Change Games & Player folder names to be more clear about what they do?
 - Divide static folder into one for each page? 
+- Comment code ala CS246 (esp header comment)
 
 ### ????
 - what is the sqlite file here for
 - why are there 2 ToMongos
 - am I gonna need a key for colors somewhere? esp specific evil colors
 
-### All-pages stuff
+### All-pages html stuff
 - Footer? 
 - way to pull navbar html automatically? (is it flask (sigh))
     * Navbar has to be changed by folder for links to work
 
 ## About Page
 - about page - Format tabs & fill with content; add how-to above
+- Diagram of how mafia works? 
 
 ### README page
 - add links to various libraries used
@@ -29,17 +31,28 @@
 * Tabs to show specific things? (Outcomes, Broken, Inactivity, format? )
 * Fiddle with outcome/elim % dot plot
 #### plot ideas
-* Bar plot: # surviving players vs game; color indicates what amount of each alignment was left alive
+* Bar plot: # surviving players vs game; color indicates what amount of each alignment was left alive (and colored by win?)
 * Maybe initial bar plot is scatter & by outcome instead? Survival/death distracts a lot from the point
     - Consider lines of best fit
 * Bubble plot: outcomes vs length
 * Modified sunburst diagram - pie chart that you can click to see the extent of one piece broken down
-* Maybe whole inactivity tab? 
+* Maybe whole inactivity tab/page?  
+* Evil % vs outcome ?? - dot plot?
+// # of inactives over time scatter
 
 ### Specific games page
 * Players buttons - color=alignment, outline shows win/loss, strikethrough shows death, mouseover for kill type
 
+## Players
+
+### All players page
+* at least make interactive
+
 ## Other
+
+### Other page ideas
+- Inactivity
+- Broken
 
 **game variables**
 filters: format, broken, mod, gm, winner, complexity, setting, length
@@ -65,7 +78,8 @@ ___
 - For conversion games, only first elim is counting
 
 
-
+**Transforms**
+* rename S_death so it's not directly unintuitive
 
 - move `datacsvs` and `datajsons` into a `resources` folder and update references appropriately
 - possibly - create folder for all html pages? (except index)
